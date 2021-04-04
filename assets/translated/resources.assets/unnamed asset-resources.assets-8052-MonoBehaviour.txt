@@ -1,0 +1,152 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5875
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2973
+ 1 string m_Name = ""
+ 0 PPtr<$GameObject> mPreviewObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 UnityEvent OnRedraw
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 1 UInt8 keepOrthoSize = 0
+ 1 UInt8 paperEffectText = 0
+ 1 UInt8 vRSpaceText = 0
+ 0 float vRSpaceScale = 0.100000001
+ 1 UInt8 maintainLabelSize = 0
+ 0 PieEvent PieClicked
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 PieEvent PieHovered
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 UnityEvent NonHovered
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 int meshSegements = 20
+ 0 float startAngle = 94.8000031
+ 0 float angleSpan = 360
+ 0 float spacingAngle = 0
+ 0 float radius = 100
+ 0 float torusRadius = 0
+ 0 float extrusion = 0
+ 0 PieData Data
+  0 CategoryData mCategories
+   0 Array Array (3 items)
+    0 int size = 3
+    [0]
+     0 CategoryData data
+      1 string Name = "Category 1"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 30
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 0
+        0 float g = 0
+        0 float b = 0
+        0 float a = 0
+      0 float RadiusScale = 1
+      0 float DepthScale = 1
+      0 float DepthOffset = 0
+    [1]
+     0 CategoryData data
+      1 string Name = "Category 2"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 31
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 0
+        0 float g = 0
+        0 float b = 0
+        0 float a = 0
+      0 float RadiusScale = 1
+      0 float DepthScale = 1
+      0 float DepthOffset = 0
+    [2]
+     0 CategoryData data
+      1 string Name = "Category 3"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 32
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 0
+        0 float g = 0
+        0 float b = 0
+        0 float a = 0
+      0 float RadiusScale = 1
+      0 float DepthScale = 1
+      0 float DepthOffset = 0
+  0 vector mGroups
+   0 Array Array (1 items)
+    0 int size = 1
+    [0]
+     1 string data = "Pie"
+  0 DataEntry mData
+   0 Array Array (3 items)
+    0 int size = 3
+    [0]
+     0 DataEntry data
+      1 string GroupName = "Pie"
+      1 string ColumnName = "Category 1"
+      0 double Amount = 10
+    [1]
+     0 DataEntry data
+      1 string GroupName = "Pie"
+      1 string ColumnName = "Category 2"
+      0 double Amount = 5
+    [2]
+     0 DataEntry data
+      1 string GroupName = "Pie"
+      1 string ColumnName = "Category 3"
+      0 double Amount = 7
+ 1 UInt8 clockWise = 0
+ 0 PPtr<$PieCanvasGenerator> prefab
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 8075
+ 0 float lineThickness = 1
+ 0 float lineSpacing = 29.0100002
+ 0 PPtr<$Material> lineMaterial
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 26
+ 0 PPtr<$RectTransform> Container
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$Text> Title
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$Text> Info
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$Image> Image
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0

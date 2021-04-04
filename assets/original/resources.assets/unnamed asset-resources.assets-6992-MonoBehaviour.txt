@@ -1,0 +1,28 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5845
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 3387
+ 1 string m_Name = ""
+ 0 PPtr<$Material> PointMaterial
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 4
+ 0 PPtr<$Material> LineMaterial
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 77
+ 0 float Length = 30
+ 0 float Gap = 5
+ 0 float Thickness = 2
+ 0 float PointSize = 5
+ 0 PPtr<$CanvasLines> Lines
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7617
+ 0 PPtr<$CanvasLines> Point
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7384
+ 0 PPtr<$MonoBehaviour> Text
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6995

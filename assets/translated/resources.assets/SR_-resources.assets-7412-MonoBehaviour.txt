@@ -1,0 +1,48 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5669
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2164
+ 1 string m_Name = "SR_"
+ 0 PPtr<$ConsoleLogControl> ConsoleLogControl
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7563
+ 0 PPtr<$Toggle> PinToggle
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7813
+ 0 PPtr<$ScrollRect> StackTraceScrollRect
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7186
+ 0 PPtr<$Text> StackTraceText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7271
+ 0 PPtr<$Toggle> ToggleErrors
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7062
+ 0 PPtr<$Text> ToggleErrorsText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7658
+ 0 PPtr<$Toggle> ToggleInfo
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7525
+ 0 PPtr<$Text> ToggleInfoText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7653
+ 0 PPtr<$Toggle> ToggleWarnings
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7524
+ 0 PPtr<$Text> ToggleWarningsText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7657
+ 0 PPtr<$Toggle> FilterToggle
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7340
+ 0 PPtr<$InputField> FilterField
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7498
+ 0 PPtr<$GameObject> FilterBarContainer
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5647

@@ -1,0 +1,33 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5508
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2199
+ 1 string m_Name = "SR_"
+ 0 PPtr<$Canvas> Canvas
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6270
+ 0 PPtr<$RectTransform> Container
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6385
+ 0 PPtr<$DockConsoleController> DockConsoleController
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7495
+ 0 PPtr<$GameObject> Options
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5646
+ 0 PPtr<$FlowLayoutGroup> OptionsLayoutGroup
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7175
+ 0 PPtr<$GameObject> Profiler
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5670
+ 0 PPtr<$HandleManager> ProfilerHandleManager
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7520
+ 0 PPtr<$VerticalLayoutGroup> ProfilerVerticalLayoutGroup
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7293

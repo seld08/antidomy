@@ -1,0 +1,24 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5387
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 152
+ 1 string m_Name = "SR_"
+ 0 PPtr<$RectTransform> TabButtonContainer
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6317
+ 0 PPtr<$SRTabButton> TabButtonPrefab
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7172
+ 0 PPtr<$RectTransform> TabContentsContainer
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6312
+ 0 PPtr<$RectTransform> TabHeaderContentContainer
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6685
+ 0 PPtr<$Text> TabHeaderText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7039

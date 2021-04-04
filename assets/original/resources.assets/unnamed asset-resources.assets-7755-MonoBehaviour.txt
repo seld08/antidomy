@@ -1,0 +1,36 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5867
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 391
+ 1 string m_Name = ""
+ 0 float TimeScale = 4
+ 0 AnimationCurve GrowEaseFunction
+  0 vector m_Curve
+   0 Array Array (2 items)
+    0 int size = 2
+    [0]
+     0 Keyframe data
+      0 float time = 0
+      0 float value = 0
+      0 float inSlope = 0
+      0 float outSlope = 0
+    [1]
+     0 Keyframe data
+      0 float time = 0
+      0 float value = 0.333333343
+      0 float inSlope = 0.333333343
+      0 float outSlope = 1
+  0 int m_PreInfinity = 1065353216
+  0 int m_PostInfinity = 0
+  0 int m_RotationOrder = 0
+ 0 AnimationCurve ShrinkEaseFunction
+  0 vector m_Curve
+   0 Array Array (0 items)
+    0 int size = 0
+  0 int m_PreInfinity = 1051372203
+  0 int m_PostInfinity = 1051372203
+  0 int m_RotationOrder = 2

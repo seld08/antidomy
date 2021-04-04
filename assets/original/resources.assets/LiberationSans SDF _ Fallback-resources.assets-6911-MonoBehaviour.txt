@@ -1,0 +1,980 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2005
+ 1 string m_Name = "LiberationSans SDF - Fallback"
+ 0 int hashCode = -1699145518
+ 0 PPtr<$Material> material
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 96
+ 0 int materialHashCode = -1183942120
+ 1 string m_Version = "1.1.0"
+ 1 string m_SourceFontFileGUID = "e3265ab4bf004d28a9537516768c1c75"
+ 0 PPtr<$Font> m_SourceFontFile
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5308
+ 0 int m_AtlasPopulationMode = 1
+ 0 FaceInfo m_FaceInfo
+  1 string m_FamilyName = "Liberation Sans"
+  1 string m_StyleName = "Regular"
+  0 int m_PointSize = 86
+  0 float m_Scale = 1
+  0 float m_LineHeight = 98.8916016
+  0 float m_AscentLine = 77.8535156
+  0 float m_CapLine = 59
+  0 float m_MeanLine = 45
+  0 float m_Baseline = 0
+  0 float m_DescentLine = -18.2246094
+  0 float m_SuperscriptOffset = 77.8535156
+  0 float m_SuperscriptSize = 0.5
+  0 float m_SubscriptOffset = -18.2246094
+  0 float m_SubscriptSize = 0.5
+  0 float m_UnderlineOffset = -12.2617188
+  0 float m_UnderlineThickness = 6.29882813
+  0 float m_StrikethroughOffset = 18
+  0 float m_StrikethroughThickness = 6.29882813
+  0 float m_TabWidth = 24
+ 0 Glyph m_GlyphTable
+  0 Array Array (16 items)
+   0 int size = 16
+   [0]
+    0 Glyph data
+     0 unsigned int m_Index = 66
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 51
+      0 float m_Height = 6
+      0 float m_HorizontalBearingX = -2
+      0 float m_HorizontalBearingY = -12
+      0 float m_HorizontalAdvance = 48
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 10
+      0 int m_Y = 10
+      0 int m_Width = 51
+      0 int m_Height = 6
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [1]
+    0 Glyph data
+     0 unsigned int m_Index = 2030
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 64
+      0 float m_Height = 9
+      0 float m_HorizontalBearingX = 11
+      0 float m_HorizontalBearingY = 9
+      0 float m_HorizontalAdvance = 86
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 80
+      0 int m_Y = 10
+      0 int m_Width = 64
+      0 int m_Height = 9
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [2]
+    0 Glyph data
+     0 unsigned int m_Index = 49
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 48
+      0 float m_Height = 59
+      0 float m_HorizontalBearingX = 7
+      0 float m_HorizontalBearingY = 59
+      0 float m_HorizontalAdvance = 62
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 10
+      0 int m_Y = 35
+      0 int m_Width = 48
+      0 int m_Height = 59
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [3]
+    0 Glyph data
+     0 unsigned int m_Index = 72
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 42
+      0 float m_Height = 47
+      0 float m_HorizontalBearingX = 3
+      0 float m_HorizontalBearingY = 46
+      0 float m_HorizontalAdvance = 48
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 163
+      0 int m_Y = 10
+      0 int m_Width = 42
+      0 int m_Height = 47
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [4]
+    0 Glyph data
+     0 unsigned int m_Index = 90
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 63
+      0 float m_Height = 45
+      0 float m_HorizontalBearingX = -1
+      0 float m_HorizontalBearingY = 45
+      0 float m_HorizontalAdvance = 61
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 77
+      0 int m_Y = 38
+      0 int m_Width = 63
+      0 int m_Height = 45
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [5]
+    0 Glyph data
+     0 unsigned int m_Index = 3
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 0
+      0 float m_Height = 0
+      0 float m_HorizontalBearingX = 0
+      0 float m_HorizontalBearingY = 0
+      0 float m_HorizontalAdvance = 24
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 0
+      0 int m_Y = 0
+      0 int m_Width = 0
+      0 int m_Height = 0
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [6]
+    0 Glyph data
+     0 unsigned int m_Index = 55
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 50
+      0 float m_Height = 59
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 59
+      0 float m_HorizontalAdvance = 52
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 224
+      0 int m_Y = 10
+      0 int m_Width = 50
+      0 int m_Height = 59
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [7]
+    0 Glyph data
+     0 unsigned int m_Index = 91
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 43
+      0 float m_Height = 45
+      0 float m_HorizontalBearingX = 0
+      0 float m_HorizontalBearingY = 45
+      0 float m_HorizontalAdvance = 43
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 159
+      0 int m_Y = 76
+      0 int m_Width = 43
+      0 int m_Height = 45
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [8]
+    0 Glyph data
+     0 unsigned int m_Index = 87
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 23
+      0 float m_Height = 56
+      0 float m_HorizontalBearingX = 1
+      0 float m_HorizontalBearingY = 55
+      0 float m_HorizontalAdvance = 24
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 77
+      0 int m_Y = 102
+      0 int m_Width = 23
+      0 int m_Height = 56
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [9]
+    0 Glyph data
+     0 unsigned int m_Index = 82
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 42
+      0 float m_Height = 47
+      0 float m_HorizontalBearingX = 3
+      0 float m_HorizontalBearingY = 46
+      0 float m_HorizontalAdvance = 48
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 10
+      0 int m_Y = 113
+      0 int m_Width = 42
+      0 int m_Height = 47
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [10]
+    0 Glyph data
+     0 unsigned int m_Index = 47
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 39
+      0 float m_Height = 59
+      0 float m_HorizontalBearingX = 7
+      0 float m_HorizontalBearingY = 59
+      0 float m_HorizontalAdvance = 48
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 293
+      0 int m_Y = 10
+      0 int m_Width = 39
+      0 int m_Height = 59
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [11]
+    0 Glyph data
+     0 unsigned int m_Index = 68
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 45
+      0 float m_Height = 47
+      0 float m_HorizontalBearingX = 3
+      0 float m_HorizontalBearingY = 46
+      0 float m_HorizontalAdvance = 48
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 351
+      0 int m_Y = 10
+      0 int m_Width = 45
+      0 int m_Height = 47
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [12]
+    0 Glyph data
+     0 unsigned int m_Index = 71
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 40
+      0 float m_Height = 63
+      0 float m_HorizontalBearingX = 3
+      0 float m_HorizontalBearingY = 62
+      0 float m_HorizontalAdvance = 48
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 415
+      0 int m_Y = 10
+      0 int m_Width = 40
+      0 int m_Height = 63
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [13]
+    0 Glyph data
+     0 unsigned int m_Index = 76
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 9
+      0 float m_Height = 62
+      0 float m_HorizontalBearingX = 5
+      0 float m_HorizontalBearingY = 62
+      0 float m_HorizontalAdvance = 19
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 119
+      0 int m_Y = 102
+      0 int m_Width = 9
+      0 int m_Height = 62
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [14]
+    0 Glyph data
+     0 unsigned int m_Index = 81
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 38
+      0 float m_Height = 46
+      0 float m_HorizontalBearingX = 5
+      0 float m_HorizontalBearingY = 46
+      0 float m_HorizontalAdvance = 48
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 351
+      0 int m_Y = 76
+      0 int m_Width = 38
+      0 int m_Height = 46
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+   [15]
+    0 Glyph data
+     0 unsigned int m_Index = 74
+     0 GlyphMetrics m_Metrics
+      0 float m_Width = 40
+      0 float m_Height = 64
+      0 float m_HorizontalBearingX = 3
+      0 float m_HorizontalBearingY = 46
+      0 float m_HorizontalAdvance = 48
+     0 GlyphRect m_GlyphRect
+      0 int m_X = 10
+      0 int m_Y = 179
+      0 int m_Width = 40
+      0 int m_Height = 64
+     0 float m_Scale = 1
+     0 int m_AtlasIndex = 0
+ 0 TMP_Character m_CharacterTable
+  0 Array Array (16 items)
+   0 int size = 16
+   [0]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 95
+     0 unsigned int m_GlyphIndex = 66
+     0 float m_Scale = 1
+   [1]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 8230
+     0 unsigned int m_GlyphIndex = 2030
+     0 float m_Scale = 1
+   [2]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 78
+     0 unsigned int m_GlyphIndex = 49
+     0 float m_Scale = 1
+   [3]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 101
+     0 unsigned int m_GlyphIndex = 72
+     0 float m_Scale = 1
+   [4]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 119
+     0 unsigned int m_GlyphIndex = 90
+     0 float m_Scale = 1
+   [5]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 32
+     0 unsigned int m_GlyphIndex = 3
+     0 float m_Scale = 1
+   [6]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 84
+     0 unsigned int m_GlyphIndex = 55
+     0 float m_Scale = 1
+   [7]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 120
+     0 unsigned int m_GlyphIndex = 91
+     0 float m_Scale = 1
+   [8]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 116
+     0 unsigned int m_GlyphIndex = 87
+     0 float m_Scale = 1
+   [9]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 111
+     0 unsigned int m_GlyphIndex = 82
+     0 float m_Scale = 1
+   [10]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 76
+     0 unsigned int m_GlyphIndex = 47
+     0 float m_Scale = 1
+   [11]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 97
+     0 unsigned int m_GlyphIndex = 68
+     0 float m_Scale = 1
+   [12]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 100
+     0 unsigned int m_GlyphIndex = 71
+     0 float m_Scale = 1
+   [13]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 105
+     0 unsigned int m_GlyphIndex = 76
+     0 float m_Scale = 1
+   [14]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 110
+     0 unsigned int m_GlyphIndex = 81
+     0 float m_Scale = 1
+   [15]
+    0 TMP_Character data
+     0 int m_ElementType = 1
+     0 unsigned int m_Unicode = 103
+     0 unsigned int m_GlyphIndex = 74
+     0 float m_Scale = 1
+ 0 vector m_AtlasTextures
+  0 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 PPtr<$Texture2D> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 345
+ 0 int m_AtlasTextureIndex = 0
+ 0 GlyphRect m_UsedGlyphRects
+  0 Array Array (15 items)
+   0 int size = 15
+   [0]
+    0 GlyphRect data
+     0 int m_X = 0
+     0 int m_Y = 0
+     0 int m_Width = 70
+     0 int m_Height = 25
+   [1]
+    0 GlyphRect data
+     0 int m_X = 70
+     0 int m_Y = 0
+     0 int m_Width = 83
+     0 int m_Height = 28
+   [2]
+    0 GlyphRect data
+     0 int m_X = 0
+     0 int m_Y = 25
+     0 int m_Width = 67
+     0 int m_Height = 78
+   [3]
+    0 GlyphRect data
+     0 int m_X = 153
+     0 int m_Y = 0
+     0 int m_Width = 61
+     0 int m_Height = 66
+   [4]
+    0 GlyphRect data
+     0 int m_X = 67
+     0 int m_Y = 28
+     0 int m_Width = 82
+     0 int m_Height = 64
+   [5]
+    0 GlyphRect data
+     0 int m_X = 214
+     0 int m_Y = 0
+     0 int m_Width = 69
+     0 int m_Height = 78
+   [6]
+    0 GlyphRect data
+     0 int m_X = 149
+     0 int m_Y = 66
+     0 int m_Width = 62
+     0 int m_Height = 64
+   [7]
+    0 GlyphRect data
+     0 int m_X = 67
+     0 int m_Y = 92
+     0 int m_Width = 42
+     0 int m_Height = 75
+   [8]
+    0 GlyphRect data
+     0 int m_X = 0
+     0 int m_Y = 103
+     0 int m_Width = 61
+     0 int m_Height = 66
+   [9]
+    0 GlyphRect data
+     0 int m_X = 283
+     0 int m_Y = 0
+     0 int m_Width = 58
+     0 int m_Height = 78
+   [10]
+    0 GlyphRect data
+     0 int m_X = 341
+     0 int m_Y = 0
+     0 int m_Width = 64
+     0 int m_Height = 66
+   [11]
+    0 GlyphRect data
+     0 int m_X = 405
+     0 int m_Y = 0
+     0 int m_Width = 59
+     0 int m_Height = 82
+   [12]
+    0 GlyphRect data
+     0 int m_X = 109
+     0 int m_Y = 92
+     0 int m_Width = 28
+     0 int m_Height = 81
+   [13]
+    0 GlyphRect data
+     0 int m_X = 341
+     0 int m_Y = 66
+     0 int m_Width = 57
+     0 int m_Height = 65
+   [14]
+    0 GlyphRect data
+     0 int m_X = 0
+     0 int m_Y = 169
+     0 int m_Width = 59
+     0 int m_Height = 83
+ 0 GlyphRect m_FreeGlyphRects
+  0 Array Array (15 items)
+   0 int size = 15
+   [0]
+    0 GlyphRect data
+     0 int m_X = 67
+     0 int m_Y = 25
+     0 int m_Width = 3
+     0 int m_Height = 3
+   [1]
+    0 GlyphRect data
+     0 int m_X = 149
+     0 int m_Y = 28
+     0 int m_Width = 4
+     0 int m_Height = 38
+   [2]
+    0 GlyphRect data
+     0 int m_X = 211
+     0 int m_Y = 66
+     0 int m_Width = 3
+     0 int m_Height = 445
+   [3]
+    0 GlyphRect data
+     0 int m_X = 61
+     0 int m_Y = 103
+     0 int m_Width = 6
+     0 int m_Height = 408
+   [4]
+    0 GlyphRect data
+     0 int m_X = 464
+     0 int m_Y = 0
+     0 int m_Width = 47
+     0 int m_Height = 511
+   [5]
+    0 GlyphRect data
+     0 int m_X = 137
+     0 int m_Y = 92
+     0 int m_Width = 12
+     0 int m_Height = 419
+   [6]
+    0 GlyphRect data
+     0 int m_X = 61
+     0 int m_Y = 167
+     0 int m_Width = 48
+     0 int m_Height = 344
+   [7]
+    0 GlyphRect data
+     0 int m_X = 398
+     0 int m_Y = 82
+     0 int m_Width = 113
+     0 int m_Height = 429
+   [8]
+    0 GlyphRect data
+     0 int m_X = 211
+     0 int m_Y = 78
+     0 int m_Width = 130
+     0 int m_Height = 433
+   [9]
+    0 GlyphRect data
+     0 int m_X = 398
+     0 int m_Y = 66
+     0 int m_Width = 7
+     0 int m_Height = 445
+   [10]
+    0 GlyphRect data
+     0 int m_X = 137
+     0 int m_Y = 131
+     0 int m_Width = 374
+     0 int m_Height = 380
+   [11]
+    0 GlyphRect data
+     0 int m_X = 137
+     0 int m_Y = 130
+     0 int m_Width = 204
+     0 int m_Height = 381
+   [12]
+    0 GlyphRect data
+     0 int m_X = 0
+     0 int m_Y = 252
+     0 int m_Width = 511
+     0 int m_Height = 259
+   [13]
+    0 GlyphRect data
+     0 int m_X = 59
+     0 int m_Y = 173
+     0 int m_Width = 452
+     0 int m_Height = 338
+   [14]
+    0 GlyphRect data
+     0 int m_X = 59
+     0 int m_Y = 169
+     0 int m_Width = 50
+     0 int m_Height = 342
+ 0 FaceInfo_Legacy m_fontInfo
+  1 string Name = "Liberation Sans"
+  0 float PointSize = 86
+  0 float Scale = 1
+  0 int CharacterCount = 250
+  0 float LineHeight = 98.90625
+  0 float Baseline = 0
+  0 float Ascender = 77.84375
+  0 float CapHeight = 59.1875
+  0 float Descender = -18.21875
+  0 float CenterLine = 0
+  0 float SuperscriptOffset = 77.84375
+  0 float SubscriptOffset = -12.2617188
+  0 float SubSize = 0.5
+  0 float Underline = -12.2617188
+  0 float UnderlineThickness = 6.29882813
+  0 float strikethrough = 23.6749992
+  0 float strikethroughThickness = 0
+  0 float TabWidth = 239.0625
+  0 float Padding = 9
+  0 float AtlasWidth = 1024
+  0 float AtlasHeight = 1024
+ 0 PPtr<$Texture2D> atlas
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 int m_AtlasWidth = 512
+ 0 int m_AtlasHeight = 512
+ 0 int m_AtlasPadding = 9
+ 0 int m_AtlasRenderMode = 4169
+ 0 TMP_Glyph m_glyphInfoList
+  0 Array Array (0 items)
+   0 int size = 0
+ 0 KerningTable m_KerningTable
+  0 KerningPair kerningPairs
+   0 Array Array (0 items)
+    0 int size = 0
+ 0 TMP_FontFeatureTable m_FontFeatureTable
+  0 TMP_GlyphPairAdjustmentRecord m_GlyphPairAdjustmentRecords
+   0 Array Array (9 items)
+    0 int size = 9
+    [0]
+     0 TMP_GlyphPairAdjustmentRecord data
+      0 TMP_GlyphAdjustmentRecord m_FirstAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 3
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = -1.546875
+        0 float m_YAdvance = 0
+      0 TMP_GlyphAdjustmentRecord m_SecondAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 55
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = 0
+        0 float m_YAdvance = 0
+      0 int m_FeatureLookupFlags = 0
+    [1]
+     0 TMP_GlyphPairAdjustmentRecord data
+      0 TMP_GlyphAdjustmentRecord m_FirstAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 47
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = -3.1875
+        0 float m_YAdvance = 0
+      0 TMP_GlyphAdjustmentRecord m_SecondAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 3
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = 0
+        0 float m_YAdvance = 0
+      0 int m_FeatureLookupFlags = 0
+    [2]
+     0 TMP_GlyphPairAdjustmentRecord data
+      0 TMP_GlyphAdjustmentRecord m_FirstAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 47
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = -6.390625
+        0 float m_YAdvance = 0
+      0 TMP_GlyphAdjustmentRecord m_SecondAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 55
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = 0
+        0 float m_YAdvance = 0
+      0 int m_FeatureLookupFlags = 0
+    [3]
+     0 TMP_GlyphPairAdjustmentRecord data
+      0 TMP_GlyphAdjustmentRecord m_FirstAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 55
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = -1.546875
+        0 float m_YAdvance = 0
+      0 TMP_GlyphAdjustmentRecord m_SecondAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 3
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = 0
+        0 float m_YAdvance = 0
+      0 int m_FeatureLookupFlags = 0
+    [4]
+     0 TMP_GlyphPairAdjustmentRecord data
+      0 TMP_GlyphAdjustmentRecord m_FirstAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 55
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = -9.53125
+        0 float m_YAdvance = 0
+      0 TMP_GlyphAdjustmentRecord m_SecondAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 68
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = 0
+        0 float m_YAdvance = 0
+      0 int m_FeatureLookupFlags = 0
+    [5]
+     0 TMP_GlyphPairAdjustmentRecord data
+      0 TMP_GlyphAdjustmentRecord m_FirstAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 55
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = -9.53125
+        0 float m_YAdvance = 0
+      0 TMP_GlyphAdjustmentRecord m_SecondAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 72
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = 0
+        0 float m_YAdvance = 0
+      0 int m_FeatureLookupFlags = 0
+    [6]
+     0 TMP_GlyphPairAdjustmentRecord data
+      0 TMP_GlyphAdjustmentRecord m_FirstAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 55
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = -3.1875
+        0 float m_YAdvance = 0
+      0 TMP_GlyphAdjustmentRecord m_SecondAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 76
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = 0
+        0 float m_YAdvance = 0
+      0 int m_FeatureLookupFlags = 0
+    [7]
+     0 TMP_GlyphPairAdjustmentRecord data
+      0 TMP_GlyphAdjustmentRecord m_FirstAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 55
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = -9.53125
+        0 float m_YAdvance = 0
+      0 TMP_GlyphAdjustmentRecord m_SecondAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 82
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = 0
+        0 float m_YAdvance = 0
+      0 int m_FeatureLookupFlags = 0
+    [8]
+     0 TMP_GlyphPairAdjustmentRecord data
+      0 TMP_GlyphAdjustmentRecord m_FirstAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 55
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = -4.75
+        0 float m_YAdvance = 0
+      0 TMP_GlyphAdjustmentRecord m_SecondAdjustmentRecord
+       0 unsigned int m_GlyphIndex = 90
+       0 TMP_GlyphValueRecord m_GlyphValueRecord
+        0 float m_XPlacement = 0
+        0 float m_YPlacement = 0
+        0 float m_XAdvance = 0
+        0 float m_YAdvance = 0
+      0 int m_FeatureLookupFlags = 0
+ 0 vector fallbackFontAssets
+  0 Array Array (0 items)
+   0 int size = 0
+ 0 vector m_FallbackFontAssetTable
+  0 Array Array (0 items)
+   0 int size = 0
+ 0 FontAssetCreationSettings m_CreationSettings
+  1 string sourceFontFileName = ""
+  1 string sourceFontFileGUID = "e3265ab4bf004d28a9537516768c1c75"
+  0 int pointSizeSamplingMode = 0
+  0 int pointSize = 86
+  0 int padding = 9
+  0 int packingMode = 4
+  0 int atlasWidth = 512
+  0 int atlasHeight = 512
+  0 int characterSetSelectionMode = 1
+  1 string characterSequence = "32 - 126, 160 - 255, 8192 - 8303, 8364, 8482, 9633"
+  1 string referencedFontAssetGUID = "8f586378b4e144a9851e7b34d9b748ee"
+  1 string referencedTextAssetGUID = ""
+  0 int fontStyle = 0
+  0 float fontStyleModifier = 0
+  0 int renderMode = 4169
+  1 UInt8 includeFontFeatures = 1
+ 0 TMP_FontWeightPair m_FontWeightTable
+  0 Array Array (10 items)
+   0 int size = 10
+   [0]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [1]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [2]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [3]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [4]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [5]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [6]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [7]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [8]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [9]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+ 0 TMP_FontWeightPair fontWeights
+  0 Array Array (10 items)
+   0 int size = 10
+   [0]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [1]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [2]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [3]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [4]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [5]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [6]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [7]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [8]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [9]
+    0 TMP_FontWeightPair data
+     0 PPtr<$TMP_FontAsset> regularTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 PPtr<$TMP_FontAsset> italicTypeface
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+ 0 float normalStyle = 0
+ 0 float normalSpacingOffset = 0
+ 0 float boldStyle = 0.75
+ 0 float boldSpacing = 7
+ 1 UInt8 italicStyle = 35
+ 1 UInt8 tabSize = 10

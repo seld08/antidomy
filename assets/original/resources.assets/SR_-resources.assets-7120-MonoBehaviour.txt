@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5628
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2762
+ 1 string m_Name = "SR_"
+ 0 PPtr<$Text> CurrentUsedText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7390
+ 0 PPtr<$GameObject> NotSupportedMessage
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5627
+ 0 PPtr<$Slider> Slider
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7308
+ 0 PPtr<$Text> TotalAllocatedText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7124

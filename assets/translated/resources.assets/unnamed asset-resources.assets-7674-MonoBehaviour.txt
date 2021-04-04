@@ -1,0 +1,85 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5437
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 787
+ 1 string m_Name = ""
+ 0 PPtr<$GameObject> mPreviewObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 UnityEvent OnRedraw
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 1 UInt8 keepOrthoSize = 0
+ 1 UInt8 paperEffectText = 0
+ 1 UInt8 vRSpaceText = 0
+ 0 float vRSpaceScale = 0.100000001
+ 1 UInt8 maintainLabelSize = 0
+ 0 float radius = 3.8599999
+ 0 float angle = 0
+ 0 PPtr<$Material> axisPointMaterial
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 83
+ 0 PPtr<$Material> axisLineMaterial
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 84
+ 0 float axisThickness = 0.280000001
+ 0 float axisPointSize = 0.850000024
+ 0 float axisAdd = -0.270000011
+ 0 int totalAxisDevisions = 3
+ 0 RadarEvent PointClicked
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 RadarEvent PointHovered
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 UnityEvent NonHovered
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 RadarChartData Data
+  0 CategoryData mCategories
+   0 Array Array (1 items)
+    0 int size = 1
+    [0]
+     0 CategoryData data
+      1 string Name = "Player 1"
+      0 float Seperation = -1.40999997
+      0 float Curve = 0.620000005
+      0 PPtr<$Material> FillMaterial
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 46
+      0 int FillSmoothing = 10
+      0 float LineThickness = 0
+      0 PPtr<$Material> LineMaterial
+       0 int m_FileID = 7141
+       0 SInt64 m_PathID = 0
+      0 PPtr<$GameObject> PointPrefab
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 4477658892486049792
+      0 float PointSize = 0
+      0 PPtr<$Material> PointMaterial
+       0 int m_FileID = 46
+       0 SInt64 m_PathID = 0
+      0 double MaxValue = 2.7608388289608857e-320
+  0 vector mGroups
+   0 Array Array (0 items)
+    0 int size = 0
+  0 DataEntry mData
+   0 Array Array (0 items)
+    0 int size = 0
+  1 UInt8 automaticMaxValue = 0
+  0 double maxValue = 5.2220990168285998e-315
+ 0 PPtr<$GameObject> axisPointPrefab
+  0 int m_FileID = 46
+  0 SInt64 m_PathID = 0

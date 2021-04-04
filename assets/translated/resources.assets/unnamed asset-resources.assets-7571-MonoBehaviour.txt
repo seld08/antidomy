@@ -1,0 +1,76 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5464
+ 1 UInt8 m_Enabled = 0
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 242
+ 1 string m_Name = ""
+ 1 UInt8 SimpleView = 1
+ 0 int format = 0
+ 0 AutoFloat depth
+  1 UInt8 Automatic = 0
+  0 float Value = 0
+ 0 ChartMainDivisionInfo mainDivisions
+  0 int messure = 0
+  0 float unitsPerDivision = 0
+  0 int total = 3
+  0 PPtr<$Material> material
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+  0 MaterialTiling materialTiling
+   1 UInt8 EnableTiling = 0
+   0 float TileFactor = 100
+  0 AutoFloat markBackLength
+   1 UInt8 Automatic = 1
+   0 float Value = 0.5
+  0 AutoFloat markLength
+   1 UInt8 Automatic = 1
+   0 float Value = 0.5
+  0 AutoFloat markDepth
+   1 UInt8 Automatic = 1
+   0 float Value = 0.5
+  0 float markThickness = 0.829999983
+  0 PPtr<$MonoBehaviour> textPrefab
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+  1 string textPrefix = ""
+  1 string textSuffix = ""
+  0 int fractionDigits = 2
+  0 int fontSize = 12
+  0 float fontSharpness = 3
+  0 float textDepth = 0
+  0 float textSeperation = 0
+  0 int alignment = 1
+ 0 ChartSubDivisionInfo subDivisions
+  0 int messure = 0
+  0 float unitsPerDivision = 0
+  0 int total = 3
+  0 PPtr<$Material> material
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+  0 MaterialTiling materialTiling
+   1 UInt8 EnableTiling = 0
+   0 float TileFactor = 100
+  0 AutoFloat markBackLength
+   1 UInt8 Automatic = 1
+   0 float Value = 0.5
+  0 AutoFloat markLength
+   1 UInt8 Automatic = 1
+   0 float Value = 0.5
+  0 AutoFloat markDepth
+   1 UInt8 Automatic = 1
+   0 float Value = 0.5
+  0 float markThickness = 0.829999983
+  0 PPtr<$MonoBehaviour> textPrefab
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+  1 string textPrefix = ""
+  1 string textSuffix = ""
+  0 int fractionDigits = 2
+  0 int fontSize = 12
+  0 float fontSharpness = 3
+  0 float textDepth = 0
+  0 float textSeperation = 0
+  0 int alignment = 1

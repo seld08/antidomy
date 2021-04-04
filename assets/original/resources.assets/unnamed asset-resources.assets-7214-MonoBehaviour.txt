@@ -1,0 +1,18 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5850
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1214
+ 1 string m_Name = ""
+ 0 PPtr<$Toggle> SelectionModeToggle
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7333
+ 0 PPtr<$Text> ValueText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7209
+ 0 PPtr<$Text> Title
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7204

@@ -1,0 +1,30 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5714
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2648
+ 1 string m_Name = "SR_"
+ 0 PPtr<$ActionControl> ActionControlPrefab
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 8017
+ 0 PPtr<$CategoryGroup> CategoryGroupPrefab
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7464
+ 0 PPtr<$RectTransform> ContentContainer
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6629
+ 0 PPtr<$GameObject> NoOptionsNotice
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5488
+ 0 PPtr<$Toggle> PinButton
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7452
+ 0 PPtr<$GameObject> PinPromptSpacer
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5524
+ 0 PPtr<$GameObject> PinPromptText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5429

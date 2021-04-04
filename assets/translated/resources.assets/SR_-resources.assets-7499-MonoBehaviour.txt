@@ -1,0 +1,35 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5491
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1103
+ 1 string m_Name = "SR_"
+ 0 PPtr<$Toggle> SelectionModeToggle
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 8042
+ 0 PPtr<$LayoutElement> ContentLayoutElement
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7239
+ 0 vector DisableOnReadOnly
+  0 Array Array (2 items)
+   0 int size = 2
+   [0]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5496
+   [1]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5493
+ 0 PPtr<$SRSpinner> Spinner
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7185
+ 0 PPtr<$Text> Title
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7244
+ 0 PPtr<$Text> Value
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7240

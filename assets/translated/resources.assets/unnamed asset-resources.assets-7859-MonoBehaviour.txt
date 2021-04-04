@@ -1,0 +1,24 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5426
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 3046
+ 1 string m_Name = ""
+ 1 UInt8 HandleEvents = 0
+ 0 ChartDynamicMaterial materials
+  0 PPtr<$Material> Normal
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 79
+  0 ColorRGBA Hover
+   0 float r = 1
+   0 float g = 1
+   0 float b = 1
+   0 float a = 1
+  0 ColorRGBA Selected
+   0 float r = 0
+   0 float g = 0
+   0 float b = 0
+   0 float a = 0

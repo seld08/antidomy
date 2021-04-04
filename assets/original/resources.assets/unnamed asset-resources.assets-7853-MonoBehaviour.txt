@@ -1,0 +1,24 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5469
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1672
+ 1 string m_Name = ""
+ 0 PPtr<$MonoBehaviour> textPrefab
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 8070
+ 0 TextFormatting textFormat
+  1 string prefix = ""
+  1 string suffix = ""
+  1 string customFormat = ""
+ 0 int fontSize = 14
+ 0 float fontSharpness = 1
+ 0 float seperation = 14.0299997
+ 0 ChartOrientedSize location
+  0 float Breadth = 0
+  0 float Depth = 0
+ 0 int alignment = 0
+ 0 int fractionDigits = 0

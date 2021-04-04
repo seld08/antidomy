@@ -1,0 +1,76 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5673
+ 1 UInt8 m_Enabled = 0
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2064
+ 1 string m_Name = ""
+ 1 UInt8 SimpleView = 1
+ 0 int format = 0
+ 0 AutoFloat depth
+  1 UInt8 Automatic = 0
+  0 float Value = 0
+ 0 ChartMainDivisionInfo mainDivisions
+  0 int messure = 0
+  0 float unitsPerDivision = 0
+  0 int total = 3
+  0 PPtr<$Material> material
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 37
+  0 MaterialTiling materialTiling
+   1 UInt8 EnableTiling = 0
+   0 float TileFactor = 100
+  0 AutoFloat markBackLength
+   1 UInt8 Automatic = 0
+   0 float Value = 6.80000019
+  0 AutoFloat markLength
+   1 UInt8 Automatic = 0
+   0 float Value = -0.409999996
+  0 AutoFloat markDepth
+   1 UInt8 Automatic = 0
+   0 float Value = 6.9000001
+  0 float markThickness = 0.170000002
+  0 PPtr<$MonoBehaviour> textPrefab
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+  1 string textPrefix = ""
+  1 string textSuffix = ""
+  0 int fractionDigits = 2
+  0 int fontSize = 4
+  0 float fontSharpness = 3
+  0 float textDepth = -0.180000007
+  0 float textSeperation = -0.709999979
+  0 int alignment = 1
+ 0 ChartSubDivisionInfo subDivisions
+  0 int messure = 0
+  0 float unitsPerDivision = 0
+  0 int total = 3
+  0 PPtr<$Material> material
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 38
+  0 MaterialTiling materialTiling
+   1 UInt8 EnableTiling = 0
+   0 float TileFactor = 100
+  0 AutoFloat markBackLength
+   1 UInt8 Automatic = 0
+   0 float Value = 6.80000019
+  0 AutoFloat markLength
+   1 UInt8 Automatic = 0
+   0 float Value = -0.409999996
+  0 AutoFloat markDepth
+   1 UInt8 Automatic = 0
+   0 float Value = 6.9000001
+  0 float markThickness = 0.170000002
+  0 PPtr<$MonoBehaviour> textPrefab
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+  1 string textPrefix = ""
+  1 string textSuffix = ""
+  0 int fractionDigits = 2
+  0 int fontSize = 4
+  0 float fontSharpness = 3
+  0 float textDepth = -0.180000007
+  0 float textSeperation = -0.709999979
+  0 int alignment = 1

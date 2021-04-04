@@ -1,0 +1,45 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 3659
+ 1 string m_Name = "DefaultConsoleSelectedRow"
+ 0 vector _keys
+  0 Array Array (1 items)
+   0 int size = 1
+   [0]
+    1 string data = "Console_Entry_BG"
+ 0 Style _styles
+  0 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 Style data
+     0 ColorRGBA ActiveColor
+      0 float r = 1
+      0 float g = 1
+      0 float b = 1
+      0 float a = 1
+     0 ColorRGBA DisabledColor
+      0 float r = 1
+      0 float g = 1
+      0 float b = 1
+      0 float a = 1
+     0 ColorRGBA HoverColor
+      0 float r = 1
+      0 float g = 1
+      0 float b = 1
+      0 float a = 1
+     0 PPtr<$Sprite> Image
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+     0 ColorRGBA NormalColor
+      0 float r = 0.243137255
+      0 float g = 0.372549027
+      0 float b = 0.58431375
+      0 float a = 0.823529422
+ 0 PPtr<$StyleSheet> Parent
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6906

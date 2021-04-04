@@ -1,0 +1,15 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5483
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 979
+ 1 string m_Name = ""
+ 0 PPtr<$ScrollRect> _scrollRect
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7644
+ 0 PPtr<$CanvasGroup> _canvasGroup
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6791

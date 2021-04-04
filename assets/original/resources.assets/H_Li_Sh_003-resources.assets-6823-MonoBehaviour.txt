@@ -1,0 +1,7701 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 3258
+ 1 string m_Name = "H_Li_Sh_003"
+ 0 int cellSize = 64
+ 0 int padding = 3
+ 0 vector atlasTextures
+  0 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 PPtr<$Texture2D> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 226
+ 0 DicingTextureData textureDataList
+  0 Array Array (8 items)
+   0 int size = 8
+   [0]
+    0 DicingTextureData data
+     1 string name = "H_Li_Sh_003_001"
+     1 string atlasName = "H_Li_Sh_003_Atlas0"
+     0 int width = 1440
+     0 int height = 1080
+     0 vector cellIndexList
+      0 Array Array (475 items)
+       0 int size = 475
+       [0]
+        0 int data = 0
+       [1]
+        0 int data = 1
+       [2]
+        0 int data = 2
+       [3]
+        0 int data = 3
+       [4]
+        0 int data = 4
+       [5]
+        0 int data = 5
+       [6]
+        0 int data = 6
+       [7]
+        0 int data = 7
+       [8]
+        0 int data = 8
+       [9]
+        0 int data = 9
+       [10]
+        0 int data = 10
+       [11]
+        0 int data = 11
+       [12]
+        0 int data = 12
+       [13]
+        0 int data = 13
+       [14]
+        0 int data = 14
+       [15]
+        0 int data = 15
+       [16]
+        0 int data = 16
+       [17]
+        0 int data = 17
+       [18]
+        0 int data = 18
+       [19]
+        0 int data = 19
+       [20]
+        0 int data = 20
+       [21]
+        0 int data = 21
+       [22]
+        0 int data = 22
+       [23]
+        0 int data = 23
+       [24]
+        0 int data = 24
+       [25]
+        0 int data = 25
+       [26]
+        0 int data = 26
+       [27]
+        0 int data = 27
+       [28]
+        0 int data = 28
+       [29]
+        0 int data = 29
+       [30]
+        0 int data = 30
+       [31]
+        0 int data = 31
+       [32]
+        0 int data = 32
+       [33]
+        0 int data = 33
+       [34]
+        0 int data = 34
+       [35]
+        0 int data = 35
+       [36]
+        0 int data = 36
+       [37]
+        0 int data = 37
+       [38]
+        0 int data = 38
+       [39]
+        0 int data = 39
+       [40]
+        0 int data = 40
+       [41]
+        0 int data = 41
+       [42]
+        0 int data = 42
+       [43]
+        0 int data = 43
+       [44]
+        0 int data = 44
+       [45]
+        0 int data = 45
+       [46]
+        0 int data = 46
+       [47]
+        0 int data = 47
+       [48]
+        0 int data = 48
+       [49]
+        0 int data = 49
+       [50]
+        0 int data = 50
+       [51]
+        0 int data = 51
+       [52]
+        0 int data = 52
+       [53]
+        0 int data = 53
+       [54]
+        0 int data = 54
+       [55]
+        0 int data = 55
+       [56]
+        0 int data = 56
+       [57]
+        0 int data = 57
+       [58]
+        0 int data = 58
+       [59]
+        0 int data = 59
+       [60]
+        0 int data = 60
+       [61]
+        0 int data = 61
+       [62]
+        0 int data = 62
+       [63]
+        0 int data = 63
+       [64]
+        0 int data = 64
+       [65]
+        0 int data = 65
+       [66]
+        0 int data = 66
+       [67]
+        0 int data = 67
+       [68]
+        0 int data = 68
+       [69]
+        0 int data = 69
+       [70]
+        0 int data = 70
+       [71]
+        0 int data = 71
+       [72]
+        0 int data = 72
+       [73]
+        0 int data = 73
+       [74]
+        0 int data = 74
+       [75]
+        0 int data = 75
+       [76]
+        0 int data = 76
+       [77]
+        0 int data = 77
+       [78]
+        0 int data = 78
+       [79]
+        0 int data = 79
+       [80]
+        0 int data = 80
+       [81]
+        0 int data = 81
+       [82]
+        0 int data = 82
+       [83]
+        0 int data = 83
+       [84]
+        0 int data = 84
+       [85]
+        0 int data = 85
+       [86]
+        0 int data = 86
+       [87]
+        0 int data = 87
+       [88]
+        0 int data = 88
+       [89]
+        0 int data = 89
+       [90]
+        0 int data = 90
+       [91]
+        0 int data = 91
+       [92]
+        0 int data = 92
+       [93]
+        0 int data = 93
+       [94]
+        0 int data = 94
+       [95]
+        0 int data = 95
+       [96]
+        0 int data = 96
+       [97]
+        0 int data = 97
+       [98]
+        0 int data = 98
+       [99]
+        0 int data = 99
+       [100]
+        0 int data = 100
+       [101]
+        0 int data = 101
+       [102]
+        0 int data = 102
+       [103]
+        0 int data = 103
+       [104]
+        0 int data = 104
+       [105]
+        0 int data = 105
+       [106]
+        0 int data = 106
+       [107]
+        0 int data = 107
+       [108]
+        0 int data = 108
+       [109]
+        0 int data = 109
+       [110]
+        0 int data = 110
+       [111]
+        0 int data = 111
+       [112]
+        0 int data = 112
+       [113]
+        0 int data = 113
+       [114]
+        0 int data = 114
+       [115]
+        0 int data = 115
+       [116]
+        0 int data = 116
+       [117]
+        0 int data = 117
+       [118]
+        0 int data = 118
+       [119]
+        0 int data = 119
+       [120]
+        0 int data = 120
+       [121]
+        0 int data = 121
+       [122]
+        0 int data = 122
+       [123]
+        0 int data = 123
+       [124]
+        0 int data = 124
+       [125]
+        0 int data = 125
+       [126]
+        0 int data = 126
+       [127]
+        0 int data = 127
+       [128]
+        0 int data = 128
+       [129]
+        0 int data = 129
+       [130]
+        0 int data = 130
+       [131]
+        0 int data = 131
+       [132]
+        0 int data = 132
+       [133]
+        0 int data = 133
+       [134]
+        0 int data = 134
+       [135]
+        0 int data = 135
+       [136]
+        0 int data = 136
+       [137]
+        0 int data = 137
+       [138]
+        0 int data = 138
+       [139]
+        0 int data = 139
+       [140]
+        0 int data = 140
+       [141]
+        0 int data = 141
+       [142]
+        0 int data = 142
+       [143]
+        0 int data = 143
+       [144]
+        0 int data = 144
+       [145]
+        0 int data = 145
+       [146]
+        0 int data = 146
+       [147]
+        0 int data = 147
+       [148]
+        0 int data = 148
+       [149]
+        0 int data = 149
+       [150]
+        0 int data = 150
+       [151]
+        0 int data = 151
+       [152]
+        0 int data = 152
+       [153]
+        0 int data = 153
+       [154]
+        0 int data = 154
+       [155]
+        0 int data = 155
+       [156]
+        0 int data = 156
+       [157]
+        0 int data = 157
+       [158]
+        0 int data = 158
+       [159]
+        0 int data = 159
+       [160]
+        0 int data = 160
+       [161]
+        0 int data = 161
+       [162]
+        0 int data = 162
+       [163]
+        0 int data = 163
+       [164]
+        0 int data = 164
+       [165]
+        0 int data = 165
+       [166]
+        0 int data = 166
+       [167]
+        0 int data = 167
+       [168]
+        0 int data = 168
+       [169]
+        0 int data = 169
+       [170]
+        0 int data = 170
+       [171]
+        0 int data = 171
+       [172]
+        0 int data = 172
+       [173]
+        0 int data = 173
+       [174]
+        0 int data = 174
+       [175]
+        0 int data = 175
+       [176]
+        0 int data = 176
+       [177]
+        0 int data = 177
+       [178]
+        0 int data = 178
+       [179]
+        0 int data = 179
+       [180]
+        0 int data = 180
+       [181]
+        0 int data = 181
+       [182]
+        0 int data = 182
+       [183]
+        0 int data = 183
+       [184]
+        0 int data = 184
+       [185]
+        0 int data = 185
+       [186]
+        0 int data = 186
+       [187]
+        0 int data = 187
+       [188]
+        0 int data = 188
+       [189]
+        0 int data = 189
+       [190]
+        0 int data = 190
+       [191]
+        0 int data = 191
+       [192]
+        0 int data = 192
+       [193]
+        0 int data = 193
+       [194]
+        0 int data = 194
+       [195]
+        0 int data = 195
+       [196]
+        0 int data = 196
+       [197]
+        0 int data = 197
+       [198]
+        0 int data = 198
+       [199]
+        0 int data = 199
+       [200]
+        0 int data = 200
+       [201]
+        0 int data = 201
+       [202]
+        0 int data = 202
+       [203]
+        0 int data = 203
+       [204]
+        0 int data = 204
+       [205]
+        0 int data = 205
+       [206]
+        0 int data = 206
+       [207]
+        0 int data = 207
+       [208]
+        0 int data = 208
+       [209]
+        0 int data = 209
+       [210]
+        0 int data = 210
+       [211]
+        0 int data = 211
+       [212]
+        0 int data = 212
+       [213]
+        0 int data = 213
+       [214]
+        0 int data = 214
+       [215]
+        0 int data = 215
+       [216]
+        0 int data = 216
+       [217]
+        0 int data = 217
+       [218]
+        0 int data = 218
+       [219]
+        0 int data = 219
+       [220]
+        0 int data = 220
+       [221]
+        0 int data = 221
+       [222]
+        0 int data = 222
+       [223]
+        0 int data = 223
+       [224]
+        0 int data = 224
+       [225]
+        0 int data = 225
+       [226]
+        0 int data = 226
+       [227]
+        0 int data = 227
+       [228]
+        0 int data = 228
+       [229]
+        0 int data = 229
+       [230]
+        0 int data = 230
+       [231]
+        0 int data = 231
+       [232]
+        0 int data = 232
+       [233]
+        0 int data = 233
+       [234]
+        0 int data = 234
+       [235]
+        0 int data = 235
+       [236]
+        0 int data = 236
+       [237]
+        0 int data = 237
+       [238]
+        0 int data = 238
+       [239]
+        0 int data = 239
+       [240]
+        0 int data = 240
+       [241]
+        0 int data = 241
+       [242]
+        0 int data = 242
+       [243]
+        0 int data = 243
+       [244]
+        0 int data = 244
+       [245]
+        0 int data = 245
+       [246]
+        0 int data = 246
+       [247]
+        0 int data = 247
+       [248]
+        0 int data = 248
+       [249]
+        0 int data = 249
+       [250]
+        0 int data = 250
+       [251]
+        0 int data = 251
+       [252]
+        0 int data = 252
+       [253]
+        0 int data = 253
+       [254]
+        0 int data = 254
+       [255]
+        0 int data = 255
+       [256]
+        0 int data = 256
+       [257]
+        0 int data = 257
+       [258]
+        0 int data = 258
+       [259]
+        0 int data = 259
+       [260]
+        0 int data = 260
+       [261]
+        0 int data = 261
+       [262]
+        0 int data = 262
+       [263]
+        0 int data = 263
+       [264]
+        0 int data = 264
+       [265]
+        0 int data = 265
+       [266]
+        0 int data = 266
+       [267]
+        0 int data = 267
+       [268]
+        0 int data = 268
+       [269]
+        0 int data = 269
+       [270]
+        0 int data = 270
+       [271]
+        0 int data = 271
+       [272]
+        0 int data = 272
+       [273]
+        0 int data = 273
+       [274]
+        0 int data = 274
+       [275]
+        0 int data = 275
+       [276]
+        0 int data = 276
+       [277]
+        0 int data = 277
+       [278]
+        0 int data = 278
+       [279]
+        0 int data = 279
+       [280]
+        0 int data = 280
+       [281]
+        0 int data = 281
+       [282]
+        0 int data = 282
+       [283]
+        0 int data = 283
+       [284]
+        0 int data = 284
+       [285]
+        0 int data = 285
+       [286]
+        0 int data = 286
+       [287]
+        0 int data = 287
+       [288]
+        0 int data = 288
+       [289]
+        0 int data = 289
+       [290]
+        0 int data = 290
+       [291]
+        0 int data = 291
+       [292]
+        0 int data = 292
+       [293]
+        0 int data = 293
+       [294]
+        0 int data = 294
+       [295]
+        0 int data = 295
+       [296]
+        0 int data = 296
+       [297]
+        0 int data = 297
+       [298]
+        0 int data = 298
+       [299]
+        0 int data = 299
+       [300]
+        0 int data = 300
+       [301]
+        0 int data = 301
+       [302]
+        0 int data = 302
+       [303]
+        0 int data = 303
+       [304]
+        0 int data = 304
+       [305]
+        0 int data = 305
+       [306]
+        0 int data = 306
+       [307]
+        0 int data = 307
+       [308]
+        0 int data = 308
+       [309]
+        0 int data = 309
+       [310]
+        0 int data = 310
+       [311]
+        0 int data = 311
+       [312]
+        0 int data = 312
+       [313]
+        0 int data = 313
+       [314]
+        0 int data = 314
+       [315]
+        0 int data = 315
+       [316]
+        0 int data = 316
+       [317]
+        0 int data = 317
+       [318]
+        0 int data = 318
+       [319]
+        0 int data = 319
+       [320]
+        0 int data = 320
+       [321]
+        0 int data = 321
+       [322]
+        0 int data = 322
+       [323]
+        0 int data = 323
+       [324]
+        0 int data = 324
+       [325]
+        0 int data = 325
+       [326]
+        0 int data = 326
+       [327]
+        0 int data = 327
+       [328]
+        0 int data = 328
+       [329]
+        0 int data = 329
+       [330]
+        0 int data = 330
+       [331]
+        0 int data = 331
+       [332]
+        0 int data = 332
+       [333]
+        0 int data = 333
+       [334]
+        0 int data = 334
+       [335]
+        0 int data = 335
+       [336]
+        0 int data = 336
+       [337]
+        0 int data = 337
+       [338]
+        0 int data = 338
+       [339]
+        0 int data = 339
+       [340]
+        0 int data = 340
+       [341]
+        0 int data = 341
+       [342]
+        0 int data = 342
+       [343]
+        0 int data = 343
+       [344]
+        0 int data = 344
+       [345]
+        0 int data = 345
+       [346]
+        0 int data = 346
+       [347]
+        0 int data = 347
+       [348]
+        0 int data = 348
+       [349]
+        0 int data = 349
+       [350]
+        0 int data = 350
+       [351]
+        0 int data = 351
+       [352]
+        0 int data = 352
+       [353]
+        0 int data = 353
+       [354]
+        0 int data = 354
+       [355]
+        0 int data = 355
+       [356]
+        0 int data = 356
+       [357]
+        0 int data = 357
+       [358]
+        0 int data = 358
+       [359]
+        0 int data = 359
+       [360]
+        0 int data = 360
+       [361]
+        0 int data = 361
+       [362]
+        0 int data = 362
+       [363]
+        0 int data = 363
+       [364]
+        0 int data = 364
+       [365]
+        0 int data = 365
+       [366]
+        0 int data = 366
+       [367]
+        0 int data = 367
+       [368]
+        0 int data = 368
+       [369]
+        0 int data = 369
+       [370]
+        0 int data = 370
+       [371]
+        0 int data = 371
+       [372]
+        0 int data = 372
+       [373]
+        0 int data = 373
+       [374]
+        0 int data = 374
+       [375]
+        0 int data = 375
+       [376]
+        0 int data = 376
+       [377]
+        0 int data = 377
+       [378]
+        0 int data = 378
+       [379]
+        0 int data = 379
+       [380]
+        0 int data = 380
+       [381]
+        0 int data = 381
+       [382]
+        0 int data = 382
+       [383]
+        0 int data = 383
+       [384]
+        0 int data = 384
+       [385]
+        0 int data = 385
+       [386]
+        0 int data = 386
+       [387]
+        0 int data = 387
+       [388]
+        0 int data = 388
+       [389]
+        0 int data = 389
+       [390]
+        0 int data = 390
+       [391]
+        0 int data = 391
+       [392]
+        0 int data = 392
+       [393]
+        0 int data = 393
+       [394]
+        0 int data = 394
+       [395]
+        0 int data = 395
+       [396]
+        0 int data = 396
+       [397]
+        0 int data = 397
+       [398]
+        0 int data = 398
+       [399]
+        0 int data = 399
+       [400]
+        0 int data = 400
+       [401]
+        0 int data = 401
+       [402]
+        0 int data = 402
+       [403]
+        0 int data = 403
+       [404]
+        0 int data = 404
+       [405]
+        0 int data = 405
+       [406]
+        0 int data = 406
+       [407]
+        0 int data = 407
+       [408]
+        0 int data = 408
+       [409]
+        0 int data = 409
+       [410]
+        0 int data = 410
+       [411]
+        0 int data = 411
+       [412]
+        0 int data = 412
+       [413]
+        0 int data = 413
+       [414]
+        0 int data = 414
+       [415]
+        0 int data = 415
+       [416]
+        0 int data = 416
+       [417]
+        0 int data = 417
+       [418]
+        0 int data = 418
+       [419]
+        0 int data = 419
+       [420]
+        0 int data = 420
+       [421]
+        0 int data = 421
+       [422]
+        0 int data = 422
+       [423]
+        0 int data = 423
+       [424]
+        0 int data = 424
+       [425]
+        0 int data = 425
+       [426]
+        0 int data = 426
+       [427]
+        0 int data = 427
+       [428]
+        0 int data = 428
+       [429]
+        0 int data = 429
+       [430]
+        0 int data = 430
+       [431]
+        0 int data = 431
+       [432]
+        0 int data = 432
+       [433]
+        0 int data = 433
+       [434]
+        0 int data = 434
+       [435]
+        0 int data = 435
+       [436]
+        0 int data = 436
+       [437]
+        0 int data = 437
+       [438]
+        0 int data = 438
+       [439]
+        0 int data = 439
+       [440]
+        0 int data = 440
+       [441]
+        0 int data = 441
+       [442]
+        0 int data = 442
+       [443]
+        0 int data = 443
+       [444]
+        0 int data = 444
+       [445]
+        0 int data = 445
+       [446]
+        0 int data = 446
+       [447]
+        0 int data = 447
+       [448]
+        0 int data = 448
+       [449]
+        0 int data = 449
+       [450]
+        0 int data = 450
+       [451]
+        0 int data = 451
+       [452]
+        0 int data = 452
+       [453]
+        0 int data = 453
+       [454]
+        0 int data = 454
+       [455]
+        0 int data = 455
+       [456]
+        0 int data = 456
+       [457]
+        0 int data = 457
+       [458]
+        0 int data = 458
+       [459]
+        0 int data = 459
+       [460]
+        0 int data = 460
+       [461]
+        0 int data = 461
+       [462]
+        0 int data = 462
+       [463]
+        0 int data = 463
+       [464]
+        0 int data = 464
+       [465]
+        0 int data = 465
+       [466]
+        0 int data = 466
+       [467]
+        0 int data = 467
+       [468]
+        0 int data = 468
+       [469]
+        0 int data = 469
+       [470]
+        0 int data = 470
+       [471]
+        0 int data = 471
+       [472]
+        0 int data = 472
+       [473]
+        0 int data = 473
+       [474]
+        0 int data = 474
+     0 int transparentIndex = -1
+   [1]
+    0 DicingTextureData data
+     1 string name = "H_Li_Sh_003_002"
+     1 string atlasName = "H_Li_Sh_003_Atlas0"
+     0 int width = 1440
+     0 int height = 1080
+     0 vector cellIndexList
+      0 Array Array (475 items)
+       0 int size = 475
+       [0]
+        0 int data = 0
+       [1]
+        0 int data = 1
+       [2]
+        0 int data = 2
+       [3]
+        0 int data = 3
+       [4]
+        0 int data = 4
+       [5]
+        0 int data = 5
+       [6]
+        0 int data = 6
+       [7]
+        0 int data = 7
+       [8]
+        0 int data = 8
+       [9]
+        0 int data = 9
+       [10]
+        0 int data = 10
+       [11]
+        0 int data = 11
+       [12]
+        0 int data = 12
+       [13]
+        0 int data = 13
+       [14]
+        0 int data = 14
+       [15]
+        0 int data = 15
+       [16]
+        0 int data = 16
+       [17]
+        0 int data = 17
+       [18]
+        0 int data = 18
+       [19]
+        0 int data = 19
+       [20]
+        0 int data = 20
+       [21]
+        0 int data = 21
+       [22]
+        0 int data = 22
+       [23]
+        0 int data = 23
+       [24]
+        0 int data = 24
+       [25]
+        0 int data = 25
+       [26]
+        0 int data = 26
+       [27]
+        0 int data = 27
+       [28]
+        0 int data = 28
+       [29]
+        0 int data = 29
+       [30]
+        0 int data = 30
+       [31]
+        0 int data = 31
+       [32]
+        0 int data = 32
+       [33]
+        0 int data = 33
+       [34]
+        0 int data = 34
+       [35]
+        0 int data = 35
+       [36]
+        0 int data = 36
+       [37]
+        0 int data = 37
+       [38]
+        0 int data = 38
+       [39]
+        0 int data = 39
+       [40]
+        0 int data = 40
+       [41]
+        0 int data = 41
+       [42]
+        0 int data = 42
+       [43]
+        0 int data = 43
+       [44]
+        0 int data = 44
+       [45]
+        0 int data = 45
+       [46]
+        0 int data = 46
+       [47]
+        0 int data = 47
+       [48]
+        0 int data = 48
+       [49]
+        0 int data = 49
+       [50]
+        0 int data = 50
+       [51]
+        0 int data = 51
+       [52]
+        0 int data = 52
+       [53]
+        0 int data = 53
+       [54]
+        0 int data = 54
+       [55]
+        0 int data = 55
+       [56]
+        0 int data = 56
+       [57]
+        0 int data = 57
+       [58]
+        0 int data = 58
+       [59]
+        0 int data = 59
+       [60]
+        0 int data = 60
+       [61]
+        0 int data = 61
+       [62]
+        0 int data = 62
+       [63]
+        0 int data = 63
+       [64]
+        0 int data = 64
+       [65]
+        0 int data = 65
+       [66]
+        0 int data = 66
+       [67]
+        0 int data = 67
+       [68]
+        0 int data = 68
+       [69]
+        0 int data = 69
+       [70]
+        0 int data = 70
+       [71]
+        0 int data = 71
+       [72]
+        0 int data = 72
+       [73]
+        0 int data = 73
+       [74]
+        0 int data = 74
+       [75]
+        0 int data = 75
+       [76]
+        0 int data = 76
+       [77]
+        0 int data = 77
+       [78]
+        0 int data = 78
+       [79]
+        0 int data = 79
+       [80]
+        0 int data = 80
+       [81]
+        0 int data = 81
+       [82]
+        0 int data = 82
+       [83]
+        0 int data = 83
+       [84]
+        0 int data = 84
+       [85]
+        0 int data = 85
+       [86]
+        0 int data = 86
+       [87]
+        0 int data = 87
+       [88]
+        0 int data = 88
+       [89]
+        0 int data = 89
+       [90]
+        0 int data = 90
+       [91]
+        0 int data = 91
+       [92]
+        0 int data = 92
+       [93]
+        0 int data = 93
+       [94]
+        0 int data = 94
+       [95]
+        0 int data = 95
+       [96]
+        0 int data = 96
+       [97]
+        0 int data = 97
+       [98]
+        0 int data = 98
+       [99]
+        0 int data = 99
+       [100]
+        0 int data = 100
+       [101]
+        0 int data = 101
+       [102]
+        0 int data = 102
+       [103]
+        0 int data = 103
+       [104]
+        0 int data = 104
+       [105]
+        0 int data = 105
+       [106]
+        0 int data = 106
+       [107]
+        0 int data = 107
+       [108]
+        0 int data = 108
+       [109]
+        0 int data = 109
+       [110]
+        0 int data = 110
+       [111]
+        0 int data = 111
+       [112]
+        0 int data = 112
+       [113]
+        0 int data = 113
+       [114]
+        0 int data = 114
+       [115]
+        0 int data = 115
+       [116]
+        0 int data = 116
+       [117]
+        0 int data = 117
+       [118]
+        0 int data = 118
+       [119]
+        0 int data = 119
+       [120]
+        0 int data = 120
+       [121]
+        0 int data = 121
+       [122]
+        0 int data = 122
+       [123]
+        0 int data = 123
+       [124]
+        0 int data = 124
+       [125]
+        0 int data = 125
+       [126]
+        0 int data = 126
+       [127]
+        0 int data = 127
+       [128]
+        0 int data = 128
+       [129]
+        0 int data = 129
+       [130]
+        0 int data = 130
+       [131]
+        0 int data = 131
+       [132]
+        0 int data = 132
+       [133]
+        0 int data = 133
+       [134]
+        0 int data = 134
+       [135]
+        0 int data = 135
+       [136]
+        0 int data = 136
+       [137]
+        0 int data = 137
+       [138]
+        0 int data = 138
+       [139]
+        0 int data = 139
+       [140]
+        0 int data = 140
+       [141]
+        0 int data = 141
+       [142]
+        0 int data = 142
+       [143]
+        0 int data = 143
+       [144]
+        0 int data = 144
+       [145]
+        0 int data = 145
+       [146]
+        0 int data = 146
+       [147]
+        0 int data = 147
+       [148]
+        0 int data = 148
+       [149]
+        0 int data = 149
+       [150]
+        0 int data = 150
+       [151]
+        0 int data = 151
+       [152]
+        0 int data = 152
+       [153]
+        0 int data = 153
+       [154]
+        0 int data = 154
+       [155]
+        0 int data = 155
+       [156]
+        0 int data = 156
+       [157]
+        0 int data = 157
+       [158]
+        0 int data = 158
+       [159]
+        0 int data = 159
+       [160]
+        0 int data = 160
+       [161]
+        0 int data = 161
+       [162]
+        0 int data = 162
+       [163]
+        0 int data = 163
+       [164]
+        0 int data = 164
+       [165]
+        0 int data = 165
+       [166]
+        0 int data = 166
+       [167]
+        0 int data = 167
+       [168]
+        0 int data = 168
+       [169]
+        0 int data = 169
+       [170]
+        0 int data = 170
+       [171]
+        0 int data = 171
+       [172]
+        0 int data = 172
+       [173]
+        0 int data = 173
+       [174]
+        0 int data = 174
+       [175]
+        0 int data = 175
+       [176]
+        0 int data = 176
+       [177]
+        0 int data = 177
+       [178]
+        0 int data = 178
+       [179]
+        0 int data = 179
+       [180]
+        0 int data = 180
+       [181]
+        0 int data = 181
+       [182]
+        0 int data = 182
+       [183]
+        0 int data = 183
+       [184]
+        0 int data = 184
+       [185]
+        0 int data = 185
+       [186]
+        0 int data = 186
+       [187]
+        0 int data = 187
+       [188]
+        0 int data = 188
+       [189]
+        0 int data = 189
+       [190]
+        0 int data = 190
+       [191]
+        0 int data = 191
+       [192]
+        0 int data = 192
+       [193]
+        0 int data = 193
+       [194]
+        0 int data = 194
+       [195]
+        0 int data = 195
+       [196]
+        0 int data = 196
+       [197]
+        0 int data = 197
+       [198]
+        0 int data = 198
+       [199]
+        0 int data = 199
+       [200]
+        0 int data = 200
+       [201]
+        0 int data = 201
+       [202]
+        0 int data = 202
+       [203]
+        0 int data = 203
+       [204]
+        0 int data = 204
+       [205]
+        0 int data = 205
+       [206]
+        0 int data = 206
+       [207]
+        0 int data = 207
+       [208]
+        0 int data = 208
+       [209]
+        0 int data = 209
+       [210]
+        0 int data = 210
+       [211]
+        0 int data = 211
+       [212]
+        0 int data = 212
+       [213]
+        0 int data = 213
+       [214]
+        0 int data = 214
+       [215]
+        0 int data = 215
+       [216]
+        0 int data = 216
+       [217]
+        0 int data = 217
+       [218]
+        0 int data = 218
+       [219]
+        0 int data = 219
+       [220]
+        0 int data = 220
+       [221]
+        0 int data = 221
+       [222]
+        0 int data = 222
+       [223]
+        0 int data = 223
+       [224]
+        0 int data = 224
+       [225]
+        0 int data = 225
+       [226]
+        0 int data = 226
+       [227]
+        0 int data = 227
+       [228]
+        0 int data = 228
+       [229]
+        0 int data = 229
+       [230]
+        0 int data = 230
+       [231]
+        0 int data = 475
+       [232]
+        0 int data = 476
+       [233]
+        0 int data = 233
+       [234]
+        0 int data = 234
+       [235]
+        0 int data = 235
+       [236]
+        0 int data = 236
+       [237]
+        0 int data = 237
+       [238]
+        0 int data = 238
+       [239]
+        0 int data = 239
+       [240]
+        0 int data = 240
+       [241]
+        0 int data = 241
+       [242]
+        0 int data = 242
+       [243]
+        0 int data = 243
+       [244]
+        0 int data = 244
+       [245]
+        0 int data = 245
+       [246]
+        0 int data = 246
+       [247]
+        0 int data = 247
+       [248]
+        0 int data = 248
+       [249]
+        0 int data = 249
+       [250]
+        0 int data = 250
+       [251]
+        0 int data = 251
+       [252]
+        0 int data = 252
+       [253]
+        0 int data = 253
+       [254]
+        0 int data = 254
+       [255]
+        0 int data = 255
+       [256]
+        0 int data = 477
+       [257]
+        0 int data = 478
+       [258]
+        0 int data = 258
+       [259]
+        0 int data = 259
+       [260]
+        0 int data = 260
+       [261]
+        0 int data = 261
+       [262]
+        0 int data = 262
+       [263]
+        0 int data = 263
+       [264]
+        0 int data = 264
+       [265]
+        0 int data = 265
+       [266]
+        0 int data = 266
+       [267]
+        0 int data = 267
+       [268]
+        0 int data = 268
+       [269]
+        0 int data = 269
+       [270]
+        0 int data = 270
+       [271]
+        0 int data = 271
+       [272]
+        0 int data = 272
+       [273]
+        0 int data = 273
+       [274]
+        0 int data = 274
+       [275]
+        0 int data = 275
+       [276]
+        0 int data = 276
+       [277]
+        0 int data = 277
+       [278]
+        0 int data = 278
+       [279]
+        0 int data = 279
+       [280]
+        0 int data = 280
+       [281]
+        0 int data = 281
+       [282]
+        0 int data = 282
+       [283]
+        0 int data = 283
+       [284]
+        0 int data = 284
+       [285]
+        0 int data = 285
+       [286]
+        0 int data = 286
+       [287]
+        0 int data = 287
+       [288]
+        0 int data = 288
+       [289]
+        0 int data = 289
+       [290]
+        0 int data = 290
+       [291]
+        0 int data = 291
+       [292]
+        0 int data = 292
+       [293]
+        0 int data = 293
+       [294]
+        0 int data = 294
+       [295]
+        0 int data = 295
+       [296]
+        0 int data = 296
+       [297]
+        0 int data = 297
+       [298]
+        0 int data = 298
+       [299]
+        0 int data = 299
+       [300]
+        0 int data = 300
+       [301]
+        0 int data = 301
+       [302]
+        0 int data = 302
+       [303]
+        0 int data = 303
+       [304]
+        0 int data = 304
+       [305]
+        0 int data = 305
+       [306]
+        0 int data = 306
+       [307]
+        0 int data = 307
+       [308]
+        0 int data = 308
+       [309]
+        0 int data = 309
+       [310]
+        0 int data = 310
+       [311]
+        0 int data = 311
+       [312]
+        0 int data = 312
+       [313]
+        0 int data = 313
+       [314]
+        0 int data = 479
+       [315]
+        0 int data = 315
+       [316]
+        0 int data = 480
+       [317]
+        0 int data = 317
+       [318]
+        0 int data = 318
+       [319]
+        0 int data = 319
+       [320]
+        0 int data = 320
+       [321]
+        0 int data = 321
+       [322]
+        0 int data = 322
+       [323]
+        0 int data = 323
+       [324]
+        0 int data = 324
+       [325]
+        0 int data = 325
+       [326]
+        0 int data = 326
+       [327]
+        0 int data = 327
+       [328]
+        0 int data = 328
+       [329]
+        0 int data = 329
+       [330]
+        0 int data = 330
+       [331]
+        0 int data = 331
+       [332]
+        0 int data = 332
+       [333]
+        0 int data = 481
+       [334]
+        0 int data = 334
+       [335]
+        0 int data = 335
+       [336]
+        0 int data = 336
+       [337]
+        0 int data = 337
+       [338]
+        0 int data = 338
+       [339]
+        0 int data = 339
+       [340]
+        0 int data = 482
+       [341]
+        0 int data = 483
+       [342]
+        0 int data = 484
+       [343]
+        0 int data = 343
+       [344]
+        0 int data = 344
+       [345]
+        0 int data = 345
+       [346]
+        0 int data = 346
+       [347]
+        0 int data = 347
+       [348]
+        0 int data = 348
+       [349]
+        0 int data = 349
+       [350]
+        0 int data = 350
+       [351]
+        0 int data = 351
+       [352]
+        0 int data = 352
+       [353]
+        0 int data = 353
+       [354]
+        0 int data = 354
+       [355]
+        0 int data = 355
+       [356]
+        0 int data = 356
+       [357]
+        0 int data = 485
+       [358]
+        0 int data = 486
+       [359]
+        0 int data = 487
+       [360]
+        0 int data = 488
+       [361]
+        0 int data = 361
+       [362]
+        0 int data = 362
+       [363]
+        0 int data = 363
+       [364]
+        0 int data = 364
+       [365]
+        0 int data = 489
+       [366]
+        0 int data = 490
+       [367]
+        0 int data = 491
+       [368]
+        0 int data = 368
+       [369]
+        0 int data = 369
+       [370]
+        0 int data = 370
+       [371]
+        0 int data = 371
+       [372]
+        0 int data = 372
+       [373]
+        0 int data = 373
+       [374]
+        0 int data = 374
+       [375]
+        0 int data = 375
+       [376]
+        0 int data = 376
+       [377]
+        0 int data = 377
+       [378]
+        0 int data = 378
+       [379]
+        0 int data = 379
+       [380]
+        0 int data = 380
+       [381]
+        0 int data = 381
+       [382]
+        0 int data = 382
+       [383]
+        0 int data = 383
+       [384]
+        0 int data = 384
+       [385]
+        0 int data = 385
+       [386]
+        0 int data = 386
+       [387]
+        0 int data = 387
+       [388]
+        0 int data = 388
+       [389]
+        0 int data = 389
+       [390]
+        0 int data = 390
+       [391]
+        0 int data = 492
+       [392]
+        0 int data = 493
+       [393]
+        0 int data = 393
+       [394]
+        0 int data = 394
+       [395]
+        0 int data = 395
+       [396]
+        0 int data = 396
+       [397]
+        0 int data = 397
+       [398]
+        0 int data = 398
+       [399]
+        0 int data = 399
+       [400]
+        0 int data = 400
+       [401]
+        0 int data = 401
+       [402]
+        0 int data = 402
+       [403]
+        0 int data = 403
+       [404]
+        0 int data = 404
+       [405]
+        0 int data = 405
+       [406]
+        0 int data = 406
+       [407]
+        0 int data = 407
+       [408]
+        0 int data = 408
+       [409]
+        0 int data = 409
+       [410]
+        0 int data = 410
+       [411]
+        0 int data = 411
+       [412]
+        0 int data = 412
+       [413]
+        0 int data = 413
+       [414]
+        0 int data = 414
+       [415]
+        0 int data = 415
+       [416]
+        0 int data = 416
+       [417]
+        0 int data = 417
+       [418]
+        0 int data = 418
+       [419]
+        0 int data = 419
+       [420]
+        0 int data = 420
+       [421]
+        0 int data = 421
+       [422]
+        0 int data = 422
+       [423]
+        0 int data = 423
+       [424]
+        0 int data = 424
+       [425]
+        0 int data = 425
+       [426]
+        0 int data = 426
+       [427]
+        0 int data = 427
+       [428]
+        0 int data = 428
+       [429]
+        0 int data = 429
+       [430]
+        0 int data = 430
+       [431]
+        0 int data = 431
+       [432]
+        0 int data = 432
+       [433]
+        0 int data = 433
+       [434]
+        0 int data = 434
+       [435]
+        0 int data = 435
+       [436]
+        0 int data = 436
+       [437]
+        0 int data = 437
+       [438]
+        0 int data = 438
+       [439]
+        0 int data = 439
+       [440]
+        0 int data = 440
+       [441]
+        0 int data = 441
+       [442]
+        0 int data = 442
+       [443]
+        0 int data = 443
+       [444]
+        0 int data = 444
+       [445]
+        0 int data = 445
+       [446]
+        0 int data = 446
+       [447]
+        0 int data = 447
+       [448]
+        0 int data = 448
+       [449]
+        0 int data = 449
+       [450]
+        0 int data = 450
+       [451]
+        0 int data = 451
+       [452]
+        0 int data = 452
+       [453]
+        0 int data = 453
+       [454]
+        0 int data = 454
+       [455]
+        0 int data = 455
+       [456]
+        0 int data = 456
+       [457]
+        0 int data = 457
+       [458]
+        0 int data = 458
+       [459]
+        0 int data = 459
+       [460]
+        0 int data = 460
+       [461]
+        0 int data = 461
+       [462]
+        0 int data = 462
+       [463]
+        0 int data = 463
+       [464]
+        0 int data = 464
+       [465]
+        0 int data = 465
+       [466]
+        0 int data = 466
+       [467]
+        0 int data = 467
+       [468]
+        0 int data = 468
+       [469]
+        0 int data = 469
+       [470]
+        0 int data = 470
+       [471]
+        0 int data = 471
+       [472]
+        0 int data = 472
+       [473]
+        0 int data = 473
+       [474]
+        0 int data = 474
+     0 int transparentIndex = -1
+   [2]
+    0 DicingTextureData data
+     1 string name = "H_Li_Sh_003_003"
+     1 string atlasName = "H_Li_Sh_003_Atlas0"
+     0 int width = 1440
+     0 int height = 1080
+     0 vector cellIndexList
+      0 Array Array (475 items)
+       0 int size = 475
+       [0]
+        0 int data = 0
+       [1]
+        0 int data = 1
+       [2]
+        0 int data = 2
+       [3]
+        0 int data = 494
+       [4]
+        0 int data = 495
+       [5]
+        0 int data = 496
+       [6]
+        0 int data = 497
+       [7]
+        0 int data = 7
+       [8]
+        0 int data = 8
+       [9]
+        0 int data = 9
+       [10]
+        0 int data = 10
+       [11]
+        0 int data = 11
+       [12]
+        0 int data = 12
+       [13]
+        0 int data = 13
+       [14]
+        0 int data = 14
+       [15]
+        0 int data = 15
+       [16]
+        0 int data = 16
+       [17]
+        0 int data = 498
+       [18]
+        0 int data = 499
+       [19]
+        0 int data = 500
+       [20]
+        0 int data = 501
+       [21]
+        0 int data = 21
+       [22]
+        0 int data = 22
+       [23]
+        0 int data = 23
+       [24]
+        0 int data = 24
+       [25]
+        0 int data = 25
+       [26]
+        0 int data = 26
+       [27]
+        0 int data = 27
+       [28]
+        0 int data = 28
+       [29]
+        0 int data = 502
+       [30]
+        0 int data = 503
+       [31]
+        0 int data = 504
+       [32]
+        0 int data = 505
+       [33]
+        0 int data = 33
+       [34]
+        0 int data = 34
+       [35]
+        0 int data = 35
+       [36]
+        0 int data = 36
+       [37]
+        0 int data = 37
+       [38]
+        0 int data = 38
+       [39]
+        0 int data = 39
+       [40]
+        0 int data = 40
+       [41]
+        0 int data = 506
+       [42]
+        0 int data = 507
+       [43]
+        0 int data = 508
+       [44]
+        0 int data = 509
+       [45]
+        0 int data = 510
+       [46]
+        0 int data = 511
+       [47]
+        0 int data = 47
+       [48]
+        0 int data = 48
+       [49]
+        0 int data = 49
+       [50]
+        0 int data = 50
+       [51]
+        0 int data = 51
+       [52]
+        0 int data = 52
+       [53]
+        0 int data = 53
+       [54]
+        0 int data = 512
+       [55]
+        0 int data = 513
+       [56]
+        0 int data = 514
+       [57]
+        0 int data = 515
+       [58]
+        0 int data = 516
+       [59]
+        0 int data = 59
+       [60]
+        0 int data = 60
+       [61]
+        0 int data = 61
+       [62]
+        0 int data = 62
+       [63]
+        0 int data = 63
+       [64]
+        0 int data = 64
+       [65]
+        0 int data = 65
+       [66]
+        0 int data = 517
+       [67]
+        0 int data = 518
+       [68]
+        0 int data = 519
+       [69]
+        0 int data = 520
+       [70]
+        0 int data = 521
+       [71]
+        0 int data = 522
+       [72]
+        0 int data = 72
+       [73]
+        0 int data = 73
+       [74]
+        0 int data = 74
+       [75]
+        0 int data = 75
+       [76]
+        0 int data = 76
+       [77]
+        0 int data = 77
+       [78]
+        0 int data = 78
+       [79]
+        0 int data = 523
+       [80]
+        0 int data = 524
+       [81]
+        0 int data = 525
+       [82]
+        0 int data = 526
+       [83]
+        0 int data = 527
+       [84]
+        0 int data = 84
+       [85]
+        0 int data = 85
+       [86]
+        0 int data = 86
+       [87]
+        0 int data = 87
+       [88]
+        0 int data = 88
+       [89]
+        0 int data = 89
+       [90]
+        0 int data = 528
+       [91]
+        0 int data = 529
+       [92]
+        0 int data = 530
+       [93]
+        0 int data = 531
+       [94]
+        0 int data = 94
+       [95]
+        0 int data = 95
+       [96]
+        0 int data = 96
+       [97]
+        0 int data = 97
+       [98]
+        0 int data = 98
+       [99]
+        0 int data = 99
+       [100]
+        0 int data = 100
+       [101]
+        0 int data = 101
+       [102]
+        0 int data = 102
+       [103]
+        0 int data = 103
+       [104]
+        0 int data = 532
+       [105]
+        0 int data = 533
+       [106]
+        0 int data = 534
+       [107]
+        0 int data = 535
+       [108]
+        0 int data = 536
+       [109]
+        0 int data = 537
+       [110]
+        0 int data = 110
+       [111]
+        0 int data = 111
+       [112]
+        0 int data = 112
+       [113]
+        0 int data = 113
+       [114]
+        0 int data = 114
+       [115]
+        0 int data = 538
+       [116]
+        0 int data = 539
+       [117]
+        0 int data = 540
+       [118]
+        0 int data = 118
+       [119]
+        0 int data = 119
+       [120]
+        0 int data = 120
+       [121]
+        0 int data = 121
+       [122]
+        0 int data = 122
+       [123]
+        0 int data = 123
+       [124]
+        0 int data = 124
+       [125]
+        0 int data = 125
+       [126]
+        0 int data = 126
+       [127]
+        0 int data = 127
+       [128]
+        0 int data = 128
+       [129]
+        0 int data = 129
+       [130]
+        0 int data = 130
+       [131]
+        0 int data = 131
+       [132]
+        0 int data = 541
+       [133]
+        0 int data = 542
+       [134]
+        0 int data = 543
+       [135]
+        0 int data = 135
+       [136]
+        0 int data = 136
+       [137]
+        0 int data = 137
+       [138]
+        0 int data = 138
+       [139]
+        0 int data = 139
+       [140]
+        0 int data = 140
+       [141]
+        0 int data = 141
+       [142]
+        0 int data = 142
+       [143]
+        0 int data = 143
+       [144]
+        0 int data = 144
+       [145]
+        0 int data = 145
+       [146]
+        0 int data = 146
+       [147]
+        0 int data = 147
+       [148]
+        0 int data = 148
+       [149]
+        0 int data = 149
+       [150]
+        0 int data = 150
+       [151]
+        0 int data = 151
+       [152]
+        0 int data = 152
+       [153]
+        0 int data = 153
+       [154]
+        0 int data = 154
+       [155]
+        0 int data = 155
+       [156]
+        0 int data = 156
+       [157]
+        0 int data = 157
+       [158]
+        0 int data = 158
+       [159]
+        0 int data = 159
+       [160]
+        0 int data = 160
+       [161]
+        0 int data = 161
+       [162]
+        0 int data = 162
+       [163]
+        0 int data = 163
+       [164]
+        0 int data = 164
+       [165]
+        0 int data = 165
+       [166]
+        0 int data = 166
+       [167]
+        0 int data = 167
+       [168]
+        0 int data = 168
+       [169]
+        0 int data = 169
+       [170]
+        0 int data = 170
+       [171]
+        0 int data = 171
+       [172]
+        0 int data = 172
+       [173]
+        0 int data = 173
+       [174]
+        0 int data = 174
+       [175]
+        0 int data = 175
+       [176]
+        0 int data = 176
+       [177]
+        0 int data = 177
+       [178]
+        0 int data = 178
+       [179]
+        0 int data = 179
+       [180]
+        0 int data = 180
+       [181]
+        0 int data = 181
+       [182]
+        0 int data = 182
+       [183]
+        0 int data = 183
+       [184]
+        0 int data = 184
+       [185]
+        0 int data = 185
+       [186]
+        0 int data = 186
+       [187]
+        0 int data = 187
+       [188]
+        0 int data = 188
+       [189]
+        0 int data = 189
+       [190]
+        0 int data = 190
+       [191]
+        0 int data = 191
+       [192]
+        0 int data = 192
+       [193]
+        0 int data = 193
+       [194]
+        0 int data = 194
+       [195]
+        0 int data = 195
+       [196]
+        0 int data = 196
+       [197]
+        0 int data = 197
+       [198]
+        0 int data = 198
+       [199]
+        0 int data = 199
+       [200]
+        0 int data = 200
+       [201]
+        0 int data = 201
+       [202]
+        0 int data = 202
+       [203]
+        0 int data = 203
+       [204]
+        0 int data = 204
+       [205]
+        0 int data = 205
+       [206]
+        0 int data = 206
+       [207]
+        0 int data = 207
+       [208]
+        0 int data = 208
+       [209]
+        0 int data = 209
+       [210]
+        0 int data = 210
+       [211]
+        0 int data = 211
+       [212]
+        0 int data = 212
+       [213]
+        0 int data = 213
+       [214]
+        0 int data = 214
+       [215]
+        0 int data = 215
+       [216]
+        0 int data = 216
+       [217]
+        0 int data = 217
+       [218]
+        0 int data = 218
+       [219]
+        0 int data = 219
+       [220]
+        0 int data = 220
+       [221]
+        0 int data = 221
+       [222]
+        0 int data = 222
+       [223]
+        0 int data = 223
+       [224]
+        0 int data = 224
+       [225]
+        0 int data = 225
+       [226]
+        0 int data = 226
+       [227]
+        0 int data = 227
+       [228]
+        0 int data = 228
+       [229]
+        0 int data = 229
+       [230]
+        0 int data = 230
+       [231]
+        0 int data = 475
+       [232]
+        0 int data = 476
+       [233]
+        0 int data = 233
+       [234]
+        0 int data = 234
+       [235]
+        0 int data = 235
+       [236]
+        0 int data = 236
+       [237]
+        0 int data = 237
+       [238]
+        0 int data = 238
+       [239]
+        0 int data = 239
+       [240]
+        0 int data = 240
+       [241]
+        0 int data = 241
+       [242]
+        0 int data = 242
+       [243]
+        0 int data = 243
+       [244]
+        0 int data = 244
+       [245]
+        0 int data = 245
+       [246]
+        0 int data = 246
+       [247]
+        0 int data = 247
+       [248]
+        0 int data = 248
+       [249]
+        0 int data = 249
+       [250]
+        0 int data = 250
+       [251]
+        0 int data = 251
+       [252]
+        0 int data = 252
+       [253]
+        0 int data = 253
+       [254]
+        0 int data = 254
+       [255]
+        0 int data = 255
+       [256]
+        0 int data = 477
+       [257]
+        0 int data = 478
+       [258]
+        0 int data = 258
+       [259]
+        0 int data = 259
+       [260]
+        0 int data = 260
+       [261]
+        0 int data = 261
+       [262]
+        0 int data = 262
+       [263]
+        0 int data = 263
+       [264]
+        0 int data = 264
+       [265]
+        0 int data = 265
+       [266]
+        0 int data = 266
+       [267]
+        0 int data = 267
+       [268]
+        0 int data = 268
+       [269]
+        0 int data = 269
+       [270]
+        0 int data = 270
+       [271]
+        0 int data = 271
+       [272]
+        0 int data = 272
+       [273]
+        0 int data = 273
+       [274]
+        0 int data = 274
+       [275]
+        0 int data = 275
+       [276]
+        0 int data = 276
+       [277]
+        0 int data = 277
+       [278]
+        0 int data = 278
+       [279]
+        0 int data = 279
+       [280]
+        0 int data = 280
+       [281]
+        0 int data = 281
+       [282]
+        0 int data = 282
+       [283]
+        0 int data = 283
+       [284]
+        0 int data = 284
+       [285]
+        0 int data = 285
+       [286]
+        0 int data = 286
+       [287]
+        0 int data = 287
+       [288]
+        0 int data = 288
+       [289]
+        0 int data = 289
+       [290]
+        0 int data = 290
+       [291]
+        0 int data = 291
+       [292]
+        0 int data = 292
+       [293]
+        0 int data = 293
+       [294]
+        0 int data = 294
+       [295]
+        0 int data = 295
+       [296]
+        0 int data = 296
+       [297]
+        0 int data = 297
+       [298]
+        0 int data = 298
+       [299]
+        0 int data = 299
+       [300]
+        0 int data = 300
+       [301]
+        0 int data = 301
+       [302]
+        0 int data = 302
+       [303]
+        0 int data = 303
+       [304]
+        0 int data = 304
+       [305]
+        0 int data = 305
+       [306]
+        0 int data = 306
+       [307]
+        0 int data = 307
+       [308]
+        0 int data = 308
+       [309]
+        0 int data = 309
+       [310]
+        0 int data = 310
+       [311]
+        0 int data = 311
+       [312]
+        0 int data = 544
+       [313]
+        0 int data = 313
+       [314]
+        0 int data = 479
+       [315]
+        0 int data = 545
+       [316]
+        0 int data = 480
+       [317]
+        0 int data = 317
+       [318]
+        0 int data = 318
+       [319]
+        0 int data = 319
+       [320]
+        0 int data = 320
+       [321]
+        0 int data = 321
+       [322]
+        0 int data = 322
+       [323]
+        0 int data = 323
+       [324]
+        0 int data = 324
+       [325]
+        0 int data = 325
+       [326]
+        0 int data = 326
+       [327]
+        0 int data = 327
+       [328]
+        0 int data = 328
+       [329]
+        0 int data = 329
+       [330]
+        0 int data = 330
+       [331]
+        0 int data = 546
+       [332]
+        0 int data = 332
+       [333]
+        0 int data = 547
+       [334]
+        0 int data = 548
+       [335]
+        0 int data = 335
+       [336]
+        0 int data = 336
+       [337]
+        0 int data = 549
+       [338]
+        0 int data = 550
+       [339]
+        0 int data = 339
+       [340]
+        0 int data = 551
+       [341]
+        0 int data = 552
+       [342]
+        0 int data = 553
+       [343]
+        0 int data = 554
+       [344]
+        0 int data = 344
+       [345]
+        0 int data = 345
+       [346]
+        0 int data = 346
+       [347]
+        0 int data = 347
+       [348]
+        0 int data = 348
+       [349]
+        0 int data = 349
+       [350]
+        0 int data = 350
+       [351]
+        0 int data = 351
+       [352]
+        0 int data = 352
+       [353]
+        0 int data = 353
+       [354]
+        0 int data = 354
+       [355]
+        0 int data = 555
+       [356]
+        0 int data = 556
+       [357]
+        0 int data = 557
+       [358]
+        0 int data = 558
+       [359]
+        0 int data = 559
+       [360]
+        0 int data = 560
+       [361]
+        0 int data = 361
+       [362]
+        0 int data = 362
+       [363]
+        0 int data = 363
+       [364]
+        0 int data = 364
+       [365]
+        0 int data = 561
+       [366]
+        0 int data = 562
+       [367]
+        0 int data = 563
+       [368]
+        0 int data = 368
+       [369]
+        0 int data = 369
+       [370]
+        0 int data = 370
+       [371]
+        0 int data = 371
+       [372]
+        0 int data = 372
+       [373]
+        0 int data = 373
+       [374]
+        0 int data = 374
+       [375]
+        0 int data = 375
+       [376]
+        0 int data = 376
+       [377]
+        0 int data = 377
+       [378]
+        0 int data = 378
+       [379]
+        0 int data = 379
+       [380]
+        0 int data = 380
+       [381]
+        0 int data = 381
+       [382]
+        0 int data = 564
+       [383]
+        0 int data = 565
+       [384]
+        0 int data = 566
+       [385]
+        0 int data = 567
+       [386]
+        0 int data = 386
+       [387]
+        0 int data = 387
+       [388]
+        0 int data = 388
+       [389]
+        0 int data = 389
+       [390]
+        0 int data = 390
+       [391]
+        0 int data = 568
+       [392]
+        0 int data = 493
+       [393]
+        0 int data = 393
+       [394]
+        0 int data = 394
+       [395]
+        0 int data = 395
+       [396]
+        0 int data = 396
+       [397]
+        0 int data = 397
+       [398]
+        0 int data = 398
+       [399]
+        0 int data = 399
+       [400]
+        0 int data = 400
+       [401]
+        0 int data = 401
+       [402]
+        0 int data = 402
+       [403]
+        0 int data = 403
+       [404]
+        0 int data = 404
+       [405]
+        0 int data = 405
+       [406]
+        0 int data = 406
+       [407]
+        0 int data = 569
+       [408]
+        0 int data = 570
+       [409]
+        0 int data = 571
+       [410]
+        0 int data = 572
+       [411]
+        0 int data = 573
+       [412]
+        0 int data = 574
+       [413]
+        0 int data = 413
+       [414]
+        0 int data = 414
+       [415]
+        0 int data = 415
+       [416]
+        0 int data = 416
+       [417]
+        0 int data = 417
+       [418]
+        0 int data = 418
+       [419]
+        0 int data = 419
+       [420]
+        0 int data = 420
+       [421]
+        0 int data = 421
+       [422]
+        0 int data = 422
+       [423]
+        0 int data = 423
+       [424]
+        0 int data = 424
+       [425]
+        0 int data = 425
+       [426]
+        0 int data = 426
+       [427]
+        0 int data = 427
+       [428]
+        0 int data = 428
+       [429]
+        0 int data = 429
+       [430]
+        0 int data = 430
+       [431]
+        0 int data = 431
+       [432]
+        0 int data = 432
+       [433]
+        0 int data = 433
+       [434]
+        0 int data = 434
+       [435]
+        0 int data = 435
+       [436]
+        0 int data = 436
+       [437]
+        0 int data = 437
+       [438]
+        0 int data = 438
+       [439]
+        0 int data = 439
+       [440]
+        0 int data = 440
+       [441]
+        0 int data = 441
+       [442]
+        0 int data = 442
+       [443]
+        0 int data = 443
+       [444]
+        0 int data = 444
+       [445]
+        0 int data = 445
+       [446]
+        0 int data = 446
+       [447]
+        0 int data = 447
+       [448]
+        0 int data = 448
+       [449]
+        0 int data = 449
+       [450]
+        0 int data = 450
+       [451]
+        0 int data = 451
+       [452]
+        0 int data = 452
+       [453]
+        0 int data = 453
+       [454]
+        0 int data = 454
+       [455]
+        0 int data = 455
+       [456]
+        0 int data = 456
+       [457]
+        0 int data = 457
+       [458]
+        0 int data = 458
+       [459]
+        0 int data = 459
+       [460]
+        0 int data = 460
+       [461]
+        0 int data = 461
+       [462]
+        0 int data = 462
+       [463]
+        0 int data = 463
+       [464]
+        0 int data = 464
+       [465]
+        0 int data = 465
+       [466]
+        0 int data = 466
+       [467]
+        0 int data = 467
+       [468]
+        0 int data = 468
+       [469]
+        0 int data = 469
+       [470]
+        0 int data = 470
+       [471]
+        0 int data = 471
+       [472]
+        0 int data = 472
+       [473]
+        0 int data = 473
+       [474]
+        0 int data = 474
+     0 int transparentIndex = -1
+   [3]
+    0 DicingTextureData data
+     1 string name = "H_Li_Sh_003_004"
+     1 string atlasName = "H_Li_Sh_003_Atlas0"
+     0 int width = 1440
+     0 int height = 1080
+     0 vector cellIndexList
+      0 Array Array (475 items)
+       0 int size = 475
+       [0]
+        0 int data = 0
+       [1]
+        0 int data = 1
+       [2]
+        0 int data = 2
+       [3]
+        0 int data = 3
+       [4]
+        0 int data = 4
+       [5]
+        0 int data = 575
+       [6]
+        0 int data = 576
+       [7]
+        0 int data = 577
+       [8]
+        0 int data = 578
+       [9]
+        0 int data = 9
+       [10]
+        0 int data = 579
+       [11]
+        0 int data = 580
+       [12]
+        0 int data = 581
+       [13]
+        0 int data = 582
+       [14]
+        0 int data = 583
+       [15]
+        0 int data = 584
+       [16]
+        0 int data = 585
+       [17]
+        0 int data = 586
+       [18]
+        0 int data = 587
+       [19]
+        0 int data = 588
+       [20]
+        0 int data = 589
+       [21]
+        0 int data = 21
+       [22]
+        0 int data = 22
+       [23]
+        0 int data = 590
+       [24]
+        0 int data = 591
+       [25]
+        0 int data = 25
+       [26]
+        0 int data = 26
+       [27]
+        0 int data = 27
+       [28]
+        0 int data = 592
+       [29]
+        0 int data = 593
+       [30]
+        0 int data = 594
+       [31]
+        0 int data = 595
+       [32]
+        0 int data = 596
+       [33]
+        0 int data = 33
+       [34]
+        0 int data = 34
+       [35]
+        0 int data = 597
+       [36]
+        0 int data = 598
+       [37]
+        0 int data = 599
+       [38]
+        0 int data = 600
+       [39]
+        0 int data = 601
+       [40]
+        0 int data = 602
+       [41]
+        0 int data = 506
+       [42]
+        0 int data = 603
+       [43]
+        0 int data = 604
+       [44]
+        0 int data = 605
+       [45]
+        0 int data = 606
+       [46]
+        0 int data = 607
+       [47]
+        0 int data = 608
+       [48]
+        0 int data = 609
+       [49]
+        0 int data = 610
+       [50]
+        0 int data = 50
+       [51]
+        0 int data = 51
+       [52]
+        0 int data = 611
+       [53]
+        0 int data = 612
+       [54]
+        0 int data = 613
+       [55]
+        0 int data = 614
+       [56]
+        0 int data = 615
+       [57]
+        0 int data = 616
+       [58]
+        0 int data = 516
+       [59]
+        0 int data = 59
+       [60]
+        0 int data = 617
+       [61]
+        0 int data = 618
+       [62]
+        0 int data = 619
+       [63]
+        0 int data = 620
+       [64]
+        0 int data = 621
+       [65]
+        0 int data = 622
+       [66]
+        0 int data = 517
+       [67]
+        0 int data = 623
+       [68]
+        0 int data = 624
+       [69]
+        0 int data = 625
+       [70]
+        0 int data = 626
+       [71]
+        0 int data = 627
+       [72]
+        0 int data = 628
+       [73]
+        0 int data = 73
+       [74]
+        0 int data = 74
+       [75]
+        0 int data = 75
+       [76]
+        0 int data = 76
+       [77]
+        0 int data = 629
+       [78]
+        0 int data = 630
+       [79]
+        0 int data = 631
+       [80]
+        0 int data = 632
+       [81]
+        0 int data = 633
+       [82]
+        0 int data = 634
+       [83]
+        0 int data = 527
+       [84]
+        0 int data = 84
+       [85]
+        0 int data = 85
+       [86]
+        0 int data = 635
+       [87]
+        0 int data = 636
+       [88]
+        0 int data = 88
+       [89]
+        0 int data = 89
+       [90]
+        0 int data = 528
+       [91]
+        0 int data = 529
+       [92]
+        0 int data = 530
+       [93]
+        0 int data = 531
+       [94]
+        0 int data = 637
+       [95]
+        0 int data = 638
+       [96]
+        0 int data = 639
+       [97]
+        0 int data = 640
+       [98]
+        0 int data = 98
+       [99]
+        0 int data = 99
+       [100]
+        0 int data = 100
+       [101]
+        0 int data = 101
+       [102]
+        0 int data = 641
+       [103]
+        0 int data = 642
+       [104]
+        0 int data = 643
+       [105]
+        0 int data = 644
+       [106]
+        0 int data = 534
+       [107]
+        0 int data = 535
+       [108]
+        0 int data = 536
+       [109]
+        0 int data = 537
+       [110]
+        0 int data = 110
+       [111]
+        0 int data = 111
+       [112]
+        0 int data = 112
+       [113]
+        0 int data = 113
+       [114]
+        0 int data = 114
+       [115]
+        0 int data = 538
+       [116]
+        0 int data = 539
+       [117]
+        0 int data = 540
+       [118]
+        0 int data = 118
+       [119]
+        0 int data = 119
+       [120]
+        0 int data = 645
+       [121]
+        0 int data = 646
+       [122]
+        0 int data = 647
+       [123]
+        0 int data = 123
+       [124]
+        0 int data = 124
+       [125]
+        0 int data = 125
+       [126]
+        0 int data = 126
+       [127]
+        0 int data = 127
+       [128]
+        0 int data = 648
+       [129]
+        0 int data = 649
+       [130]
+        0 int data = 650
+       [131]
+        0 int data = 651
+       [132]
+        0 int data = 541
+       [133]
+        0 int data = 542
+       [134]
+        0 int data = 543
+       [135]
+        0 int data = 135
+       [136]
+        0 int data = 136
+       [137]
+        0 int data = 137
+       [138]
+        0 int data = 138
+       [139]
+        0 int data = 139
+       [140]
+        0 int data = 140
+       [141]
+        0 int data = 141
+       [142]
+        0 int data = 142
+       [143]
+        0 int data = 143
+       [144]
+        0 int data = 144
+       [145]
+        0 int data = 652
+       [146]
+        0 int data = 653
+       [147]
+        0 int data = 654
+       [148]
+        0 int data = 148
+       [149]
+        0 int data = 149
+       [150]
+        0 int data = 150
+       [151]
+        0 int data = 151
+       [152]
+        0 int data = 152
+       [153]
+        0 int data = 655
+       [154]
+        0 int data = 656
+       [155]
+        0 int data = 657
+       [156]
+        0 int data = 156
+       [157]
+        0 int data = 157
+       [158]
+        0 int data = 158
+       [159]
+        0 int data = 159
+       [160]
+        0 int data = 160
+       [161]
+        0 int data = 161
+       [162]
+        0 int data = 162
+       [163]
+        0 int data = 163
+       [164]
+        0 int data = 164
+       [165]
+        0 int data = 165
+       [166]
+        0 int data = 166
+       [167]
+        0 int data = 167
+       [168]
+        0 int data = 168
+       [169]
+        0 int data = 169
+       [170]
+        0 int data = 658
+       [171]
+        0 int data = 659
+       [172]
+        0 int data = 660
+       [173]
+        0 int data = 173
+       [174]
+        0 int data = 174
+       [175]
+        0 int data = 175
+       [176]
+        0 int data = 176
+       [177]
+        0 int data = 177
+       [178]
+        0 int data = 661
+       [179]
+        0 int data = 662
+       [180]
+        0 int data = 663
+       [181]
+        0 int data = 181
+       [182]
+        0 int data = 182
+       [183]
+        0 int data = 183
+       [184]
+        0 int data = 184
+       [185]
+        0 int data = 185
+       [186]
+        0 int data = 186
+       [187]
+        0 int data = 187
+       [188]
+        0 int data = 188
+       [189]
+        0 int data = 189
+       [190]
+        0 int data = 190
+       [191]
+        0 int data = 191
+       [192]
+        0 int data = 192
+       [193]
+        0 int data = 193
+       [194]
+        0 int data = 194
+       [195]
+        0 int data = 664
+       [196]
+        0 int data = 665
+       [197]
+        0 int data = 666
+       [198]
+        0 int data = 198
+       [199]
+        0 int data = 199
+       [200]
+        0 int data = 200
+       [201]
+        0 int data = 201
+       [202]
+        0 int data = 667
+       [203]
+        0 int data = 668
+       [204]
+        0 int data = 669
+       [205]
+        0 int data = 205
+       [206]
+        0 int data = 206
+       [207]
+        0 int data = 207
+       [208]
+        0 int data = 208
+       [209]
+        0 int data = 209
+       [210]
+        0 int data = 210
+       [211]
+        0 int data = 211
+       [212]
+        0 int data = 212
+       [213]
+        0 int data = 213
+       [214]
+        0 int data = 214
+       [215]
+        0 int data = 215
+       [216]
+        0 int data = 216
+       [217]
+        0 int data = 217
+       [218]
+        0 int data = 218
+       [219]
+        0 int data = 219
+       [220]
+        0 int data = 670
+       [221]
+        0 int data = 671
+       [222]
+        0 int data = 672
+       [223]
+        0 int data = 673
+       [224]
+        0 int data = 224
+       [225]
+        0 int data = 225
+       [226]
+        0 int data = 226
+       [227]
+        0 int data = 674
+       [228]
+        0 int data = 675
+       [229]
+        0 int data = 676
+       [230]
+        0 int data = 677
+       [231]
+        0 int data = 678
+       [232]
+        0 int data = 476
+       [233]
+        0 int data = 233
+       [234]
+        0 int data = 234
+       [235]
+        0 int data = 235
+       [236]
+        0 int data = 236
+       [237]
+        0 int data = 237
+       [238]
+        0 int data = 238
+       [239]
+        0 int data = 239
+       [240]
+        0 int data = 240
+       [241]
+        0 int data = 241
+       [242]
+        0 int data = 679
+       [243]
+        0 int data = 680
+       [244]
+        0 int data = 681
+       [245]
+        0 int data = 682
+       [246]
+        0 int data = 683
+       [247]
+        0 int data = 684
+       [248]
+        0 int data = 685
+       [249]
+        0 int data = 249
+       [250]
+        0 int data = 250
+       [251]
+        0 int data = 251
+       [252]
+        0 int data = 686
+       [253]
+        0 int data = 687
+       [254]
+        0 int data = 688
+       [255]
+        0 int data = 255
+       [256]
+        0 int data = 477
+       [257]
+        0 int data = 478
+       [258]
+        0 int data = 258
+       [259]
+        0 int data = 259
+       [260]
+        0 int data = 260
+       [261]
+        0 int data = 261
+       [262]
+        0 int data = 262
+       [263]
+        0 int data = 263
+       [264]
+        0 int data = 264
+       [265]
+        0 int data = 265
+       [266]
+        0 int data = 266
+       [267]
+        0 int data = 689
+       [268]
+        0 int data = 690
+       [269]
+        0 int data = 691
+       [270]
+        0 int data = 692
+       [271]
+        0 int data = 693
+       [272]
+        0 int data = 694
+       [273]
+        0 int data = 695
+       [274]
+        0 int data = 274
+       [275]
+        0 int data = 275
+       [276]
+        0 int data = 696
+       [277]
+        0 int data = 697
+       [278]
+        0 int data = 698
+       [279]
+        0 int data = 279
+       [280]
+        0 int data = 280
+       [281]
+        0 int data = 281
+       [282]
+        0 int data = 282
+       [283]
+        0 int data = 283
+       [284]
+        0 int data = 284
+       [285]
+        0 int data = 285
+       [286]
+        0 int data = 286
+       [287]
+        0 int data = 287
+       [288]
+        0 int data = 288
+       [289]
+        0 int data = 289
+       [290]
+        0 int data = 290
+       [291]
+        0 int data = 291
+       [292]
+        0 int data = 292
+       [293]
+        0 int data = 293
+       [294]
+        0 int data = 294
+       [295]
+        0 int data = 295
+       [296]
+        0 int data = 699
+       [297]
+        0 int data = 700
+       [298]
+        0 int data = 701
+       [299]
+        0 int data = 299
+       [300]
+        0 int data = 300
+       [301]
+        0 int data = 702
+       [302]
+        0 int data = 703
+       [303]
+        0 int data = 704
+       [304]
+        0 int data = 304
+       [305]
+        0 int data = 305
+       [306]
+        0 int data = 306
+       [307]
+        0 int data = 307
+       [308]
+        0 int data = 308
+       [309]
+        0 int data = 309
+       [310]
+        0 int data = 310
+       [311]
+        0 int data = 311
+       [312]
+        0 int data = 705
+       [313]
+        0 int data = 313
+       [314]
+        0 int data = 479
+       [315]
+        0 int data = 706
+       [316]
+        0 int data = 707
+       [317]
+        0 int data = 317
+       [318]
+        0 int data = 318
+       [319]
+        0 int data = 319
+       [320]
+        0 int data = 320
+       [321]
+        0 int data = 708
+       [322]
+        0 int data = 709
+       [323]
+        0 int data = 710
+       [324]
+        0 int data = 711
+       [325]
+        0 int data = 712
+       [326]
+        0 int data = 713
+       [327]
+        0 int data = 714
+       [328]
+        0 int data = 328
+       [329]
+        0 int data = 329
+       [330]
+        0 int data = 330
+       [331]
+        0 int data = 546
+       [332]
+        0 int data = 332
+       [333]
+        0 int data = 715
+       [334]
+        0 int data = 716
+       [335]
+        0 int data = 335
+       [336]
+        0 int data = 336
+       [337]
+        0 int data = 549
+       [338]
+        0 int data = 550
+       [339]
+        0 int data = 339
+       [340]
+        0 int data = 717
+       [341]
+        0 int data = 718
+       [342]
+        0 int data = 553
+       [343]
+        0 int data = 554
+       [344]
+        0 int data = 344
+       [345]
+        0 int data = 345
+       [346]
+        0 int data = 346
+       [347]
+        0 int data = 719
+       [348]
+        0 int data = 720
+       [349]
+        0 int data = 721
+       [350]
+        0 int data = 722
+       [351]
+        0 int data = 723
+       [352]
+        0 int data = 352
+       [353]
+        0 int data = 353
+       [354]
+        0 int data = 354
+       [355]
+        0 int data = 555
+       [356]
+        0 int data = 556
+       [357]
+        0 int data = 557
+       [358]
+        0 int data = 724
+       [359]
+        0 int data = 725
+       [360]
+        0 int data = 560
+       [361]
+        0 int data = 361
+       [362]
+        0 int data = 362
+       [363]
+        0 int data = 363
+       [364]
+        0 int data = 364
+       [365]
+        0 int data = 561
+       [366]
+        0 int data = 562
+       [367]
+        0 int data = 563
+       [368]
+        0 int data = 368
+       [369]
+        0 int data = 369
+       [370]
+        0 int data = 370
+       [371]
+        0 int data = 371
+       [372]
+        0 int data = 372
+       [373]
+        0 int data = 373
+       [374]
+        0 int data = 374
+       [375]
+        0 int data = 375
+       [376]
+        0 int data = 376
+       [377]
+        0 int data = 377
+       [378]
+        0 int data = 378
+       [379]
+        0 int data = 379
+       [380]
+        0 int data = 380
+       [381]
+        0 int data = 381
+       [382]
+        0 int data = 564
+       [383]
+        0 int data = 565
+       [384]
+        0 int data = 566
+       [385]
+        0 int data = 567
+       [386]
+        0 int data = 386
+       [387]
+        0 int data = 387
+       [388]
+        0 int data = 388
+       [389]
+        0 int data = 389
+       [390]
+        0 int data = 390
+       [391]
+        0 int data = 568
+       [392]
+        0 int data = 493
+       [393]
+        0 int data = 393
+       [394]
+        0 int data = 394
+       [395]
+        0 int data = 395
+       [396]
+        0 int data = 396
+       [397]
+        0 int data = 397
+       [398]
+        0 int data = 398
+       [399]
+        0 int data = 399
+       [400]
+        0 int data = 400
+       [401]
+        0 int data = 401
+       [402]
+        0 int data = 402
+       [403]
+        0 int data = 403
+       [404]
+        0 int data = 404
+       [405]
+        0 int data = 405
+       [406]
+        0 int data = 406
+       [407]
+        0 int data = 569
+       [408]
+        0 int data = 570
+       [409]
+        0 int data = 571
+       [410]
+        0 int data = 572
+       [411]
+        0 int data = 573
+       [412]
+        0 int data = 574
+       [413]
+        0 int data = 726
+       [414]
+        0 int data = 727
+       [415]
+        0 int data = 728
+       [416]
+        0 int data = 729
+       [417]
+        0 int data = 417
+       [418]
+        0 int data = 418
+       [419]
+        0 int data = 419
+       [420]
+        0 int data = 420
+       [421]
+        0 int data = 421
+       [422]
+        0 int data = 422
+       [423]
+        0 int data = 423
+       [424]
+        0 int data = 424
+       [425]
+        0 int data = 425
+       [426]
+        0 int data = 426
+       [427]
+        0 int data = 427
+       [428]
+        0 int data = 428
+       [429]
+        0 int data = 429
+       [430]
+        0 int data = 430
+       [431]
+        0 int data = 431
+       [432]
+        0 int data = 432
+       [433]
+        0 int data = 433
+       [434]
+        0 int data = 434
+       [435]
+        0 int data = 435
+       [436]
+        0 int data = 436
+       [437]
+        0 int data = 437
+       [438]
+        0 int data = 730
+       [439]
+        0 int data = 731
+       [440]
+        0 int data = 732
+       [441]
+        0 int data = 733
+       [442]
+        0 int data = 442
+       [443]
+        0 int data = 443
+       [444]
+        0 int data = 734
+       [445]
+        0 int data = 735
+       [446]
+        0 int data = 736
+       [447]
+        0 int data = 737
+       [448]
+        0 int data = 738
+       [449]
+        0 int data = 739
+       [450]
+        0 int data = 450
+       [451]
+        0 int data = 451
+       [452]
+        0 int data = 452
+       [453]
+        0 int data = 453
+       [454]
+        0 int data = 454
+       [455]
+        0 int data = 455
+       [456]
+        0 int data = 456
+       [457]
+        0 int data = 457
+       [458]
+        0 int data = 458
+       [459]
+        0 int data = 459
+       [460]
+        0 int data = 460
+       [461]
+        0 int data = 461
+       [462]
+        0 int data = 462
+       [463]
+        0 int data = 463
+       [464]
+        0 int data = 740
+       [465]
+        0 int data = 741
+       [466]
+        0 int data = 466
+       [467]
+        0 int data = 467
+       [468]
+        0 int data = 468
+       [469]
+        0 int data = 742
+       [470]
+        0 int data = 743
+       [471]
+        0 int data = 744
+       [472]
+        0 int data = 745
+       [473]
+        0 int data = 746
+       [474]
+        0 int data = 747
+     0 int transparentIndex = -1
+   [4]
+    0 DicingTextureData data
+     1 string name = "H_Li_Sh_003_005"
+     1 string atlasName = "H_Li_Sh_003_Atlas0"
+     0 int width = 1440
+     0 int height = 1080
+     0 vector cellIndexList
+      0 Array Array (475 items)
+       0 int size = 475
+       [0]
+        0 int data = 748
+       [1]
+        0 int data = 749
+       [2]
+        0 int data = 750
+       [3]
+        0 int data = 751
+       [4]
+        0 int data = 752
+       [5]
+        0 int data = 753
+       [6]
+        0 int data = 754
+       [7]
+        0 int data = 755
+       [8]
+        0 int data = 756
+       [9]
+        0 int data = 757
+       [10]
+        0 int data = 758
+       [11]
+        0 int data = 759
+       [12]
+        0 int data = 760
+       [13]
+        0 int data = 761
+       [14]
+        0 int data = 762
+       [15]
+        0 int data = 763
+       [16]
+        0 int data = 764
+       [17]
+        0 int data = 765
+       [18]
+        0 int data = 766
+       [19]
+        0 int data = 767
+       [20]
+        0 int data = 768
+       [21]
+        0 int data = 21
+       [22]
+        0 int data = 769
+       [23]
+        0 int data = 770
+       [24]
+        0 int data = 771
+       [25]
+        0 int data = 772
+       [26]
+        0 int data = 773
+       [27]
+        0 int data = 774
+       [28]
+        0 int data = 775
+       [29]
+        0 int data = 776
+       [30]
+        0 int data = 777
+       [31]
+        0 int data = 778
+       [32]
+        0 int data = 779
+       [33]
+        0 int data = 780
+       [34]
+        0 int data = 781
+       [35]
+        0 int data = 782
+       [36]
+        0 int data = 783
+       [37]
+        0 int data = 784
+       [38]
+        0 int data = 785
+       [39]
+        0 int data = 786
+       [40]
+        0 int data = 787
+       [41]
+        0 int data = 788
+       [42]
+        0 int data = 789
+       [43]
+        0 int data = 790
+       [44]
+        0 int data = 791
+       [45]
+        0 int data = 792
+       [46]
+        0 int data = 793
+       [47]
+        0 int data = 794
+       [48]
+        0 int data = 48
+       [49]
+        0 int data = 795
+       [50]
+        0 int data = 796
+       [51]
+        0 int data = 797
+       [52]
+        0 int data = 798
+       [53]
+        0 int data = 799
+       [54]
+        0 int data = 800
+       [55]
+        0 int data = 801
+       [56]
+        0 int data = 802
+       [57]
+        0 int data = 803
+       [58]
+        0 int data = 804
+       [59]
+        0 int data = 805
+       [60]
+        0 int data = 806
+       [61]
+        0 int data = 807
+       [62]
+        0 int data = 808
+       [63]
+        0 int data = 809
+       [64]
+        0 int data = 810
+       [65]
+        0 int data = 811
+       [66]
+        0 int data = 812
+       [67]
+        0 int data = 813
+       [68]
+        0 int data = 814
+       [69]
+        0 int data = 815
+       [70]
+        0 int data = 816
+       [71]
+        0 int data = 817
+       [72]
+        0 int data = 818
+       [73]
+        0 int data = 819
+       [74]
+        0 int data = 820
+       [75]
+        0 int data = 821
+       [76]
+        0 int data = 822
+       [77]
+        0 int data = 823
+       [78]
+        0 int data = 824
+       [79]
+        0 int data = 825
+       [80]
+        0 int data = 826
+       [81]
+        0 int data = 827
+       [82]
+        0 int data = 828
+       [83]
+        0 int data = 527
+       [84]
+        0 int data = 84
+       [85]
+        0 int data = 85
+       [86]
+        0 int data = 86
+       [87]
+        0 int data = 87
+       [88]
+        0 int data = 88
+       [89]
+        0 int data = 89
+       [90]
+        0 int data = 528
+       [91]
+        0 int data = 529
+       [92]
+        0 int data = 530
+       [93]
+        0 int data = 829
+       [94]
+        0 int data = 830
+       [95]
+        0 int data = 831
+       [96]
+        0 int data = 832
+       [97]
+        0 int data = 833
+       [98]
+        0 int data = 834
+       [99]
+        0 int data = 99
+       [100]
+        0 int data = 100
+       [101]
+        0 int data = 101
+       [102]
+        0 int data = 102
+       [103]
+        0 int data = 835
+       [104]
+        0 int data = 836
+       [105]
+        0 int data = 837
+       [106]
+        0 int data = 838
+       [107]
+        0 int data = 535
+       [108]
+        0 int data = 536
+       [109]
+        0 int data = 537
+       [110]
+        0 int data = 110
+       [111]
+        0 int data = 111
+       [112]
+        0 int data = 112
+       [113]
+        0 int data = 113
+       [114]
+        0 int data = 114
+       [115]
+        0 int data = 538
+       [116]
+        0 int data = 539
+       [117]
+        0 int data = 540
+       [118]
+        0 int data = 839
+       [119]
+        0 int data = 840
+       [120]
+        0 int data = 841
+       [121]
+        0 int data = 842
+       [122]
+        0 int data = 122
+       [123]
+        0 int data = 123
+       [124]
+        0 int data = 124
+       [125]
+        0 int data = 843
+       [126]
+        0 int data = 844
+       [127]
+        0 int data = 845
+       [128]
+        0 int data = 846
+       [129]
+        0 int data = 847
+       [130]
+        0 int data = 848
+       [131]
+        0 int data = 131
+       [132]
+        0 int data = 541
+       [133]
+        0 int data = 542
+       [134]
+        0 int data = 543
+       [135]
+        0 int data = 135
+       [136]
+        0 int data = 136
+       [137]
+        0 int data = 137
+       [138]
+        0 int data = 138
+       [139]
+        0 int data = 139
+       [140]
+        0 int data = 140
+       [141]
+        0 int data = 141
+       [142]
+        0 int data = 142
+       [143]
+        0 int data = 143
+       [144]
+        0 int data = 849
+       [145]
+        0 int data = 850
+       [146]
+        0 int data = 851
+       [147]
+        0 int data = 852
+       [148]
+        0 int data = 853
+       [149]
+        0 int data = 854
+       [150]
+        0 int data = 855
+       [151]
+        0 int data = 856
+       [152]
+        0 int data = 857
+       [153]
+        0 int data = 858
+       [154]
+        0 int data = 859
+       [155]
+        0 int data = 860
+       [156]
+        0 int data = 156
+       [157]
+        0 int data = 157
+       [158]
+        0 int data = 158
+       [159]
+        0 int data = 159
+       [160]
+        0 int data = 160
+       [161]
+        0 int data = 161
+       [162]
+        0 int data = 162
+       [163]
+        0 int data = 163
+       [164]
+        0 int data = 164
+       [165]
+        0 int data = 165
+       [166]
+        0 int data = 166
+       [167]
+        0 int data = 167
+       [168]
+        0 int data = 168
+       [169]
+        0 int data = 169
+       [170]
+        0 int data = 170
+       [171]
+        0 int data = 861
+       [172]
+        0 int data = 862
+       [173]
+        0 int data = 863
+       [174]
+        0 int data = 864
+       [175]
+        0 int data = 865
+       [176]
+        0 int data = 866
+       [177]
+        0 int data = 867
+       [178]
+        0 int data = 868
+       [179]
+        0 int data = 869
+       [180]
+        0 int data = 870
+       [181]
+        0 int data = 181
+       [182]
+        0 int data = 182
+       [183]
+        0 int data = 183
+       [184]
+        0 int data = 184
+       [185]
+        0 int data = 185
+       [186]
+        0 int data = 186
+       [187]
+        0 int data = 187
+       [188]
+        0 int data = 188
+       [189]
+        0 int data = 189
+       [190]
+        0 int data = 190
+       [191]
+        0 int data = 191
+       [192]
+        0 int data = 192
+       [193]
+        0 int data = 193
+       [194]
+        0 int data = 194
+       [195]
+        0 int data = 871
+       [196]
+        0 int data = 872
+       [197]
+        0 int data = 873
+       [198]
+        0 int data = 874
+       [199]
+        0 int data = 875
+       [200]
+        0 int data = 876
+       [201]
+        0 int data = 877
+       [202]
+        0 int data = 878
+       [203]
+        0 int data = 879
+       [204]
+        0 int data = 880
+       [205]
+        0 int data = 881
+       [206]
+        0 int data = 882
+       [207]
+        0 int data = 207
+       [208]
+        0 int data = 208
+       [209]
+        0 int data = 209
+       [210]
+        0 int data = 210
+       [211]
+        0 int data = 211
+       [212]
+        0 int data = 212
+       [213]
+        0 int data = 213
+       [214]
+        0 int data = 214
+       [215]
+        0 int data = 215
+       [216]
+        0 int data = 216
+       [217]
+        0 int data = 217
+       [218]
+        0 int data = 218
+       [219]
+        0 int data = 219
+       [220]
+        0 int data = 883
+       [221]
+        0 int data = 884
+       [222]
+        0 int data = 885
+       [223]
+        0 int data = 886
+       [224]
+        0 int data = 887
+       [225]
+        0 int data = 888
+       [226]
+        0 int data = 889
+       [227]
+        0 int data = 890
+       [228]
+        0 int data = 891
+       [229]
+        0 int data = 892
+       [230]
+        0 int data = 893
+       [231]
+        0 int data = 894
+       [232]
+        0 int data = 476
+       [233]
+        0 int data = 233
+       [234]
+        0 int data = 234
+       [235]
+        0 int data = 235
+       [236]
+        0 int data = 236
+       [237]
+        0 int data = 237
+       [238]
+        0 int data = 238
+       [239]
+        0 int data = 239
+       [240]
+        0 int data = 240
+       [241]
+        0 int data = 241
+       [242]
+        0 int data = 242
+       [243]
+        0 int data = 243
+       [244]
+        0 int data = 244
+       [245]
+        0 int data = 895
+       [246]
+        0 int data = 896
+       [247]
+        0 int data = 897
+       [248]
+        0 int data = 898
+       [249]
+        0 int data = 899
+       [250]
+        0 int data = 900
+       [251]
+        0 int data = 901
+       [252]
+        0 int data = 902
+       [253]
+        0 int data = 903
+       [254]
+        0 int data = 904
+       [255]
+        0 int data = 905
+       [256]
+        0 int data = 477
+       [257]
+        0 int data = 478
+       [258]
+        0 int data = 258
+       [259]
+        0 int data = 259
+       [260]
+        0 int data = 260
+       [261]
+        0 int data = 261
+       [262]
+        0 int data = 262
+       [263]
+        0 int data = 263
+       [264]
+        0 int data = 264
+       [265]
+        0 int data = 265
+       [266]
+        0 int data = 266
+       [267]
+        0 int data = 267
+       [268]
+        0 int data = 268
+       [269]
+        0 int data = 269
+       [270]
+        0 int data = 906
+       [271]
+        0 int data = 907
+       [272]
+        0 int data = 908
+       [273]
+        0 int data = 909
+       [274]
+        0 int data = 910
+       [275]
+        0 int data = 911
+       [276]
+        0 int data = 912
+       [277]
+        0 int data = 913
+       [278]
+        0 int data = 914
+       [279]
+        0 int data = 279
+       [280]
+        0 int data = 915
+       [281]
+        0 int data = 916
+       [282]
+        0 int data = 917
+       [283]
+        0 int data = 283
+       [284]
+        0 int data = 284
+       [285]
+        0 int data = 285
+       [286]
+        0 int data = 286
+       [287]
+        0 int data = 287
+       [288]
+        0 int data = 288
+       [289]
+        0 int data = 289
+       [290]
+        0 int data = 290
+       [291]
+        0 int data = 291
+       [292]
+        0 int data = 292
+       [293]
+        0 int data = 293
+       [294]
+        0 int data = 918
+       [295]
+        0 int data = 919
+       [296]
+        0 int data = 920
+       [297]
+        0 int data = 921
+       [298]
+        0 int data = 922
+       [299]
+        0 int data = 923
+       [300]
+        0 int data = 924
+       [301]
+        0 int data = 925
+       [302]
+        0 int data = 926
+       [303]
+        0 int data = 927
+       [304]
+        0 int data = 928
+       [305]
+        0 int data = 929
+       [306]
+        0 int data = 930
+       [307]
+        0 int data = 931
+       [308]
+        0 int data = 932
+       [309]
+        0 int data = 309
+       [310]
+        0 int data = 310
+       [311]
+        0 int data = 311
+       [312]
+        0 int data = 544
+       [313]
+        0 int data = 313
+       [314]
+        0 int data = 479
+       [315]
+        0 int data = 933
+       [316]
+        0 int data = 480
+       [317]
+        0 int data = 317
+       [318]
+        0 int data = 318
+       [319]
+        0 int data = 934
+       [320]
+        0 int data = 935
+       [321]
+        0 int data = 936
+       [322]
+        0 int data = 937
+       [323]
+        0 int data = 938
+       [324]
+        0 int data = 939
+       [325]
+        0 int data = 940
+       [326]
+        0 int data = 941
+       [327]
+        0 int data = 942
+       [328]
+        0 int data = 943
+       [329]
+        0 int data = 944
+       [330]
+        0 int data = 945
+       [331]
+        0 int data = 946
+       [332]
+        0 int data = 947
+       [333]
+        0 int data = 948
+       [334]
+        0 int data = 949
+       [335]
+        0 int data = 335
+       [336]
+        0 int data = 336
+       [337]
+        0 int data = 549
+       [338]
+        0 int data = 550
+       [339]
+        0 int data = 339
+       [340]
+        0 int data = 950
+       [341]
+        0 int data = 951
+       [342]
+        0 int data = 952
+       [343]
+        0 int data = 953
+       [344]
+        0 int data = 954
+       [345]
+        0 int data = 955
+       [346]
+        0 int data = 956
+       [347]
+        0 int data = 957
+       [348]
+        0 int data = 958
+       [349]
+        0 int data = 959
+       [350]
+        0 int data = 960
+       [351]
+        0 int data = 961
+       [352]
+        0 int data = 352
+       [353]
+        0 int data = 353
+       [354]
+        0 int data = 354
+       [355]
+        0 int data = 555
+       [356]
+        0 int data = 556
+       [357]
+        0 int data = 962
+       [358]
+        0 int data = 963
+       [359]
+        0 int data = 964
+       [360]
+        0 int data = 560
+       [361]
+        0 int data = 361
+       [362]
+        0 int data = 362
+       [363]
+        0 int data = 363
+       [364]
+        0 int data = 364
+       [365]
+        0 int data = 965
+       [366]
+        0 int data = 966
+       [367]
+        0 int data = 967
+       [368]
+        0 int data = 368
+       [369]
+        0 int data = 369
+       [370]
+        0 int data = 370
+       [371]
+        0 int data = 371
+       [372]
+        0 int data = 968
+       [373]
+        0 int data = 969
+       [374]
+        0 int data = 970
+       [375]
+        0 int data = 971
+       [376]
+        0 int data = 972
+       [377]
+        0 int data = 973
+       [378]
+        0 int data = 974
+       [379]
+        0 int data = 975
+       [380]
+        0 int data = 976
+       [381]
+        0 int data = 977
+       [382]
+        0 int data = 978
+       [383]
+        0 int data = 979
+       [384]
+        0 int data = 980
+       [385]
+        0 int data = 981
+       [386]
+        0 int data = 386
+       [387]
+        0 int data = 387
+       [388]
+        0 int data = 388
+       [389]
+        0 int data = 389
+       [390]
+        0 int data = 390
+       [391]
+        0 int data = 982
+       [392]
+        0 int data = 983
+       [393]
+        0 int data = 984
+       [394]
+        0 int data = 985
+       [395]
+        0 int data = 986
+       [396]
+        0 int data = 987
+       [397]
+        0 int data = 988
+       [398]
+        0 int data = 989
+       [399]
+        0 int data = 990
+       [400]
+        0 int data = 991
+       [401]
+        0 int data = 992
+       [402]
+        0 int data = 993
+       [403]
+        0 int data = 994
+       [404]
+        0 int data = 995
+       [405]
+        0 int data = 996
+       [406]
+        0 int data = 997
+       [407]
+        0 int data = 998
+       [408]
+        0 int data = 999
+       [409]
+        0 int data = 1000
+       [410]
+        0 int data = 1001
+       [411]
+        0 int data = 1002
+       [412]
+        0 int data = 1003
+       [413]
+        0 int data = 1004
+       [414]
+        0 int data = 1005
+       [415]
+        0 int data = 1006
+       [416]
+        0 int data = 1007
+       [417]
+        0 int data = 1008
+       [418]
+        0 int data = 1009
+       [419]
+        0 int data = 1010
+       [420]
+        0 int data = 1011
+       [421]
+        0 int data = 1012
+       [422]
+        0 int data = 1013
+       [423]
+        0 int data = 1014
+       [424]
+        0 int data = 1015
+       [425]
+        0 int data = 1016
+       [426]
+        0 int data = 1017
+       [427]
+        0 int data = 1018
+       [428]
+        0 int data = 1019
+       [429]
+        0 int data = 1020
+       [430]
+        0 int data = 1021
+       [431]
+        0 int data = 1022
+       [432]
+        0 int data = 1023
+       [433]
+        0 int data = 1024
+       [434]
+        0 int data = 1025
+       [435]
+        0 int data = 1026
+       [436]
+        0 int data = 1027
+       [437]
+        0 int data = 1028
+       [438]
+        0 int data = 1029
+       [439]
+        0 int data = 1030
+       [440]
+        0 int data = 1031
+       [441]
+        0 int data = 1032
+       [442]
+        0 int data = 1033
+       [443]
+        0 int data = 1034
+       [444]
+        0 int data = 1035
+       [445]
+        0 int data = 1036
+       [446]
+        0 int data = 1037
+       [447]
+        0 int data = 1038
+       [448]
+        0 int data = 1039
+       [449]
+        0 int data = 1040
+       [450]
+        0 int data = 1041
+       [451]
+        0 int data = 1042
+       [452]
+        0 int data = 1043
+       [453]
+        0 int data = 1044
+       [454]
+        0 int data = 1045
+       [455]
+        0 int data = 1046
+       [456]
+        0 int data = 1047
+       [457]
+        0 int data = 1048
+       [458]
+        0 int data = 1049
+       [459]
+        0 int data = 1050
+       [460]
+        0 int data = 1051
+       [461]
+        0 int data = 1052
+       [462]
+        0 int data = 1053
+       [463]
+        0 int data = 1054
+       [464]
+        0 int data = 1055
+       [465]
+        0 int data = 1056
+       [466]
+        0 int data = 1057
+       [467]
+        0 int data = 1058
+       [468]
+        0 int data = 1059
+       [469]
+        0 int data = 1060
+       [470]
+        0 int data = 1061
+       [471]
+        0 int data = 1062
+       [472]
+        0 int data = 1063
+       [473]
+        0 int data = 1064
+       [474]
+        0 int data = 1065
+     0 int transparentIndex = -1
+   [5]
+    0 DicingTextureData data
+     1 string name = "H_Li_Sh_003_006"
+     1 string atlasName = "H_Li_Sh_003_Atlas0"
+     0 int width = 1440
+     0 int height = 1080
+     0 vector cellIndexList
+      0 Array Array (475 items)
+       0 int size = 475
+       [0]
+        0 int data = 0
+       [1]
+        0 int data = 1
+       [2]
+        0 int data = 2
+       [3]
+        0 int data = 494
+       [4]
+        0 int data = 495
+       [5]
+        0 int data = 496
+       [6]
+        0 int data = 1066
+       [7]
+        0 int data = 1067
+       [8]
+        0 int data = 8
+       [9]
+        0 int data = 9
+       [10]
+        0 int data = 10
+       [11]
+        0 int data = 11
+       [12]
+        0 int data = 12
+       [13]
+        0 int data = 13
+       [14]
+        0 int data = 14
+       [15]
+        0 int data = 15
+       [16]
+        0 int data = 16
+       [17]
+        0 int data = 1068
+       [18]
+        0 int data = 1069
+       [19]
+        0 int data = 500
+       [20]
+        0 int data = 501
+       [21]
+        0 int data = 21
+       [22]
+        0 int data = 22
+       [23]
+        0 int data = 23
+       [24]
+        0 int data = 24
+       [25]
+        0 int data = 25
+       [26]
+        0 int data = 26
+       [27]
+        0 int data = 27
+       [28]
+        0 int data = 28
+       [29]
+        0 int data = 1070
+       [30]
+        0 int data = 1071
+       [31]
+        0 int data = 1072
+       [32]
+        0 int data = 1073
+       [33]
+        0 int data = 33
+       [34]
+        0 int data = 34
+       [35]
+        0 int data = 35
+       [36]
+        0 int data = 36
+       [37]
+        0 int data = 37
+       [38]
+        0 int data = 38
+       [39]
+        0 int data = 39
+       [40]
+        0 int data = 40
+       [41]
+        0 int data = 506
+       [42]
+        0 int data = 1074
+       [43]
+        0 int data = 1075
+       [44]
+        0 int data = 1076
+       [45]
+        0 int data = 1077
+       [46]
+        0 int data = 1078
+       [47]
+        0 int data = 47
+       [48]
+        0 int data = 48
+       [49]
+        0 int data = 49
+       [50]
+        0 int data = 50
+       [51]
+        0 int data = 51
+       [52]
+        0 int data = 52
+       [53]
+        0 int data = 53
+       [54]
+        0 int data = 512
+       [55]
+        0 int data = 513
+       [56]
+        0 int data = 1079
+       [57]
+        0 int data = 1080
+       [58]
+        0 int data = 516
+       [59]
+        0 int data = 59
+       [60]
+        0 int data = 60
+       [61]
+        0 int data = 61
+       [62]
+        0 int data = 62
+       [63]
+        0 int data = 63
+       [64]
+        0 int data = 64
+       [65]
+        0 int data = 65
+       [66]
+        0 int data = 517
+       [67]
+        0 int data = 1081
+       [68]
+        0 int data = 1082
+       [69]
+        0 int data = 1083
+       [70]
+        0 int data = 1084
+       [71]
+        0 int data = 71
+       [72]
+        0 int data = 72
+       [73]
+        0 int data = 73
+       [74]
+        0 int data = 74
+       [75]
+        0 int data = 75
+       [76]
+        0 int data = 76
+       [77]
+        0 int data = 77
+       [78]
+        0 int data = 78
+       [79]
+        0 int data = 523
+       [80]
+        0 int data = 1085
+       [81]
+        0 int data = 1086
+       [82]
+        0 int data = 1087
+       [83]
+        0 int data = 527
+       [84]
+        0 int data = 84
+       [85]
+        0 int data = 85
+       [86]
+        0 int data = 86
+       [87]
+        0 int data = 87
+       [88]
+        0 int data = 88
+       [89]
+        0 int data = 89
+       [90]
+        0 int data = 528
+       [91]
+        0 int data = 529
+       [92]
+        0 int data = 530
+       [93]
+        0 int data = 531
+       [94]
+        0 int data = 94
+       [95]
+        0 int data = 95
+       [96]
+        0 int data = 96
+       [97]
+        0 int data = 97
+       [98]
+        0 int data = 98
+       [99]
+        0 int data = 99
+       [100]
+        0 int data = 100
+       [101]
+        0 int data = 101
+       [102]
+        0 int data = 102
+       [103]
+        0 int data = 103
+       [104]
+        0 int data = 104
+       [105]
+        0 int data = 105
+       [106]
+        0 int data = 534
+       [107]
+        0 int data = 535
+       [108]
+        0 int data = 536
+       [109]
+        0 int data = 537
+       [110]
+        0 int data = 110
+       [111]
+        0 int data = 111
+       [112]
+        0 int data = 112
+       [113]
+        0 int data = 113
+       [114]
+        0 int data = 114
+       [115]
+        0 int data = 538
+       [116]
+        0 int data = 539
+       [117]
+        0 int data = 540
+       [118]
+        0 int data = 118
+       [119]
+        0 int data = 119
+       [120]
+        0 int data = 120
+       [121]
+        0 int data = 121
+       [122]
+        0 int data = 122
+       [123]
+        0 int data = 123
+       [124]
+        0 int data = 124
+       [125]
+        0 int data = 125
+       [126]
+        0 int data = 126
+       [127]
+        0 int data = 127
+       [128]
+        0 int data = 128
+       [129]
+        0 int data = 129
+       [130]
+        0 int data = 130
+       [131]
+        0 int data = 131
+       [132]
+        0 int data = 541
+       [133]
+        0 int data = 542
+       [134]
+        0 int data = 543
+       [135]
+        0 int data = 135
+       [136]
+        0 int data = 136
+       [137]
+        0 int data = 137
+       [138]
+        0 int data = 138
+       [139]
+        0 int data = 139
+       [140]
+        0 int data = 140
+       [141]
+        0 int data = 141
+       [142]
+        0 int data = 142
+       [143]
+        0 int data = 143
+       [144]
+        0 int data = 144
+       [145]
+        0 int data = 145
+       [146]
+        0 int data = 146
+       [147]
+        0 int data = 147
+       [148]
+        0 int data = 148
+       [149]
+        0 int data = 149
+       [150]
+        0 int data = 150
+       [151]
+        0 int data = 151
+       [152]
+        0 int data = 152
+       [153]
+        0 int data = 153
+       [154]
+        0 int data = 154
+       [155]
+        0 int data = 155
+       [156]
+        0 int data = 156
+       [157]
+        0 int data = 157
+       [158]
+        0 int data = 158
+       [159]
+        0 int data = 159
+       [160]
+        0 int data = 160
+       [161]
+        0 int data = 161
+       [162]
+        0 int data = 162
+       [163]
+        0 int data = 163
+       [164]
+        0 int data = 164
+       [165]
+        0 int data = 165
+       [166]
+        0 int data = 166
+       [167]
+        0 int data = 167
+       [168]
+        0 int data = 168
+       [169]
+        0 int data = 169
+       [170]
+        0 int data = 170
+       [171]
+        0 int data = 171
+       [172]
+        0 int data = 172
+       [173]
+        0 int data = 173
+       [174]
+        0 int data = 174
+       [175]
+        0 int data = 175
+       [176]
+        0 int data = 176
+       [177]
+        0 int data = 177
+       [178]
+        0 int data = 178
+       [179]
+        0 int data = 179
+       [180]
+        0 int data = 180
+       [181]
+        0 int data = 181
+       [182]
+        0 int data = 182
+       [183]
+        0 int data = 183
+       [184]
+        0 int data = 184
+       [185]
+        0 int data = 185
+       [186]
+        0 int data = 186
+       [187]
+        0 int data = 187
+       [188]
+        0 int data = 188
+       [189]
+        0 int data = 189
+       [190]
+        0 int data = 190
+       [191]
+        0 int data = 191
+       [192]
+        0 int data = 192
+       [193]
+        0 int data = 193
+       [194]
+        0 int data = 194
+       [195]
+        0 int data = 195
+       [196]
+        0 int data = 196
+       [197]
+        0 int data = 197
+       [198]
+        0 int data = 198
+       [199]
+        0 int data = 199
+       [200]
+        0 int data = 200
+       [201]
+        0 int data = 201
+       [202]
+        0 int data = 202
+       [203]
+        0 int data = 203
+       [204]
+        0 int data = 204
+       [205]
+        0 int data = 205
+       [206]
+        0 int data = 206
+       [207]
+        0 int data = 207
+       [208]
+        0 int data = 208
+       [209]
+        0 int data = 209
+       [210]
+        0 int data = 210
+       [211]
+        0 int data = 211
+       [212]
+        0 int data = 212
+       [213]
+        0 int data = 213
+       [214]
+        0 int data = 214
+       [215]
+        0 int data = 215
+       [216]
+        0 int data = 216
+       [217]
+        0 int data = 217
+       [218]
+        0 int data = 218
+       [219]
+        0 int data = 219
+       [220]
+        0 int data = 220
+       [221]
+        0 int data = 221
+       [222]
+        0 int data = 222
+       [223]
+        0 int data = 223
+       [224]
+        0 int data = 224
+       [225]
+        0 int data = 225
+       [226]
+        0 int data = 226
+       [227]
+        0 int data = 227
+       [228]
+        0 int data = 228
+       [229]
+        0 int data = 229
+       [230]
+        0 int data = 230
+       [231]
+        0 int data = 475
+       [232]
+        0 int data = 476
+       [233]
+        0 int data = 233
+       [234]
+        0 int data = 234
+       [235]
+        0 int data = 235
+       [236]
+        0 int data = 236
+       [237]
+        0 int data = 237
+       [238]
+        0 int data = 238
+       [239]
+        0 int data = 239
+       [240]
+        0 int data = 240
+       [241]
+        0 int data = 241
+       [242]
+        0 int data = 242
+       [243]
+        0 int data = 243
+       [244]
+        0 int data = 244
+       [245]
+        0 int data = 245
+       [246]
+        0 int data = 246
+       [247]
+        0 int data = 247
+       [248]
+        0 int data = 248
+       [249]
+        0 int data = 249
+       [250]
+        0 int data = 250
+       [251]
+        0 int data = 251
+       [252]
+        0 int data = 252
+       [253]
+        0 int data = 253
+       [254]
+        0 int data = 254
+       [255]
+        0 int data = 255
+       [256]
+        0 int data = 477
+       [257]
+        0 int data = 478
+       [258]
+        0 int data = 258
+       [259]
+        0 int data = 259
+       [260]
+        0 int data = 260
+       [261]
+        0 int data = 261
+       [262]
+        0 int data = 262
+       [263]
+        0 int data = 263
+       [264]
+        0 int data = 264
+       [265]
+        0 int data = 265
+       [266]
+        0 int data = 266
+       [267]
+        0 int data = 267
+       [268]
+        0 int data = 268
+       [269]
+        0 int data = 269
+       [270]
+        0 int data = 270
+       [271]
+        0 int data = 271
+       [272]
+        0 int data = 272
+       [273]
+        0 int data = 273
+       [274]
+        0 int data = 274
+       [275]
+        0 int data = 275
+       [276]
+        0 int data = 276
+       [277]
+        0 int data = 277
+       [278]
+        0 int data = 278
+       [279]
+        0 int data = 279
+       [280]
+        0 int data = 280
+       [281]
+        0 int data = 281
+       [282]
+        0 int data = 282
+       [283]
+        0 int data = 283
+       [284]
+        0 int data = 284
+       [285]
+        0 int data = 285
+       [286]
+        0 int data = 286
+       [287]
+        0 int data = 287
+       [288]
+        0 int data = 288
+       [289]
+        0 int data = 289
+       [290]
+        0 int data = 290
+       [291]
+        0 int data = 291
+       [292]
+        0 int data = 292
+       [293]
+        0 int data = 293
+       [294]
+        0 int data = 294
+       [295]
+        0 int data = 295
+       [296]
+        0 int data = 296
+       [297]
+        0 int data = 297
+       [298]
+        0 int data = 298
+       [299]
+        0 int data = 299
+       [300]
+        0 int data = 300
+       [301]
+        0 int data = 301
+       [302]
+        0 int data = 302
+       [303]
+        0 int data = 303
+       [304]
+        0 int data = 304
+       [305]
+        0 int data = 305
+       [306]
+        0 int data = 306
+       [307]
+        0 int data = 307
+       [308]
+        0 int data = 308
+       [309]
+        0 int data = 309
+       [310]
+        0 int data = 310
+       [311]
+        0 int data = 311
+       [312]
+        0 int data = 312
+       [313]
+        0 int data = 313
+       [314]
+        0 int data = 479
+       [315]
+        0 int data = 1088
+       [316]
+        0 int data = 480
+       [317]
+        0 int data = 317
+       [318]
+        0 int data = 318
+       [319]
+        0 int data = 319
+       [320]
+        0 int data = 320
+       [321]
+        0 int data = 321
+       [322]
+        0 int data = 322
+       [323]
+        0 int data = 323
+       [324]
+        0 int data = 324
+       [325]
+        0 int data = 325
+       [326]
+        0 int data = 326
+       [327]
+        0 int data = 327
+       [328]
+        0 int data = 328
+       [329]
+        0 int data = 329
+       [330]
+        0 int data = 330
+       [331]
+        0 int data = 331
+       [332]
+        0 int data = 332
+       [333]
+        0 int data = 1089
+       [334]
+        0 int data = 1090
+       [335]
+        0 int data = 335
+       [336]
+        0 int data = 336
+       [337]
+        0 int data = 337
+       [338]
+        0 int data = 338
+       [339]
+        0 int data = 339
+       [340]
+        0 int data = 1091
+       [341]
+        0 int data = 951
+       [342]
+        0 int data = 1092
+       [343]
+        0 int data = 343
+       [344]
+        0 int data = 344
+       [345]
+        0 int data = 345
+       [346]
+        0 int data = 346
+       [347]
+        0 int data = 347
+       [348]
+        0 int data = 348
+       [349]
+        0 int data = 349
+       [350]
+        0 int data = 350
+       [351]
+        0 int data = 351
+       [352]
+        0 int data = 352
+       [353]
+        0 int data = 353
+       [354]
+        0 int data = 354
+       [355]
+        0 int data = 355
+       [356]
+        0 int data = 356
+       [357]
+        0 int data = 1093
+       [358]
+        0 int data = 1094
+       [359]
+        0 int data = 1095
+       [360]
+        0 int data = 560
+       [361]
+        0 int data = 361
+       [362]
+        0 int data = 362
+       [363]
+        0 int data = 363
+       [364]
+        0 int data = 364
+       [365]
+        0 int data = 965
+       [366]
+        0 int data = 1096
+       [367]
+        0 int data = 1097
+       [368]
+        0 int data = 368
+       [369]
+        0 int data = 369
+       [370]
+        0 int data = 370
+       [371]
+        0 int data = 371
+       [372]
+        0 int data = 372
+       [373]
+        0 int data = 373
+       [374]
+        0 int data = 374
+       [375]
+        0 int data = 375
+       [376]
+        0 int data = 376
+       [377]
+        0 int data = 377
+       [378]
+        0 int data = 378
+       [379]
+        0 int data = 379
+       [380]
+        0 int data = 380
+       [381]
+        0 int data = 381
+       [382]
+        0 int data = 1098
+       [383]
+        0 int data = 1099
+       [384]
+        0 int data = 1100
+       [385]
+        0 int data = 1101
+       [386]
+        0 int data = 386
+       [387]
+        0 int data = 387
+       [388]
+        0 int data = 388
+       [389]
+        0 int data = 389
+       [390]
+        0 int data = 390
+       [391]
+        0 int data = 492
+       [392]
+        0 int data = 493
+       [393]
+        0 int data = 393
+       [394]
+        0 int data = 394
+       [395]
+        0 int data = 395
+       [396]
+        0 int data = 396
+       [397]
+        0 int data = 397
+       [398]
+        0 int data = 398
+       [399]
+        0 int data = 399
+       [400]
+        0 int data = 400
+       [401]
+        0 int data = 401
+       [402]
+        0 int data = 402
+       [403]
+        0 int data = 403
+       [404]
+        0 int data = 404
+       [405]
+        0 int data = 405
+       [406]
+        0 int data = 406
+       [407]
+        0 int data = 407
+       [408]
+        0 int data = 408
+       [409]
+        0 int data = 409
+       [410]
+        0 int data = 410
+       [411]
+        0 int data = 411
+       [412]
+        0 int data = 412
+       [413]
+        0 int data = 413
+       [414]
+        0 int data = 414
+       [415]
+        0 int data = 415
+       [416]
+        0 int data = 416
+       [417]
+        0 int data = 417
+       [418]
+        0 int data = 418
+       [419]
+        0 int data = 419
+       [420]
+        0 int data = 420
+       [421]
+        0 int data = 421
+       [422]
+        0 int data = 422
+       [423]
+        0 int data = 423
+       [424]
+        0 int data = 424
+       [425]
+        0 int data = 425
+       [426]
+        0 int data = 426
+       [427]
+        0 int data = 427
+       [428]
+        0 int data = 428
+       [429]
+        0 int data = 429
+       [430]
+        0 int data = 430
+       [431]
+        0 int data = 431
+       [432]
+        0 int data = 432
+       [433]
+        0 int data = 433
+       [434]
+        0 int data = 434
+       [435]
+        0 int data = 435
+       [436]
+        0 int data = 436
+       [437]
+        0 int data = 437
+       [438]
+        0 int data = 438
+       [439]
+        0 int data = 439
+       [440]
+        0 int data = 440
+       [441]
+        0 int data = 441
+       [442]
+        0 int data = 442
+       [443]
+        0 int data = 443
+       [444]
+        0 int data = 444
+       [445]
+        0 int data = 445
+       [446]
+        0 int data = 446
+       [447]
+        0 int data = 447
+       [448]
+        0 int data = 448
+       [449]
+        0 int data = 449
+       [450]
+        0 int data = 450
+       [451]
+        0 int data = 451
+       [452]
+        0 int data = 452
+       [453]
+        0 int data = 453
+       [454]
+        0 int data = 454
+       [455]
+        0 int data = 455
+       [456]
+        0 int data = 456
+       [457]
+        0 int data = 457
+       [458]
+        0 int data = 458
+       [459]
+        0 int data = 459
+       [460]
+        0 int data = 460
+       [461]
+        0 int data = 461
+       [462]
+        0 int data = 462
+       [463]
+        0 int data = 463
+       [464]
+        0 int data = 464
+       [465]
+        0 int data = 465
+       [466]
+        0 int data = 466
+       [467]
+        0 int data = 467
+       [468]
+        0 int data = 468
+       [469]
+        0 int data = 469
+       [470]
+        0 int data = 470
+       [471]
+        0 int data = 471
+       [472]
+        0 int data = 472
+       [473]
+        0 int data = 473
+       [474]
+        0 int data = 474
+     0 int transparentIndex = -1
+   [6]
+    0 DicingTextureData data
+     1 string name = "H_Li_Sh_003_007"
+     1 string atlasName = "H_Li_Sh_003_Atlas0"
+     0 int width = 1440
+     0 int height = 1080
+     0 vector cellIndexList
+      0 Array Array (475 items)
+       0 int size = 475
+       [0]
+        0 int data = 0
+       [1]
+        0 int data = 1
+       [2]
+        0 int data = 2
+       [3]
+        0 int data = 3
+       [4]
+        0 int data = 4
+       [5]
+        0 int data = 575
+       [6]
+        0 int data = 1102
+       [7]
+        0 int data = 1103
+       [8]
+        0 int data = 578
+       [9]
+        0 int data = 9
+       [10]
+        0 int data = 579
+       [11]
+        0 int data = 580
+       [12]
+        0 int data = 581
+       [13]
+        0 int data = 582
+       [14]
+        0 int data = 583
+       [15]
+        0 int data = 584
+       [16]
+        0 int data = 585
+       [17]
+        0 int data = 1104
+       [18]
+        0 int data = 1105
+       [19]
+        0 int data = 588
+       [20]
+        0 int data = 589
+       [21]
+        0 int data = 21
+       [22]
+        0 int data = 22
+       [23]
+        0 int data = 590
+       [24]
+        0 int data = 591
+       [25]
+        0 int data = 25
+       [26]
+        0 int data = 26
+       [27]
+        0 int data = 27
+       [28]
+        0 int data = 592
+       [29]
+        0 int data = 593
+       [30]
+        0 int data = 594
+       [31]
+        0 int data = 1106
+       [32]
+        0 int data = 1107
+       [33]
+        0 int data = 33
+       [34]
+        0 int data = 34
+       [35]
+        0 int data = 597
+       [36]
+        0 int data = 598
+       [37]
+        0 int data = 599
+       [38]
+        0 int data = 600
+       [39]
+        0 int data = 601
+       [40]
+        0 int data = 602
+       [41]
+        0 int data = 506
+       [42]
+        0 int data = 1108
+       [43]
+        0 int data = 1109
+       [44]
+        0 int data = 605
+       [45]
+        0 int data = 606
+       [46]
+        0 int data = 607
+       [47]
+        0 int data = 608
+       [48]
+        0 int data = 609
+       [49]
+        0 int data = 610
+       [50]
+        0 int data = 50
+       [51]
+        0 int data = 51
+       [52]
+        0 int data = 611
+       [53]
+        0 int data = 612
+       [54]
+        0 int data = 613
+       [55]
+        0 int data = 614
+       [56]
+        0 int data = 1110
+       [57]
+        0 int data = 1111
+       [58]
+        0 int data = 516
+       [59]
+        0 int data = 59
+       [60]
+        0 int data = 617
+       [61]
+        0 int data = 618
+       [62]
+        0 int data = 619
+       [63]
+        0 int data = 620
+       [64]
+        0 int data = 621
+       [65]
+        0 int data = 622
+       [66]
+        0 int data = 517
+       [67]
+        0 int data = 1112
+       [68]
+        0 int data = 1113
+       [69]
+        0 int data = 1114
+       [70]
+        0 int data = 626
+       [71]
+        0 int data = 627
+       [72]
+        0 int data = 628
+       [73]
+        0 int data = 73
+       [74]
+        0 int data = 74
+       [75]
+        0 int data = 75
+       [76]
+        0 int data = 76
+       [77]
+        0 int data = 629
+       [78]
+        0 int data = 630
+       [79]
+        0 int data = 631
+       [80]
+        0 int data = 632
+       [81]
+        0 int data = 1115
+       [82]
+        0 int data = 1116
+       [83]
+        0 int data = 527
+       [84]
+        0 int data = 84
+       [85]
+        0 int data = 85
+       [86]
+        0 int data = 635
+       [87]
+        0 int data = 636
+       [88]
+        0 int data = 88
+       [89]
+        0 int data = 89
+       [90]
+        0 int data = 528
+       [91]
+        0 int data = 529
+       [92]
+        0 int data = 530
+       [93]
+        0 int data = 531
+       [94]
+        0 int data = 637
+       [95]
+        0 int data = 638
+       [96]
+        0 int data = 639
+       [97]
+        0 int data = 640
+       [98]
+        0 int data = 98
+       [99]
+        0 int data = 99
+       [100]
+        0 int data = 100
+       [101]
+        0 int data = 101
+       [102]
+        0 int data = 641
+       [103]
+        0 int data = 642
+       [104]
+        0 int data = 643
+       [105]
+        0 int data = 644
+       [106]
+        0 int data = 534
+       [107]
+        0 int data = 535
+       [108]
+        0 int data = 536
+       [109]
+        0 int data = 537
+       [110]
+        0 int data = 110
+       [111]
+        0 int data = 111
+       [112]
+        0 int data = 112
+       [113]
+        0 int data = 113
+       [114]
+        0 int data = 114
+       [115]
+        0 int data = 538
+       [116]
+        0 int data = 539
+       [117]
+        0 int data = 540
+       [118]
+        0 int data = 118
+       [119]
+        0 int data = 119
+       [120]
+        0 int data = 645
+       [121]
+        0 int data = 646
+       [122]
+        0 int data = 647
+       [123]
+        0 int data = 123
+       [124]
+        0 int data = 124
+       [125]
+        0 int data = 125
+       [126]
+        0 int data = 126
+       [127]
+        0 int data = 127
+       [128]
+        0 int data = 648
+       [129]
+        0 int data = 649
+       [130]
+        0 int data = 650
+       [131]
+        0 int data = 651
+       [132]
+        0 int data = 541
+       [133]
+        0 int data = 542
+       [134]
+        0 int data = 543
+       [135]
+        0 int data = 135
+       [136]
+        0 int data = 136
+       [137]
+        0 int data = 137
+       [138]
+        0 int data = 138
+       [139]
+        0 int data = 139
+       [140]
+        0 int data = 140
+       [141]
+        0 int data = 141
+       [142]
+        0 int data = 142
+       [143]
+        0 int data = 143
+       [144]
+        0 int data = 144
+       [145]
+        0 int data = 652
+       [146]
+        0 int data = 653
+       [147]
+        0 int data = 654
+       [148]
+        0 int data = 148
+       [149]
+        0 int data = 149
+       [150]
+        0 int data = 150
+       [151]
+        0 int data = 151
+       [152]
+        0 int data = 152
+       [153]
+        0 int data = 655
+       [154]
+        0 int data = 656
+       [155]
+        0 int data = 657
+       [156]
+        0 int data = 156
+       [157]
+        0 int data = 157
+       [158]
+        0 int data = 158
+       [159]
+        0 int data = 159
+       [160]
+        0 int data = 160
+       [161]
+        0 int data = 161
+       [162]
+        0 int data = 162
+       [163]
+        0 int data = 163
+       [164]
+        0 int data = 164
+       [165]
+        0 int data = 165
+       [166]
+        0 int data = 166
+       [167]
+        0 int data = 167
+       [168]
+        0 int data = 168
+       [169]
+        0 int data = 169
+       [170]
+        0 int data = 658
+       [171]
+        0 int data = 659
+       [172]
+        0 int data = 660
+       [173]
+        0 int data = 173
+       [174]
+        0 int data = 174
+       [175]
+        0 int data = 175
+       [176]
+        0 int data = 176
+       [177]
+        0 int data = 177
+       [178]
+        0 int data = 661
+       [179]
+        0 int data = 662
+       [180]
+        0 int data = 663
+       [181]
+        0 int data = 181
+       [182]
+        0 int data = 182
+       [183]
+        0 int data = 183
+       [184]
+        0 int data = 184
+       [185]
+        0 int data = 185
+       [186]
+        0 int data = 186
+       [187]
+        0 int data = 187
+       [188]
+        0 int data = 188
+       [189]
+        0 int data = 189
+       [190]
+        0 int data = 190
+       [191]
+        0 int data = 191
+       [192]
+        0 int data = 192
+       [193]
+        0 int data = 193
+       [194]
+        0 int data = 194
+       [195]
+        0 int data = 664
+       [196]
+        0 int data = 665
+       [197]
+        0 int data = 666
+       [198]
+        0 int data = 198
+       [199]
+        0 int data = 199
+       [200]
+        0 int data = 200
+       [201]
+        0 int data = 201
+       [202]
+        0 int data = 667
+       [203]
+        0 int data = 668
+       [204]
+        0 int data = 669
+       [205]
+        0 int data = 205
+       [206]
+        0 int data = 206
+       [207]
+        0 int data = 207
+       [208]
+        0 int data = 208
+       [209]
+        0 int data = 209
+       [210]
+        0 int data = 210
+       [211]
+        0 int data = 211
+       [212]
+        0 int data = 212
+       [213]
+        0 int data = 213
+       [214]
+        0 int data = 214
+       [215]
+        0 int data = 215
+       [216]
+        0 int data = 216
+       [217]
+        0 int data = 217
+       [218]
+        0 int data = 218
+       [219]
+        0 int data = 219
+       [220]
+        0 int data = 670
+       [221]
+        0 int data = 671
+       [222]
+        0 int data = 672
+       [223]
+        0 int data = 673
+       [224]
+        0 int data = 224
+       [225]
+        0 int data = 225
+       [226]
+        0 int data = 226
+       [227]
+        0 int data = 674
+       [228]
+        0 int data = 675
+       [229]
+        0 int data = 676
+       [230]
+        0 int data = 677
+       [231]
+        0 int data = 678
+       [232]
+        0 int data = 476
+       [233]
+        0 int data = 233
+       [234]
+        0 int data = 234
+       [235]
+        0 int data = 235
+       [236]
+        0 int data = 236
+       [237]
+        0 int data = 237
+       [238]
+        0 int data = 238
+       [239]
+        0 int data = 239
+       [240]
+        0 int data = 240
+       [241]
+        0 int data = 241
+       [242]
+        0 int data = 679
+       [243]
+        0 int data = 680
+       [244]
+        0 int data = 681
+       [245]
+        0 int data = 682
+       [246]
+        0 int data = 683
+       [247]
+        0 int data = 684
+       [248]
+        0 int data = 685
+       [249]
+        0 int data = 249
+       [250]
+        0 int data = 250
+       [251]
+        0 int data = 251
+       [252]
+        0 int data = 686
+       [253]
+        0 int data = 687
+       [254]
+        0 int data = 688
+       [255]
+        0 int data = 255
+       [256]
+        0 int data = 477
+       [257]
+        0 int data = 478
+       [258]
+        0 int data = 258
+       [259]
+        0 int data = 259
+       [260]
+        0 int data = 260
+       [261]
+        0 int data = 261
+       [262]
+        0 int data = 262
+       [263]
+        0 int data = 263
+       [264]
+        0 int data = 264
+       [265]
+        0 int data = 265
+       [266]
+        0 int data = 266
+       [267]
+        0 int data = 689
+       [268]
+        0 int data = 690
+       [269]
+        0 int data = 691
+       [270]
+        0 int data = 692
+       [271]
+        0 int data = 693
+       [272]
+        0 int data = 694
+       [273]
+        0 int data = 695
+       [274]
+        0 int data = 274
+       [275]
+        0 int data = 275
+       [276]
+        0 int data = 696
+       [277]
+        0 int data = 697
+       [278]
+        0 int data = 698
+       [279]
+        0 int data = 279
+       [280]
+        0 int data = 280
+       [281]
+        0 int data = 281
+       [282]
+        0 int data = 282
+       [283]
+        0 int data = 283
+       [284]
+        0 int data = 284
+       [285]
+        0 int data = 285
+       [286]
+        0 int data = 286
+       [287]
+        0 int data = 287
+       [288]
+        0 int data = 288
+       [289]
+        0 int data = 289
+       [290]
+        0 int data = 290
+       [291]
+        0 int data = 291
+       [292]
+        0 int data = 292
+       [293]
+        0 int data = 293
+       [294]
+        0 int data = 294
+       [295]
+        0 int data = 295
+       [296]
+        0 int data = 699
+       [297]
+        0 int data = 700
+       [298]
+        0 int data = 701
+       [299]
+        0 int data = 299
+       [300]
+        0 int data = 300
+       [301]
+        0 int data = 702
+       [302]
+        0 int data = 703
+       [303]
+        0 int data = 704
+       [304]
+        0 int data = 304
+       [305]
+        0 int data = 305
+       [306]
+        0 int data = 306
+       [307]
+        0 int data = 307
+       [308]
+        0 int data = 308
+       [309]
+        0 int data = 309
+       [310]
+        0 int data = 310
+       [311]
+        0 int data = 311
+       [312]
+        0 int data = 705
+       [313]
+        0 int data = 313
+       [314]
+        0 int data = 479
+       [315]
+        0 int data = 1088
+       [316]
+        0 int data = 480
+       [317]
+        0 int data = 317
+       [318]
+        0 int data = 318
+       [319]
+        0 int data = 319
+       [320]
+        0 int data = 320
+       [321]
+        0 int data = 708
+       [322]
+        0 int data = 709
+       [323]
+        0 int data = 710
+       [324]
+        0 int data = 711
+       [325]
+        0 int data = 712
+       [326]
+        0 int data = 713
+       [327]
+        0 int data = 714
+       [328]
+        0 int data = 328
+       [329]
+        0 int data = 329
+       [330]
+        0 int data = 330
+       [331]
+        0 int data = 546
+       [332]
+        0 int data = 332
+       [333]
+        0 int data = 1117
+       [334]
+        0 int data = 1118
+       [335]
+        0 int data = 335
+       [336]
+        0 int data = 336
+       [337]
+        0 int data = 549
+       [338]
+        0 int data = 550
+       [339]
+        0 int data = 339
+       [340]
+        0 int data = 1091
+       [341]
+        0 int data = 951
+       [342]
+        0 int data = 952
+       [343]
+        0 int data = 554
+       [344]
+        0 int data = 344
+       [345]
+        0 int data = 345
+       [346]
+        0 int data = 346
+       [347]
+        0 int data = 719
+       [348]
+        0 int data = 720
+       [349]
+        0 int data = 721
+       [350]
+        0 int data = 722
+       [351]
+        0 int data = 723
+       [352]
+        0 int data = 352
+       [353]
+        0 int data = 353
+       [354]
+        0 int data = 354
+       [355]
+        0 int data = 555
+       [356]
+        0 int data = 556
+       [357]
+        0 int data = 962
+       [358]
+        0 int data = 963
+       [359]
+        0 int data = 964
+       [360]
+        0 int data = 560
+       [361]
+        0 int data = 361
+       [362]
+        0 int data = 362
+       [363]
+        0 int data = 363
+       [364]
+        0 int data = 364
+       [365]
+        0 int data = 965
+       [366]
+        0 int data = 966
+       [367]
+        0 int data = 967
+       [368]
+        0 int data = 368
+       [369]
+        0 int data = 369
+       [370]
+        0 int data = 370
+       [371]
+        0 int data = 371
+       [372]
+        0 int data = 372
+       [373]
+        0 int data = 373
+       [374]
+        0 int data = 374
+       [375]
+        0 int data = 375
+       [376]
+        0 int data = 376
+       [377]
+        0 int data = 377
+       [378]
+        0 int data = 378
+       [379]
+        0 int data = 379
+       [380]
+        0 int data = 380
+       [381]
+        0 int data = 381
+       [382]
+        0 int data = 1119
+       [383]
+        0 int data = 1120
+       [384]
+        0 int data = 980
+       [385]
+        0 int data = 981
+       [386]
+        0 int data = 386
+       [387]
+        0 int data = 387
+       [388]
+        0 int data = 388
+       [389]
+        0 int data = 389
+       [390]
+        0 int data = 390
+       [391]
+        0 int data = 1121
+       [392]
+        0 int data = 493
+       [393]
+        0 int data = 393
+       [394]
+        0 int data = 394
+       [395]
+        0 int data = 395
+       [396]
+        0 int data = 396
+       [397]
+        0 int data = 397
+       [398]
+        0 int data = 398
+       [399]
+        0 int data = 399
+       [400]
+        0 int data = 400
+       [401]
+        0 int data = 401
+       [402]
+        0 int data = 402
+       [403]
+        0 int data = 403
+       [404]
+        0 int data = 404
+       [405]
+        0 int data = 405
+       [406]
+        0 int data = 406
+       [407]
+        0 int data = 1122
+       [408]
+        0 int data = 1123
+       [409]
+        0 int data = 1124
+       [410]
+        0 int data = 1125
+       [411]
+        0 int data = 573
+       [412]
+        0 int data = 574
+       [413]
+        0 int data = 726
+       [414]
+        0 int data = 727
+       [415]
+        0 int data = 728
+       [416]
+        0 int data = 729
+       [417]
+        0 int data = 417
+       [418]
+        0 int data = 418
+       [419]
+        0 int data = 419
+       [420]
+        0 int data = 420
+       [421]
+        0 int data = 421
+       [422]
+        0 int data = 422
+       [423]
+        0 int data = 423
+       [424]
+        0 int data = 424
+       [425]
+        0 int data = 425
+       [426]
+        0 int data = 426
+       [427]
+        0 int data = 427
+       [428]
+        0 int data = 428
+       [429]
+        0 int data = 429
+       [430]
+        0 int data = 430
+       [431]
+        0 int data = 431
+       [432]
+        0 int data = 432
+       [433]
+        0 int data = 433
+       [434]
+        0 int data = 434
+       [435]
+        0 int data = 435
+       [436]
+        0 int data = 436
+       [437]
+        0 int data = 437
+       [438]
+        0 int data = 730
+       [439]
+        0 int data = 731
+       [440]
+        0 int data = 732
+       [441]
+        0 int data = 733
+       [442]
+        0 int data = 442
+       [443]
+        0 int data = 443
+       [444]
+        0 int data = 734
+       [445]
+        0 int data = 735
+       [446]
+        0 int data = 736
+       [447]
+        0 int data = 737
+       [448]
+        0 int data = 738
+       [449]
+        0 int data = 739
+       [450]
+        0 int data = 450
+       [451]
+        0 int data = 451
+       [452]
+        0 int data = 452
+       [453]
+        0 int data = 453
+       [454]
+        0 int data = 454
+       [455]
+        0 int data = 455
+       [456]
+        0 int data = 456
+       [457]
+        0 int data = 457
+       [458]
+        0 int data = 458
+       [459]
+        0 int data = 459
+       [460]
+        0 int data = 460
+       [461]
+        0 int data = 461
+       [462]
+        0 int data = 462
+       [463]
+        0 int data = 463
+       [464]
+        0 int data = 740
+       [465]
+        0 int data = 741
+       [466]
+        0 int data = 466
+       [467]
+        0 int data = 467
+       [468]
+        0 int data = 468
+       [469]
+        0 int data = 742
+       [470]
+        0 int data = 743
+       [471]
+        0 int data = 744
+       [472]
+        0 int data = 745
+       [473]
+        0 int data = 746
+       [474]
+        0 int data = 747
+     0 int transparentIndex = -1
+   [7]
+    0 DicingTextureData data
+     1 string name = "H_Li_Sh_003_008"
+     1 string atlasName = "H_Li_Sh_003_Atlas0"
+     0 int width = 1440
+     0 int height = 1080
+     0 vector cellIndexList
+      0 Array Array (475 items)
+       0 int size = 475
+       [0]
+        0 int data = 0
+       [1]
+        0 int data = 1126
+       [2]
+        0 int data = 1127
+       [3]
+        0 int data = 1128
+       [4]
+        0 int data = 1129
+       [5]
+        0 int data = 1130
+       [6]
+        0 int data = 1131
+       [7]
+        0 int data = 1132
+       [8]
+        0 int data = 8
+       [9]
+        0 int data = 9
+       [10]
+        0 int data = 10
+       [11]
+        0 int data = 11
+       [12]
+        0 int data = 12
+       [13]
+        0 int data = 13
+       [14]
+        0 int data = 14
+       [15]
+        0 int data = 15
+       [16]
+        0 int data = 16
+       [17]
+        0 int data = 1133
+       [18]
+        0 int data = 1134
+       [19]
+        0 int data = 1135
+       [20]
+        0 int data = 1136
+       [21]
+        0 int data = 1137
+       [22]
+        0 int data = 1138
+       [23]
+        0 int data = 23
+       [24]
+        0 int data = 24
+       [25]
+        0 int data = 1139
+       [26]
+        0 int data = 1140
+       [27]
+        0 int data = 27
+       [28]
+        0 int data = 1141
+       [29]
+        0 int data = 1142
+       [30]
+        0 int data = 1143
+       [31]
+        0 int data = 1144
+       [32]
+        0 int data = 1145
+       [33]
+        0 int data = 33
+       [34]
+        0 int data = 34
+       [35]
+        0 int data = 35
+       [36]
+        0 int data = 36
+       [37]
+        0 int data = 37
+       [38]
+        0 int data = 38
+       [39]
+        0 int data = 39
+       [40]
+        0 int data = 40
+       [41]
+        0 int data = 506
+       [42]
+        0 int data = 1146
+       [43]
+        0 int data = 1147
+       [44]
+        0 int data = 1148
+       [45]
+        0 int data = 1149
+       [46]
+        0 int data = 1150
+       [47]
+        0 int data = 1151
+       [48]
+        0 int data = 48
+       [49]
+        0 int data = 49
+       [50]
+        0 int data = 1152
+       [51]
+        0 int data = 1153
+       [52]
+        0 int data = 1154
+       [53]
+        0 int data = 1155
+       [54]
+        0 int data = 1156
+       [55]
+        0 int data = 1157
+       [56]
+        0 int data = 1158
+       [57]
+        0 int data = 1159
+       [58]
+        0 int data = 516
+       [59]
+        0 int data = 59
+       [60]
+        0 int data = 60
+       [61]
+        0 int data = 61
+       [62]
+        0 int data = 62
+       [63]
+        0 int data = 63
+       [64]
+        0 int data = 64
+       [65]
+        0 int data = 65
+       [66]
+        0 int data = 517
+       [67]
+        0 int data = 1081
+       [68]
+        0 int data = 1160
+       [69]
+        0 int data = 1161
+       [70]
+        0 int data = 1162
+       [71]
+        0 int data = 1163
+       [72]
+        0 int data = 1164
+       [73]
+        0 int data = 73
+       [74]
+        0 int data = 74
+       [75]
+        0 int data = 1165
+       [76]
+        0 int data = 1166
+       [77]
+        0 int data = 77
+       [78]
+        0 int data = 1167
+       [79]
+        0 int data = 1168
+       [80]
+        0 int data = 1169
+       [81]
+        0 int data = 1170
+       [82]
+        0 int data = 828
+       [83]
+        0 int data = 527
+       [84]
+        0 int data = 84
+       [85]
+        0 int data = 85
+       [86]
+        0 int data = 86
+       [87]
+        0 int data = 87
+       [88]
+        0 int data = 88
+       [89]
+        0 int data = 89
+       [90]
+        0 int data = 528
+       [91]
+        0 int data = 529
+       [92]
+        0 int data = 530
+       [93]
+        0 int data = 1171
+       [94]
+        0 int data = 1172
+       [95]
+        0 int data = 1173
+       [96]
+        0 int data = 1174
+       [97]
+        0 int data = 1175
+       [98]
+        0 int data = 98
+       [99]
+        0 int data = 99
+       [100]
+        0 int data = 1176
+       [101]
+        0 int data = 1177
+       [102]
+        0 int data = 1178
+       [103]
+        0 int data = 835
+       [104]
+        0 int data = 1179
+       [105]
+        0 int data = 1180
+       [106]
+        0 int data = 1181
+       [107]
+        0 int data = 1182
+       [108]
+        0 int data = 536
+       [109]
+        0 int data = 537
+       [110]
+        0 int data = 110
+       [111]
+        0 int data = 111
+       [112]
+        0 int data = 112
+       [113]
+        0 int data = 113
+       [114]
+        0 int data = 114
+       [115]
+        0 int data = 538
+       [116]
+        0 int data = 539
+       [117]
+        0 int data = 540
+       [118]
+        0 int data = 839
+       [119]
+        0 int data = 840
+       [120]
+        0 int data = 1183
+       [121]
+        0 int data = 1184
+       [122]
+        0 int data = 122
+       [123]
+        0 int data = 123
+       [124]
+        0 int data = 124
+       [125]
+        0 int data = 1185
+       [126]
+        0 int data = 1186
+       [127]
+        0 int data = 1187
+       [128]
+        0 int data = 1188
+       [129]
+        0 int data = 1189
+       [130]
+        0 int data = 1190
+       [131]
+        0 int data = 1191
+       [132]
+        0 int data = 1192
+       [133]
+        0 int data = 542
+       [134]
+        0 int data = 543
+       [135]
+        0 int data = 135
+       [136]
+        0 int data = 136
+       [137]
+        0 int data = 137
+       [138]
+        0 int data = 138
+       [139]
+        0 int data = 139
+       [140]
+        0 int data = 140
+       [141]
+        0 int data = 141
+       [142]
+        0 int data = 142
+       [143]
+        0 int data = 143
+       [144]
+        0 int data = 849
+       [145]
+        0 int data = 1193
+       [146]
+        0 int data = 1194
+       [147]
+        0 int data = 147
+       [148]
+        0 int data = 148
+       [149]
+        0 int data = 149
+       [150]
+        0 int data = 1195
+       [151]
+        0 int data = 1196
+       [152]
+        0 int data = 1197
+       [153]
+        0 int data = 1198
+       [154]
+        0 int data = 1199
+       [155]
+        0 int data = 1200
+       [156]
+        0 int data = 1201
+       [157]
+        0 int data = 1202
+       [158]
+        0 int data = 158
+       [159]
+        0 int data = 159
+       [160]
+        0 int data = 160
+       [161]
+        0 int data = 161
+       [162]
+        0 int data = 162
+       [163]
+        0 int data = 163
+       [164]
+        0 int data = 164
+       [165]
+        0 int data = 165
+       [166]
+        0 int data = 166
+       [167]
+        0 int data = 167
+       [168]
+        0 int data = 168
+       [169]
+        0 int data = 1203
+       [170]
+        0 int data = 1204
+       [171]
+        0 int data = 1205
+       [172]
+        0 int data = 172
+       [173]
+        0 int data = 173
+       [174]
+        0 int data = 174
+       [175]
+        0 int data = 1206
+       [176]
+        0 int data = 1207
+       [177]
+        0 int data = 1208
+       [178]
+        0 int data = 178
+       [179]
+        0 int data = 179
+       [180]
+        0 int data = 1209
+       [181]
+        0 int data = 1210
+       [182]
+        0 int data = 1211
+       [183]
+        0 int data = 1212
+       [184]
+        0 int data = 184
+       [185]
+        0 int data = 1213
+       [186]
+        0 int data = 186
+       [187]
+        0 int data = 187
+       [188]
+        0 int data = 188
+       [189]
+        0 int data = 189
+       [190]
+        0 int data = 190
+       [191]
+        0 int data = 191
+       [192]
+        0 int data = 192
+       [193]
+        0 int data = 193
+       [194]
+        0 int data = 1214
+       [195]
+        0 int data = 1215
+       [196]
+        0 int data = 1216
+       [197]
+        0 int data = 197
+       [198]
+        0 int data = 198
+       [199]
+        0 int data = 199
+       [200]
+        0 int data = 1217
+       [201]
+        0 int data = 1218
+       [202]
+        0 int data = 1219
+       [203]
+        0 int data = 203
+       [204]
+        0 int data = 204
+       [205]
+        0 int data = 1220
+       [206]
+        0 int data = 1221
+       [207]
+        0 int data = 1222
+       [208]
+        0 int data = 1223
+       [209]
+        0 int data = 1224
+       [210]
+        0 int data = 1225
+       [211]
+        0 int data = 1226
+       [212]
+        0 int data = 212
+       [213]
+        0 int data = 213
+       [214]
+        0 int data = 214
+       [215]
+        0 int data = 215
+       [216]
+        0 int data = 216
+       [217]
+        0 int data = 1227
+       [218]
+        0 int data = 1228
+       [219]
+        0 int data = 1229
+       [220]
+        0 int data = 1230
+       [221]
+        0 int data = 1231
+       [222]
+        0 int data = 222
+       [223]
+        0 int data = 223
+       [224]
+        0 int data = 224
+       [225]
+        0 int data = 1232
+       [226]
+        0 int data = 1233
+       [227]
+        0 int data = 1234
+       [228]
+        0 int data = 228
+       [229]
+        0 int data = 229
+       [230]
+        0 int data = 230
+       [231]
+        0 int data = 1235
+       [232]
+        0 int data = 1236
+       [233]
+        0 int data = 1237
+       [234]
+        0 int data = 1238
+       [235]
+        0 int data = 1239
+       [236]
+        0 int data = 236
+       [237]
+        0 int data = 237
+       [238]
+        0 int data = 238
+       [239]
+        0 int data = 239
+       [240]
+        0 int data = 240
+       [241]
+        0 int data = 241
+       [242]
+        0 int data = 1240
+       [243]
+        0 int data = 1241
+       [244]
+        0 int data = 1242
+       [245]
+        0 int data = 1243
+       [246]
+        0 int data = 246
+       [247]
+        0 int data = 247
+       [248]
+        0 int data = 248
+       [249]
+        0 int data = 249
+       [250]
+        0 int data = 1244
+       [251]
+        0 int data = 1245
+       [252]
+        0 int data = 1246
+       [253]
+        0 int data = 1247
+       [254]
+        0 int data = 254
+       [255]
+        0 int data = 255
+       [256]
+        0 int data = 1248
+       [257]
+        0 int data = 1249
+       [258]
+        0 int data = 1250
+       [259]
+        0 int data = 1251
+       [260]
+        0 int data = 260
+       [261]
+        0 int data = 261
+       [262]
+        0 int data = 262
+       [263]
+        0 int data = 263
+       [264]
+        0 int data = 264
+       [265]
+        0 int data = 265
+       [266]
+        0 int data = 266
+       [267]
+        0 int data = 267
+       [268]
+        0 int data = 1252
+       [269]
+        0 int data = 1253
+       [270]
+        0 int data = 270
+       [271]
+        0 int data = 271
+       [272]
+        0 int data = 272
+       [273]
+        0 int data = 273
+       [274]
+        0 int data = 274
+       [275]
+        0 int data = 275
+       [276]
+        0 int data = 1254
+       [277]
+        0 int data = 1255
+       [278]
+        0 int data = 1256
+       [279]
+        0 int data = 1257
+       [280]
+        0 int data = 1258
+       [281]
+        0 int data = 1259
+       [282]
+        0 int data = 1260
+       [283]
+        0 int data = 283
+       [284]
+        0 int data = 284
+       [285]
+        0 int data = 285
+       [286]
+        0 int data = 286
+       [287]
+        0 int data = 287
+       [288]
+        0 int data = 288
+       [289]
+        0 int data = 289
+       [290]
+        0 int data = 1261
+       [291]
+        0 int data = 291
+       [292]
+        0 int data = 292
+       [293]
+        0 int data = 293
+       [294]
+        0 int data = 294
+       [295]
+        0 int data = 295
+       [296]
+        0 int data = 296
+       [297]
+        0 int data = 297
+       [298]
+        0 int data = 298
+       [299]
+        0 int data = 299
+       [300]
+        0 int data = 300
+       [301]
+        0 int data = 301
+       [302]
+        0 int data = 1262
+       [303]
+        0 int data = 1263
+       [304]
+        0 int data = 1264
+       [305]
+        0 int data = 1265
+       [306]
+        0 int data = 1266
+       [307]
+        0 int data = 307
+       [308]
+        0 int data = 308
+       [309]
+        0 int data = 309
+       [310]
+        0 int data = 310
+       [311]
+        0 int data = 311
+       [312]
+        0 int data = 544
+       [313]
+        0 int data = 313
+       [314]
+        0 int data = 479
+       [315]
+        0 int data = 1267
+       [316]
+        0 int data = 480
+       [317]
+        0 int data = 317
+       [318]
+        0 int data = 318
+       [319]
+        0 int data = 319
+       [320]
+        0 int data = 320
+       [321]
+        0 int data = 321
+       [322]
+        0 int data = 322
+       [323]
+        0 int data = 323
+       [324]
+        0 int data = 324
+       [325]
+        0 int data = 325
+       [326]
+        0 int data = 326
+       [327]
+        0 int data = 327
+       [328]
+        0 int data = 328
+       [329]
+        0 int data = 329
+       [330]
+        0 int data = 330
+       [331]
+        0 int data = 546
+       [332]
+        0 int data = 332
+       [333]
+        0 int data = 715
+       [334]
+        0 int data = 716
+       [335]
+        0 int data = 335
+       [336]
+        0 int data = 336
+       [337]
+        0 int data = 549
+       [338]
+        0 int data = 550
+       [339]
+        0 int data = 339
+       [340]
+        0 int data = 1268
+       [341]
+        0 int data = 1269
+       [342]
+        0 int data = 1270
+       [343]
+        0 int data = 554
+       [344]
+        0 int data = 344
+       [345]
+        0 int data = 345
+       [346]
+        0 int data = 346
+       [347]
+        0 int data = 347
+       [348]
+        0 int data = 348
+       [349]
+        0 int data = 349
+       [350]
+        0 int data = 350
+       [351]
+        0 int data = 351
+       [352]
+        0 int data = 352
+       [353]
+        0 int data = 353
+       [354]
+        0 int data = 354
+       [355]
+        0 int data = 555
+       [356]
+        0 int data = 556
+       [357]
+        0 int data = 1271
+       [358]
+        0 int data = 1272
+       [359]
+        0 int data = 1273
+       [360]
+        0 int data = 560
+       [361]
+        0 int data = 361
+       [362]
+        0 int data = 362
+       [363]
+        0 int data = 363
+       [364]
+        0 int data = 364
+       [365]
+        0 int data = 1274
+       [366]
+        0 int data = 1275
+       [367]
+        0 int data = 1276
+       [368]
+        0 int data = 368
+       [369]
+        0 int data = 369
+       [370]
+        0 int data = 370
+       [371]
+        0 int data = 371
+       [372]
+        0 int data = 372
+       [373]
+        0 int data = 373
+       [374]
+        0 int data = 374
+       [375]
+        0 int data = 375
+       [376]
+        0 int data = 376
+       [377]
+        0 int data = 377
+       [378]
+        0 int data = 378
+       [379]
+        0 int data = 379
+       [380]
+        0 int data = 380
+       [381]
+        0 int data = 381
+       [382]
+        0 int data = 1277
+       [383]
+        0 int data = 1099
+       [384]
+        0 int data = 1100
+       [385]
+        0 int data = 1278
+       [386]
+        0 int data = 386
+       [387]
+        0 int data = 387
+       [388]
+        0 int data = 388
+       [389]
+        0 int data = 389
+       [390]
+        0 int data = 390
+       [391]
+        0 int data = 1279
+       [392]
+        0 int data = 493
+       [393]
+        0 int data = 393
+       [394]
+        0 int data = 394
+       [395]
+        0 int data = 395
+       [396]
+        0 int data = 396
+       [397]
+        0 int data = 397
+       [398]
+        0 int data = 398
+       [399]
+        0 int data = 399
+       [400]
+        0 int data = 400
+       [401]
+        0 int data = 401
+       [402]
+        0 int data = 402
+       [403]
+        0 int data = 403
+       [404]
+        0 int data = 404
+       [405]
+        0 int data = 405
+       [406]
+        0 int data = 406
+       [407]
+        0 int data = 1122
+       [408]
+        0 int data = 1123
+       [409]
+        0 int data = 1124
+       [410]
+        0 int data = 1125
+       [411]
+        0 int data = 573
+       [412]
+        0 int data = 574
+       [413]
+        0 int data = 413
+       [414]
+        0 int data = 414
+       [415]
+        0 int data = 415
+       [416]
+        0 int data = 416
+       [417]
+        0 int data = 417
+       [418]
+        0 int data = 418
+       [419]
+        0 int data = 419
+       [420]
+        0 int data = 420
+       [421]
+        0 int data = 421
+       [422]
+        0 int data = 422
+       [423]
+        0 int data = 423
+       [424]
+        0 int data = 424
+       [425]
+        0 int data = 425
+       [426]
+        0 int data = 426
+       [427]
+        0 int data = 427
+       [428]
+        0 int data = 428
+       [429]
+        0 int data = 429
+       [430]
+        0 int data = 430
+       [431]
+        0 int data = 431
+       [432]
+        0 int data = 432
+       [433]
+        0 int data = 433
+       [434]
+        0 int data = 434
+       [435]
+        0 int data = 435
+       [436]
+        0 int data = 436
+       [437]
+        0 int data = 437
+       [438]
+        0 int data = 438
+       [439]
+        0 int data = 439
+       [440]
+        0 int data = 440
+       [441]
+        0 int data = 441
+       [442]
+        0 int data = 442
+       [443]
+        0 int data = 443
+       [444]
+        0 int data = 444
+       [445]
+        0 int data = 445
+       [446]
+        0 int data = 446
+       [447]
+        0 int data = 447
+       [448]
+        0 int data = 448
+       [449]
+        0 int data = 449
+       [450]
+        0 int data = 450
+       [451]
+        0 int data = 451
+       [452]
+        0 int data = 452
+       [453]
+        0 int data = 453
+       [454]
+        0 int data = 454
+       [455]
+        0 int data = 455
+       [456]
+        0 int data = 456
+       [457]
+        0 int data = 457
+       [458]
+        0 int data = 458
+       [459]
+        0 int data = 459
+       [460]
+        0 int data = 460
+       [461]
+        0 int data = 461
+       [462]
+        0 int data = 462
+       [463]
+        0 int data = 463
+       [464]
+        0 int data = 464
+       [465]
+        0 int data = 465
+       [466]
+        0 int data = 466
+       [467]
+        0 int data = 467
+       [468]
+        0 int data = 468
+       [469]
+        0 int data = 469
+       [470]
+        0 int data = 470
+       [471]
+        0 int data = 471
+       [472]
+        0 int data = 472
+       [473]
+        0 int data = 473
+       [474]
+        0 int data = 474
+     0 int transparentIndex = -1

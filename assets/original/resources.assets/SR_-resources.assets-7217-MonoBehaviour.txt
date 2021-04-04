@@ -1,0 +1,26 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5752
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2601
+ 1 string m_Name = "SR_"
+ 0 PPtr<$RectTransform> HeaderExtraContent
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6342
+ 0 PPtr<$Sprite> Icon
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5322
+ 0 PPtr<$RectTransform> IconExtraContent
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 string IconStyleKey = "Icon_System"
+ 0 int SortIndex = 0
+ 0 PPtr<$SRTabButton> TabButton
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 string _title = "System"
+ 1 string _longTitle = "System Information"
+ 1 string _key = "SystemInformation"

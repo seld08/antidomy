@@ -1,0 +1,36 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5626
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 526
+ 1 string m_Name = "SR_"
+ 0 RectOffset m_Padding
+  0 int m_Left = 0
+  0 int m_Right = 0
+  0 int m_Top = 0
+  0 int m_Bottom = 0
+ 0 int m_ChildAlignment = 0
+ 0 SelectedItemChangedEvent _selectedItemChanged
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 PPtr<$StyleSheet> AltRowStyleSheet
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6907
+ 1 UInt8 EnableSelection = 0
+ 0 PPtr<$RectTransform> ItemPrefab
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6280
+ 0 int RowPadding = 2
+ 0 PPtr<$StyleSheet> RowStyleSheet
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6906
+ 0 PPtr<$StyleSheet> SelectedRowStyleSheet
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6908
+ 0 float Spacing = 0
+ 1 UInt8 StickToBottom = 1

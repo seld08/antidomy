@@ -1,0 +1,145 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5872
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2299
+ 1 string m_Name = ""
+ 0 PPtr<$GameObject> mPreviewObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 UnityEvent OnRedraw
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 1 UInt8 keepOrthoSize = 0
+ 1 UInt8 paperEffectText = 0
+ 1 UInt8 vRSpaceText = 0
+ 0 float vRSpaceScale = 0.100000001
+ 1 UInt8 maintainLabelSize = 0
+ 0 int viewType = 0
+ 1 UInt8 negativeBars = 0
+ 1 UInt8 stacked = 0
+ 0 BarEvent BarClicked
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 BarEvent BarHovered
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 UnityEvent NonHovered
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 BarData Data
+  0 CategoryData mCategories
+   0 Array Array (3 items)
+    0 int size = 3
+    [0]
+     0 CategoryData data
+      1 string Name = "Category 1"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 44
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 0
+        0 float g = 0
+        0 float b = 0
+        0 float a = 0
+    [1]
+     0 CategoryData data
+      1 string Name = "Category 2"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 42
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 0
+       0 ColorRGBA Selected
+        0 float r = 0
+        0 float g = 0
+        0 float b = 0
+        0 float a = 0
+    [2]
+     0 CategoryData data
+      1 string Name = "Category 3"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 43
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 0
+       0 ColorRGBA Selected
+        0 float r = 0
+        0 float g = 0
+        0 float b = 0
+        0 float a = 0
+  0 vector mGroups
+   0 Array Array (1 items)
+    0 int size = 1
+    [0]
+     1 string data = "All"
+  0 DataEntry mData
+   0 Array Array (3 items)
+    0 int size = 3
+    [0]
+     0 DataEntry data
+      1 string GroupName = "All"
+      1 string ColumnName = "Category 1"
+      0 double Amount = 4
+    [1]
+     0 DataEntry data
+      1 string GroupName = "All"
+      1 string ColumnName = "Category 2"
+      0 double Amount = 2
+    [2]
+     0 DataEntry data
+      1 string GroupName = "All"
+      1 string ColumnName = "Category 3"
+      0 double Amount = 1
+  1 UInt8 automaticMaxValue = 1
+  0 double maxValue = 10
+  1 UInt8 automaticMinValue = 0
+  0 double minValue = 0
+ 0 float transitionTimeBetaFeature = -1
+ 0 float heightRatio = 5
+ 0 float totalWidth = 7.32000017
+ 0 float totalDepth = 0
+ 0 PPtr<$Camera> textCamera
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 float textIdleDistance = 20
+ 0 PPtr<$GameObject> barPrefab
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5861
+ 0 ChartOrientedSize AxisSeperation
+  0 float Breadth = 1.63
+  0 float Depth = 0.670000017
+ 0 ChartOrientedSize barSeperation
+  0 float Breadth = 1.63
+  0 float Depth = 0
+ 0 ChartOrientedSize groupSeperation
+  0 float Breadth = 0
+  0 float Depth = 2
+ 0 ChartOrientedSize barSize
+  0 float Breadth = 0.800000012
+  0 float Depth = 0.800000012

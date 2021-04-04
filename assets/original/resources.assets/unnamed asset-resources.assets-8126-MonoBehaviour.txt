@@ -1,0 +1,58 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5873
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 4002
+ 1 string m_Name = ""
+ 0 Event OnMouseHover
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (1 items)
+     0 int size = 1
+     [0]
+      0 PersistentCall data
+       0 PPtr<$Object> m_Target
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 8067
+       1 string m_MethodName = "Grow"
+       0 int m_Mode = 1
+       0 ArgumentCache m_Arguments
+        0 PPtr<$Object> m_ObjectArgument
+         0 int m_FileID = 0
+         0 SInt64 m_PathID = 0
+        1 string m_ObjectArgumentAssemblyTypeName = "UnityEngine.Object, UnityEngine"
+        0 int m_IntArgument = 0
+        0 float m_FloatArgument = 0
+        1 string m_StringArgument = ""
+        1 UInt8 m_BoolArgument = 0
+       0 int m_CallState = 2
+ 0 Event OnMouseLeave
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (1 items)
+     0 int size = 1
+     [0]
+      0 PersistentCall data
+       0 PPtr<$Object> m_Target
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 8067
+       1 string m_MethodName = "Shrink"
+       0 int m_Mode = 1
+       0 ArgumentCache m_Arguments
+        0 PPtr<$Object> m_ObjectArgument
+         0 int m_FileID = 0
+         0 SInt64 m_PathID = 0
+        1 string m_ObjectArgumentAssemblyTypeName = "UnityEngine.Object, UnityEngine"
+        0 int m_IntArgument = 0
+        0 float m_FloatArgument = 0
+        1 string m_StringArgument = ""
+        1 UInt8 m_BoolArgument = 0
+       0 int m_CallState = 2
+ 0 Event OnSelected
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0

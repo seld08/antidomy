@@ -1,0 +1,24 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5548
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 3895
+ 1 string m_Name = "SR_"
+ 0 PPtr<$Canvas> Canvas
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6271
+ 0 PPtr<$LongPressButton> TapHoldButton
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7233
+ 0 PPtr<$RectTransform> TriggerTransform
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6587
+ 0 PPtr<$ErrorNotifier> ErrorNotifier
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 8132
+ 0 PPtr<$MultiTapButton> TripleTapButton
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7372

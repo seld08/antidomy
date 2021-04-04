@@ -1,0 +1,17 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 4397
+ 1 string m_Name = "GlobalSerializationConfig"
+ 1 UInt8 HideSerializationCautionaryMessage = 1
+ 1 UInt8 HidePrefabCautionaryMessage = 0
+ 1 UInt8 HideOdinSerializeAttributeWarningMessages = 0
+ 1 UInt8 HideNonSerializedShowInInspectorWarningMessages = 0
+ 0 int buildSerializationFormat = 0
+ 0 int editorSerializationFormat = 2
+ 0 int loggingPolicy = 0
+ 0 int errorHandlingPolicy = 0

@@ -1,0 +1,33 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5726
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1760
+ 1 string m_Name = "SR_"
+ 0 PPtr<$GameObject> ButtonContainer
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5529
+ 0 PPtr<$Text> ButtonText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6984
+ 0 PPtr<$Button> CancelButton
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7336
+ 0 PPtr<$InputField> DescriptionField
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7788
+ 0 PPtr<$InputField> EmailField
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7769
+ 0 PPtr<$Slider> ProgressBar
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6980
+ 0 PPtr<$Text> ResultMessageText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7793
+ 0 PPtr<$Button> SubmitButton
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7797

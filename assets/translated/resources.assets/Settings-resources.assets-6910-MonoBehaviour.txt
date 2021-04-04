@@ -1,0 +1,86 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 473
+ 1 string m_Name = "Settings"
+ 1 UInt8 _isEnabled = 0
+ 0 int _defaultTab = 0
+ 0 int _triggerEnableMode = 3
+ 0 int _triggerBehaviour = 0
+ 1 UInt8 _errorNotification = 1
+ 1 UInt8 _enableKeyboardShortcuts = 1
+ 0 KeyboardShortcut _keyboardShortcuts
+  0 Array Array (0 items)
+   0 int size = 0
+ 0 KeyboardShortcut _newKeyboardShortcuts
+  0 Array Array (4 items)
+   0 int size = 4
+   [0]
+    0 KeyboardShortcut data
+     0 int Action = 1
+     1 UInt8 Alt = 0
+     1 UInt8 Control = 1
+     0 int Key = 282
+     1 UInt8 Shift = 1
+   [1]
+    0 KeyboardShortcut data
+     0 int Action = 2
+     1 UInt8 Alt = 0
+     1 UInt8 Control = 1
+     0 int Key = 283
+     1 UInt8 Shift = 1
+   [2]
+    0 KeyboardShortcut data
+     0 int Action = 3
+     1 UInt8 Alt = 0
+     1 UInt8 Control = 1
+     0 int Key = 284
+     1 UInt8 Shift = 1
+   [3]
+    0 KeyboardShortcut data
+     0 int Action = 4
+     1 UInt8 Alt = 0
+     1 UInt8 Control = 1
+     0 int Key = 285
+     1 UInt8 Shift = 1
+ 1 UInt8 _keyboardModifierControl = 1
+ 1 UInt8 _keyboardModifierAlt = 0
+ 1 UInt8 _keyboardModifierShift = 1
+ 1 UInt8 _keyboardEscapeClose = 1
+ 1 UInt8 _enableBackgroundTransparency = 1
+ 1 UInt8 _collapseDuplicateLogEntries = 1
+ 1 UInt8 _richTextInConsole = 1
+ 1 UInt8 _requireEntryCode = 0
+ 1 UInt8 _requireEntryCodeEveryTime = 0
+ 0 vector _entryCode
+  0 Array Array (4 items)
+   0 int size = 4
+   [0]
+    0 int data = 0
+   [1]
+    0 int data = 0
+   [2]
+    0 int data = 0
+   [3]
+    0 int data = 0
+ 1 UInt8 _useDebugCamera = 0
+ 0 int _debugLayer = 5
+ 0 float _debugCameraDepth = 100
+ 1 string _apiKey = ""
+ 1 UInt8 _enableBugReporter = 0
+ 0 int _disabledTabs
+  0 Array Array (0 items)
+   0 int size = 0
+ 0 int _profilerAlignment = 2
+ 0 int _optionsAlignment = 3
+ 0 int _consoleAlignment = 0
+ 0 int _triggerPosition = 4
+ 0 int _maximumConsoleEntries = 1500
+ 1 UInt8 _enableEventSystemCreation = 1
+ 1 UInt8 _automaticShowCursor = 1
+ 0 float _uiScale = 1
+ 1 UInt8 _unloadOnClose = 0

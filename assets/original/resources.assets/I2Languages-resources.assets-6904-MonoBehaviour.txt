@@ -1,0 +1,6072 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 869
+ 1 string m_Name = "I2Languages"
+ 0 LanguageSourceData mSource
+  1 UInt8 UserAgreesToHaveItOnTheScene = 0
+  1 UInt8 UserAgreesToHaveItInsideThePluginsFolder = 0
+  1 UInt8 GoogleLiveSyncIsUptoDate = 1
+  0 TermData mTerms
+   0 Array Array (287 items)
+    0 int size = 287
+    [0]
+     0 TermData data
+      1 string Term = "optionTab_1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "音量"
+        [1]
+         1 string data = "音量"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [1]
+     0 TermData data
+      1 string Term = "optionTab_2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "テキストなど"
+        [1]
+         1 string data = "テキストなど"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [2]
+     0 TermData data
+      1 string Term = "optionTab_3"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ウィンドウ設定"
+        [1]
+         1 string data = "ウィンドウ設定"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [3]
+     0 TermData data
+      1 string Term = "bgmVolume"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "BGM音量"
+        [1]
+         1 string data = "BGM音量"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [4]
+     0 TermData data
+      1 string Term = "seVolume"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "SE音量"
+        [1]
+         1 string data = "SE音量"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [5]
+     0 TermData data
+      1 string Term = "ambienceVolume"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "環境音音量"
+        [1]
+         1 string data = "環境音音量"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [6]
+     0 TermData data
+      1 string Term = "textSpeed"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "テキスト速度"
+        [1]
+         1 string data = "テキスト速度"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [7]
+     0 TermData data
+      1 string Term = "autoTextWaitSpeed"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "オートプレイの待ち時間"
+        [1]
+         1 string data = "オートプレイの待ち時間"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [8]
+     0 TermData data
+      1 string Term = "mouseWheelPower"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "マウスホイール感度"
+        [1]
+         1 string data = "マウスホイール感度"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [9]
+     0 TermData data
+      1 string Term = "screenMode"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "スクリーンモード"
+        [1]
+         1 string data = "スクリーンモード"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [10]
+     0 TermData data
+      1 string Term = "windowSize"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ウィンドウサイズ"
+        [1]
+         1 string data = "ウィンドウサイズ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [11]
+     0 TermData data
+      1 string Term = "windowMode"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ウィンドウ"
+        [1]
+         1 string data = "ウィンドウ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [12]
+     0 TermData data
+      1 string Term = "fullscreenMode"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "フルスクリーン"
+        [1]
+         1 string data = "フルスクリーン"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [13]
+     0 TermData data
+      1 string Term = "battleBalance"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "戦闘バランス"
+        [1]
+         1 string data = "戦闘バランス"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [14]
+     0 TermData data
+      1 string Term = "alertNewGameDialog"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ゲームを開始しますか？"
+        [1]
+         1 string data = "ゲームを開始しますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [15]
+     0 TermData data
+      1 string Term = "alertSaveDialog"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "データをセーブしますか？"
+        [1]
+         1 string data = "データをセーブしますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [16]
+     0 TermData data
+      1 string Term = "alertLoadDialog"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "データをロードしますか？"
+        [1]
+         1 string data = "データをロードしますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [17]
+     0 TermData data
+      1 string Term = "alertQuitDialog"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ゲームを終了しますか？"
+        [1]
+         1 string data = "ゲームを終了しますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [18]
+     0 TermData data
+      1 string Term = "alertBattleRetreat"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "戦闘から撤退しますか？"
+        [1]
+         1 string data = "戦闘から撤退しますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [19]
+     0 TermData data
+      1 string Term = "alertAreaLvUp"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "拠点を強化しますか？"
+        [1]
+         1 string data = "拠点を強化しますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [20]
+     0 TermData data
+      1 string Term = "alertClearedScenario"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "クリア済みのシナリオですが、プレイを開始しますか？"
+        [1]
+         1 string data = "クリア済みのシナリオですが、プレイを開始しますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [21]
+     0 TermData data
+      1 string Term = "alertDiaryEnd"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "日記を終了しますか？"
+        [1]
+         1 string data = "日記を終了しますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [22]
+     0 TermData data
+      1 string Term = "alertNewGameBattleBalance"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "※戦闘バランスは環境設定からいつでも変更可能です"
+        [1]
+         1 string data = "※戦闘バランスは環境設定からいつでも変更可能です"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [23]
+     0 TermData data
+      1 string Term = "financingDialog"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "一定の活動実績を報告することで、活動資金を調達することが出来ます。"
+        [1]
+         1 string data = "一定の活動実績を報告することで、活動資金を調達することが出来ます。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [24]
+     0 TermData data
+      1 string Term = "financingGirlDialog"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "拉致女性を提供すると、調達資金が30%増加します。"
+        [1]
+         1 string data = "拉致女性を提供すると、調達資金が30%増加します。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [25]
+     0 TermData data
+      1 string Term = "infoDialog"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "地域のメディアに情報操作を依頼することで、依頼エリアの警戒度を下げることが出来ます。"
+        [1]
+         1 string data = "地域のメディアに情報操作を依頼することで、依頼エリアの警戒度を下げることが出来ます。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [26]
+     0 TermData data
+      1 string Term = "infoGirlDialog"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "拉致女性を提供すると、必要資金が30%減少します。"
+        [1]
+         1 string data = "拉致女性を提供すると、必要資金が30%減少します。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [27]
+     0 TermData data
+      1 string Term = "financingDialog2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "地域の有力者に拉致女性を提供することで、活動資金を調達することが出来ます。"
+        [1]
+         1 string data = "地域の有力者に拉致女性を提供することで、活動資金を調達することが出来ます。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [28]
+     0 TermData data
+      1 string Term = "financingGirlDialog2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "拉致女性を多く提供するほど、調達資金が増加します。"
+        [1]
+         1 string data = "拉致女性を多く提供するほど、調達資金が増加します。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [29]
+     0 TermData data
+      1 string Term = "infoDialog2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "地域のメディアに情報操作を依頼することで、全エリアの警戒度を下げることが出来ます。"
+        [1]
+         1 string data = "地域のメディアに情報操作を依頼することで、全エリアの警戒度を下げることが出来ます。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [30]
+     0 TermData data
+      1 string Term = "infoGirlDialog2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "拉致女性を多く提供するほど、効果が増加します。"
+        [1]
+         1 string data = "拉致女性を多く提供するほど、効果が増加します。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [31]
+     0 TermData data
+      1 string Term = "rapeDialog"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "拉致女性を戦闘員たちに凌辱させることで、ダークパワーを取得することが出来ます。"
+        [1]
+         1 string data = "拉致女性を戦闘員たちに凌辱させることで、ダークパワーを取得することが出来ます。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [32]
+     0 TermData data
+      1 string Term = "rapeDialog2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "「手動選択」かつ複数人を凌辱する場合は、選択した女性以外はランダムに消費されます。"
+        [1]
+         1 string data = "「手動選択」かつ複数人を凌辱する場合は、選択した女性以外はランダムに消費されます。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [33]
+     0 TermData data
+      1 string Term = "commandInfoScore"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "期待できる結果（概算値）"
+        [1]
+         1 string data = "期待できる結果（概算値）"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [34]
+     0 TermData data
+      1 string Term = "commandLootInfo"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "コマンド [略奪]"
+        [1]
+         1 string data = "コマンド [略奪]"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [35]
+     0 TermData data
+      1 string Term = "commandAbductionInfo"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "コマンド [誘拐]"
+        [1]
+         1 string data = "コマンド [誘拐]"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [36]
+     0 TermData data
+      1 string Term = "commandResearchInfo"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "コマンド [調査]"
+        [1]
+         1 string data = "コマンド [調査]"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [37]
+     0 TermData data
+      1 string Term = "commandLootSummary"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "商業施設に押し入り、金品を略奪します。エリアの警戒度が高いほど、得られる金品は少なくなってしまいます。稀にAP回復薬を入手できます。"
+        [1]
+         1 string data = "商業施設に押し入り、金品を略奪します。エリアの警戒度が高いほど、得られる金品は少なくなってしまいます。稀にAP回復薬を入手できます。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [38]
+     0 TermData data
+      1 string Term = "commandAbductionSummary"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "エリアにいる女性を誘拐します。誘拐した女性には様々な用途があります。エリアごとに誘拐できる女性は若干異なります。最も警戒度が上がりやすいコマンドです。"
+        [1]
+         1 string data = "エリアにいる女性を誘拐します。誘拐した女性には様々な用途があります。エリアごとに誘拐できる女性は若干異なります。最も警戒度が上がりやすいコマンドです。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [39]
+     0 TermData data
+      1 string Term = "commandResearchSummary"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "アンチドミーの動向を調査し、怪人や兵器の開発に活用できる弱点を探ります。"
+        [1]
+         1 string data = "アンチドミーの動向を調査し、怪人や兵器の開発に活用できる弱点を探ります。最も警戒度が上がりやすいコマンドです。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [40]
+     0 TermData data
+      1 string Term = "commandFinancingInfo"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "コマンド [資金調達]"
+        [1]
+         1 string data = "コマンド [資金調達]"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [41]
+     0 TermData data
+      1 string Term = "commandInfoInfo"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "コマンド [情報操作]"
+        [1]
+         1 string data = "コマンド [情報操作]"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [42]
+     0 TermData data
+      1 string Term = "commandFinancingSummary"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "一定の活動実績を報告することで、活動資金を調達することが出来ます。拉致女性を提供すると、調達資金が30%増加します。"
+        [1]
+         1 string data = "一定の活動実績を報告することで、活動資金を調達することが出来ます。拉致女性を提供すると、調達資金が30%増加します。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [43]
+     0 TermData data
+      1 string Term = "commandInfoSummary"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "地域のメディアに情報操作を依頼することで、依頼エリアの警戒度を下げることが出来ます。拉致女性を提供すると、必要資金が30%減少します。"
+        [1]
+         1 string data = "地域のメディアに情報操作を依頼することで、依頼エリアの警戒度を下げることが出来ます。拉致女性を提供すると、必要資金が30%減少します。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [44]
+     0 TermData data
+      1 string Term = "commandFinancingSummary2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "地域の有力者に誘拐した女性を提供することで、活動資金を調達することが出来ます。一度に提供する女性が多いほど、調達資金にボーナスが発生します。"
+        [1]
+         1 string data = "地域の有力者に誘拐した女性を提供することで、活動資金を調達することが出来ます。一度に提供する女性が多いほど、調達資金にボーナスが発生します。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [45]
+     0 TermData data
+      1 string Term = "commandInfoSummary2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "地域のメディアに誘拐した女性を提供し、情報操作を依頼することで、全エリアの警戒度を下げることが出来ます。女性を多く提供するほど、効果が増加します。"
+        [1]
+         1 string data = "地域のメディアに誘拐した女性を提供し、情報操作を依頼することで、全エリアの警戒度を下げることが出来ます。女性を多く提供するほど、効果が増加します。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [46]
+     0 TermData data
+      1 string Term = "commandAreaLvUpSummary"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "エリア拠点を強化することで、各エリアで実行するコマンドの効果を高めることができます。"
+        [1]
+         1 string data = "エリア拠点を強化することで、各エリアで実行するコマンドの効果を高めることができます。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [47]
+     0 TermData data
+      1 string Term = "infoAreaResult1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "[住宅・学校エリア] 警戒度が"
+        [1]
+         1 string data = "[住宅・学校エリア] 警戒度が"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [48]
+     0 TermData data
+      1 string Term = "infoAreaResult2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "[繁華街エリア] 警戒度が"
+        [1]
+         1 string data = "[繁華街エリア] 警戒度が"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [49]
+     0 TermData data
+      1 string Term = "infoResultDown"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "下がった！"
+        [1]
+         1 string data = "下がった！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [50]
+     0 TermData data
+      1 string Term = "infoResultUp"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "上がった！"
+        [1]
+         1 string data = "上がった！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [51]
+     0 TermData data
+      1 string Term = "costAchivement"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "消費実績"
+        [1]
+         1 string data = "消費実績"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [52]
+     0 TermData data
+      1 string Term = "costMoney"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "消費資金"
+        [1]
+         1 string data = "消費資金"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [53]
+     0 TermData data
+      1 string Term = "costViolence"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "消費暴力衝動"
+        [1]
+         1 string data = "消費暴力衝動"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [54]
+     0 TermData data
+      1 string Term = "costLibido"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "消費凌辱衝動"
+        [1]
+         1 string data = "消費凌辱衝動"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [55]
+     0 TermData data
+      1 string Term = "costResearch"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "消費調査ポイント"
+        [1]
+         1 string data = "消費調査ポイント"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [56]
+     0 TermData data
+      1 string Term = "costDarkPower"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "消費ダークパワー"
+        [1]
+         1 string data = "消費ダークパワー"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [57]
+     0 TermData data
+      1 string Term = "costDevelopment"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "消費コスト"
+        [1]
+         1 string data = "消費コスト"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [58]
+     0 TermData data
+      1 string Term = "financingMoney"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "調達資金"
+        [1]
+         1 string data = "調達資金"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [59]
+     0 TermData data
+      1 string Term = "infoResult"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "依頼効果"
+        [1]
+         1 string data = "依頼効果"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [60]
+     0 TermData data
+      1 string Term = "requestArea"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "依頼エリア"
+        [1]
+         1 string data = "依頼エリア"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [61]
+     0 TermData data
+      1 string Term = "requestPercent"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "依頼強度"
+        [1]
+         1 string data = "依頼強度"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [62]
+     0 TermData data
+      1 string Term = "girlPresent"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "女性提供"
+        [1]
+         1 string data = "女性提供"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [63]
+     0 TermData data
+      1 string Term = "girlPresentNum"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "女性提供数"
+        [1]
+         1 string data = "女性提供数"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [64]
+     0 TermData data
+      1 string Term = "applyFinancing"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "調達実行"
+        [1]
+         1 string data = "調達実行"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [65]
+     0 TermData data
+      1 string Term = "applyInfo"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "依頼実行"
+        [1]
+         1 string data = "依頼実行"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [66]
+     0 TermData data
+      1 string Term = "repaGirlNum"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "凌辱女性数"
+        [1]
+         1 string data = "凌辱女性数"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [67]
+     0 TermData data
+      1 string Term = "rapeGirlSelection"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "女性選択"
+        [1]
+         1 string data = "女性選択"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [68]
+     0 TermData data
+      1 string Term = "rapeSelectManual"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "手動選択"
+        [1]
+         1 string data = "手動選択"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [69]
+     0 TermData data
+      1 string Term = "rapeSelectAuto"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ランダム"
+        [1]
+         1 string data = "ランダム"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [70]
+     0 TermData data
+      1 string Term = "rapeStart"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "凌辱実行"
+        [1]
+         1 string data = "凌辱実行"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [71]
+     0 TermData data
+      1 string Term = "rapePositionSelection"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "体位選択"
+        [1]
+         1 string data = "体位選択"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [72]
+     0 TermData data
+      1 string Term = "rapePositionMission"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "正常位"
+        [1]
+         1 string data = "正常位"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [73]
+     0 TermData data
+      1 string Term = "rapePositionDog"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "後背位"
+        [1]
+         1 string data = "後背位"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [74]
+     0 TermData data
+      1 string Term = "rapeDarkMode"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "暗所表示"
+        [1]
+         1 string data = "暗所表示"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [75]
+     0 TermData data
+      1 string Term = "rapeVisibleManBalloon"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "フキダシ"
+        [1]
+         1 string data = "フキダシ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [76]
+     0 TermData data
+      1 string Term = "rapePistonSpeed"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ピストン速度固定"
+        [1]
+         1 string data = "ピストン速度固定"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [77]
+     0 TermData data
+      1 string Term = "rapePistonRepeat"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ピストンのみ"
+        [1]
+         1 string data = "ピストンのみ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [78]
+     0 TermData data
+      1 string Term = "rapePistonRandom"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ランダム"
+        [1]
+         1 string data = "ランダム"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [79]
+     0 TermData data
+      1 string Term = "rapeFinishStart"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "射精開始"
+        [1]
+         1 string data = "射精開始"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [80]
+     0 TermData data
+      1 string Term = "rapePositionChange"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "体位変更"
+        [1]
+         1 string data = "体位変更"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [81]
+     0 TermData data
+      1 string Term = "rapeHairType"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "髪タイプ"
+        [1]
+         1 string data = "髪タイプ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [82]
+     0 TermData data
+      1 string Term = "rapeEyeType"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "目タイプ"
+        [1]
+         1 string data = "目タイプ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [83]
+     0 TermData data
+      1 string Term = "rapeVoiceType"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "声タイプ"
+        [1]
+         1 string data = "声タイプ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [84]
+     0 TermData data
+      1 string Term = "rapeTitsSize"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "胸サイズ"
+        [1]
+         1 string data = "胸サイズ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [85]
+     0 TermData data
+      1 string Term = "actionAnimationSkip"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "スキップ"
+        [1]
+         1 string data = "スキップ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [86]
+     0 TermData data
+      1 string Term = "actionAnimationNextState"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "次に進む"
+        [1]
+         1 string data = "次に進む"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [87]
+     0 TermData data
+      1 string Term = "areaName1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "学校・住宅エリア"
+        [1]
+         1 string data = "学校・住宅エリア"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [88]
+     0 TermData data
+      1 string Term = "areaName2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "繁華街エリア"
+        [1]
+         1 string data = "繁華街エリア"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [89]
+     0 TermData data
+      1 string Term = "areaName3"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "港湾エリア"
+        [1]
+         1 string data = "港湾エリア"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [90]
+     0 TermData data
+      1 string Term = "scoreAchivement"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "活動実績"
+        [1]
+         1 string data = "活動実績"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [91]
+     0 TermData data
+      1 string Term = "scoreMoney"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "活動資金"
+        [1]
+         1 string data = "資金"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [92]
+     0 TermData data
+      1 string Term = "scoreViolence"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "暴力衝動"
+        [1]
+         1 string data = "暴力衝動"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [93]
+     0 TermData data
+      1 string Term = "scoreLibido"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "凌辱衝動"
+        [1]
+         1 string data = "凌辱衝動"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [94]
+     0 TermData data
+      1 string Term = "scoreResearch"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "調査ポイント"
+        [1]
+         1 string data = "調査ポイント"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [95]
+     0 TermData data
+      1 string Term = "scoreGirlCount"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "拉致女性"
+        [1]
+         1 string data = "拉致女性"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [96]
+     0 TermData data
+      1 string Term = "scoreDarkPower"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ダークパワー"
+        [1]
+         1 string data = "ダークパワー"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [97]
+     0 TermData data
+      1 string Term = "scoreApPotion"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "AP回復薬"
+        [1]
+         1 string data = "AP回復薬"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [98]
+     0 TermData data
+      1 string Term = "commandAction"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "活動"
+        [1]
+         1 string data = "活動"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [99]
+     0 TermData data
+      1 string Term = "commandRape"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "凌辱"
+        [1]
+         1 string data = "凌辱"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [100]
+     0 TermData data
+      1 string Term = "coomandDevelopment"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "開発"
+        [1]
+         1 string data = "開発"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [101]
+     0 TermData data
+      1 string Term = "commandMission"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "作戦"
+        [1]
+         1 string data = "作戦"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [102]
+     0 TermData data
+      1 string Term = "commandAreaLvUp"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "拠点強化"
+        [1]
+         1 string data = "拠点強化"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [103]
+     0 TermData data
+      1 string Term = "buttonMenu"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "メニュー"
+        [1]
+         1 string data = "メニュー"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [104]
+     0 TermData data
+      1 string Term = "buttonDiary"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "研究記録"
+        [1]
+         1 string data = "研究記録"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [105]
+     0 TermData data
+      1 string Term = "buttonMusicChange"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "BGM変更"
+        [1]
+         1 string data = "BGM変更"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [106]
+     0 TermData data
+      1 string Term = "buttonCharacterChange"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "キャラ変更"
+        [1]
+         1 string data = "キャラ変更"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [107]
+     0 TermData data
+      1 string Term = "buttonSave"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "セーブ"
+        [1]
+         1 string data = "セーブ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [108]
+     0 TermData data
+      1 string Term = "buttonLoad"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ロード"
+        [1]
+         1 string data = "ロード"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [109]
+     0 TermData data
+      1 string Term = "buttonOptions"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "環境設定"
+        [1]
+         1 string data = "環境設定"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [110]
+     0 TermData data
+      1 string Term = "buttonClose"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "閉じる"
+        [1]
+         1 string data = "閉じる"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [111]
+     0 TermData data
+      1 string Term = "buttonQuit"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ゲーム終了"
+        [1]
+         1 string data = "ゲーム終了"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [112]
+     0 TermData data
+      1 string Term = "buttonDiaryEnd"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ホームに戻る"
+        [1]
+         1 string data = "ホームに戻る"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [113]
+     0 TermData data
+      1 string Term = "commandLoot"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "略奪"
+        [1]
+         1 string data = "略奪"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [114]
+     0 TermData data
+      1 string Term = "commandAbduction"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "誘拐"
+        [1]
+         1 string data = "誘拐"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [115]
+     0 TermData data
+      1 string Term = "commandResearch"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "調査"
+        [1]
+         1 string data = "調査"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [116]
+     0 TermData data
+      1 string Term = "commandFinancing"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "資金調達"
+        [1]
+         1 string data = "資金調達"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [117]
+     0 TermData data
+      1 string Term = "commandInfo"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "情報操作"
+        [1]
+         1 string data = "情報操作"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [118]
+     0 TermData data
+      1 string Term = "cautionPercent"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "警戒度"
+        [1]
+         1 string data = "警戒度"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [119]
+     0 TermData data
+      1 string Term = "buttonCancel"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "キャンセル"
+        [1]
+         1 string data = "キャンセル"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [120]
+     0 TermData data
+      1 string Term = "buttonBack"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "戻る"
+        [1]
+         1 string data = "戻る"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [121]
+     0 TermData data
+      1 string Term = "buttonOK"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "OK"
+        [1]
+         1 string data = "OK"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [122]
+     0 TermData data
+      1 string Term = "buttonMissionStart"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "作戦開始"
+        [1]
+         1 string data = "作戦開始"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [123]
+     0 TermData data
+      1 string Term = "buttonAreaLvUp"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "強化実行"
+        [1]
+         1 string data = "強化実行"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [124]
+     0 TermData data
+      1 string Term = "kaijinDevelopment"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "怪人開発"
+        [1]
+         1 string data = "怪人開発"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [125]
+     0 TermData data
+      1 string Term = "weaponDevelopment"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "兵器開発"
+        [1]
+         1 string data = "兵器開発"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [126]
+     0 TermData data
+      1 string Term = "statusUpButton"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ステータス強化"
+        [1]
+         1 string data = "ステータス強化"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [127]
+     0 TermData data
+      1 string Term = "skillUpButton"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "スキル強化"
+        [1]
+         1 string data = "スキル強化"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [128]
+     0 TermData data
+      1 string Term = "needCost"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "必要コスト"
+        [1]
+         1 string data = "必要コスト"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [129]
+     0 TermData data
+      1 string Term = "DevelopmentLvMax"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "レベル上限"
+        [1]
+         1 string data = "レベル上限"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [130]
+     0 TermData data
+      1 string Term = "DevelopmentFlagNoClear"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "研究中"
+        [1]
+         1 string data = "研究中"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [131]
+     0 TermData data
+      1 string Term = "preCostLvMax"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "これ以上のパワーアップはできません。"
+        [1]
+         1 string data = "これ以上のパワーアップはできません。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [132]
+     0 TermData data
+      1 string Term = "preCostFlagNoClear"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "パワーアップの研究を行なっています。"
+        [1]
+         1 string data = "パワーアップの研究を行なっています。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [133]
+     0 TermData data
+      1 string Term = "equipFutanari"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "寄生型ふたなりチンポを装着"
+        [1]
+         1 string data = "寄生型ふたなりチンポを装着"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [134]
+     0 TermData data
+      1 string Term = "developmentMiya"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ミヤに施術を行う"
+        [1]
+         1 string data = "ミヤに施術を行う"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [135]
+     0 TermData data
+      1 string Term = "futanariSummary"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "再び元の女体に戻ったミヤは、啓太のチンポを自分専用の寄生型ふたなりチンポにして、いつでもふたなり化できるようになる。"
+        [1]
+         1 string data = "再び元の女体に戻ったミヤは、啓太のチンポを自分専用の寄生型ふたなりチンポにして、いつでもふたなり化できるようになる。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [136]
+     0 TermData data
+      1 string Term = "futanariButton"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "着脱可能施術"
+        [1]
+         1 string data = "着脱可能施術"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [137]
+     0 TermData data
+      1 string Term = "futanariButtonDone"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "施術済み"
+        [1]
+         1 string data = "施術済み"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [138]
+     0 TermData data
+      1 string Term = "preCostMiyaDevelopment"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "すでに施術済みです。"
+        [1]
+         1 string data = "すでに施術済みです。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [139]
+     0 TermData data
+      1 string Term = "developNewKaijin"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "各コストを消費して、怪人を開発しますか？"
+        [1]
+         1 string data = "各コストを消費して、怪人を開発しますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [140]
+     0 TermData data
+      1 string Term = "developNewWeapon"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "各コストを消費して、兵器を開発しますか？"
+        [1]
+         1 string data = "各コストを消費して、兵器を開発しますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [141]
+     0 TermData data
+      1 string Term = "developLvUpKaijin"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "各コストを消費して、怪人を強化しますか？"
+        [1]
+         1 string data = "各コストを消費して、怪人を強化しますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [142]
+     0 TermData data
+      1 string Term = "developLvUpWeapon"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "各コストを消費して、兵器を強化しますか？"
+        [1]
+         1 string data = "各コストを消費して、兵器を強化しますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [143]
+     0 TermData data
+      1 string Term = "developLvUpSkill"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "各コストを消費して、スキルを強化しますか？"
+        [1]
+         1 string data = "各コストを消費して、スキルを強化しますか？"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [144]
+     0 TermData data
+      1 string Term = "levelUpNewKaijin"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "新たな怪人を開発しました！"
+        [1]
+         1 string data = "新たな怪人を開発しました！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [145]
+     0 TermData data
+      1 string Term = "levelUpNewWeapon"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "新たな兵器を開発しました！"
+        [1]
+         1 string data = "新たな兵器を開発しました！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [146]
+     0 TermData data
+      1 string Term = "levelUpKaijin"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "怪人がレベルアップしました！"
+        [1]
+         1 string data = "怪人がレベルアップしました！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [147]
+     0 TermData data
+      1 string Term = "levelUpSkill"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "スキルがレベルアップしました！"
+        [1]
+         1 string data = "スキルがレベルアップしました！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [148]
+     0 TermData data
+      1 string Term = "levelUpWeapon"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "兵器がレベルアップしました！"
+        [1]
+         1 string data = "兵器がレベルアップしました！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [149]
+     0 TermData data
+      1 string Term = "levelUpArea"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "エリア拠点がレベルアップしました！"
+        [1]
+         1 string data = "エリア拠点がレベルアップしました！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [150]
+     0 TermData data
+      1 string Term = "notificationTitleDevelopment"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "新規開発可能"
+        [1]
+         1 string data = "新規開発可能"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [151]
+     0 TermData data
+      1 string Term = "notificationTitleArea"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "新規エリア情報"
+        [1]
+         1 string data = "新規エリア情報"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [152]
+     0 TermData data
+      1 string Term = "notificationTitleCommand"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "新規コマンド"
+        [1]
+         1 string data = "新規コマンド"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [153]
+     0 TermData data
+      1 string Term = "notificationNewItem"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "新たに、以下のアイテムが開発可能になりました。"
+        [1]
+         1 string data = "新たに、以下のアイテムが開発可能になりました。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [154]
+     0 TermData data
+      1 string Term = "notificationRapeCommand"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "新たに、「凌辱」コマンドが使用可能になりました。"
+        [1]
+         1 string data = "新たに、「凌辱」コマンドが使用可能になりました。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [155]
+     0 TermData data
+      1 string Term = "notificationAreaCommand"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "新たに、「誘拐」コマンドが使用可能になりました。\nさらに、「行政・報道」エリアが利用可能になりました。"
+        [1]
+         1 string data = "新たに、「誘拐」コマンドが使用可能になりました。\n「行政・報道」エリアが利用可能になりました。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [156]
+     0 TermData data
+      1 string Term = "notificationAreaLvUp"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "新たに、「港湾エリア」で活動可能になりました。\nさらに、各エリア拠点を強化できるようになりました。"
+        [1]
+         1 string data = "新たに、「港湾エリア」で活動可能になりました。\n各エリア拠点を強化できるようになりました。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [157]
+     0 TermData data
+      1 string Term = "notificationSkillMaxLvUp"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "スキルのパワーアップ研究が完了しました。"
+        [1]
+         1 string data = "スキルのパワーアップ研究が完了しました。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [158]
+     0 TermData data
+      1 string Term = "notificationNewTitle"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "開発可能"
+        [1]
+         1 string data = "開発可能"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [159]
+     0 TermData data
+      1 string Term = "notificationLvUpTitle"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "レベルアップ可能"
+        [1]
+         1 string data = "レベルアップ可能"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [160]
+     0 TermData data
+      1 string Term = "notificationSkillUpTitle"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "スキルレベルアップ可能"
+        [1]
+         1 string data = "スキル強化可能"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [161]
+     0 TermData data
+      1 string Term = "resultPointGroup"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "獲得物資"
+        [1]
+         1 string data = "獲得物資"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [162]
+     0 TermData data
+      1 string Term = "resultCautionGroup"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "警戒度推移"
+        [1]
+         1 string data = "警戒度推移"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [163]
+     0 TermData data
+      1 string Term = "chartMoney"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "資金力"
+        [1]
+         1 string data = "資金力"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [164]
+     0 TermData data
+      1 string Term = "chartPolitical"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "政治力"
+        [1]
+         1 string data = "政治力"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [165]
+     0 TermData data
+      1 string Term = "chartMilitary"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "軍事力"
+        [1]
+         1 string data = "軍事力"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [166]
+     0 TermData data
+      1 string Term = "chartManPower"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "構成員数"
+        [1]
+         1 string data = "構成員数"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [167]
+     0 TermData data
+      1 string Term = "chartDevelopment"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "開発力"
+        [1]
+         1 string data = "開発力"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [168]
+     0 TermData data
+      1 string Term = "statusTotal"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ガンジータ軍ステータス"
+        [1]
+         1 string data = "ガンジータ軍ステータス"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [169]
+     0 TermData data
+      1 string Term = "statusHP"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "HP"
+        [1]
+         1 string data = "HP"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [170]
+     0 TermData data
+      1 string Term = "statusAttack"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "攻撃力"
+        [1]
+         1 string data = "攻撃力"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [171]
+     0 TermData data
+      1 string Term = "statusDefense"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "防御力"
+        [1]
+         1 string data = "防御力"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [172]
+     0 TermData data
+      1 string Term = "skillReChargeTurn"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "待機ターン"
+        [1]
+         1 string data = "待機ターン"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [173]
+     0 TermData data
+      1 string Term = "skillNeedReCharge"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = ""
+        [1]
+         1 string data = ""
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [174]
+     0 TermData data
+      1 string Term = "skillNeedAP"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "AP不足"
+        [1]
+         1 string data = "AP不足"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [175]
+     0 TermData data
+      1 string Term = "skillUseOK"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "使用可能"
+        [1]
+         1 string data = "使用可能"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [176]
+     0 TermData data
+      1 string Term = "playerName"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ガンジータ"
+        [1]
+         1 string data = "ガンジータ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [177]
+     0 TermData data
+      1 string Term = "enemyName"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "アンチドミー"
+        [1]
+         1 string data = "アンチドミー"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [178]
+     0 TermData data
+      1 string Term = "buttonAttack"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "攻撃開始"
+        [1]
+         1 string data = "攻撃開始"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [179]
+     0 TermData data
+      1 string Term = "buttonDefense"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "防御体勢"
+        [1]
+         1 string data = "防御体勢"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [180]
+     0 TermData data
+      1 string Term = "buttonUnionSkill"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ユニオン\nスキル"
+        [1]
+         1 string data = "ユニオン\nスキル"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [181]
+     0 TermData data
+      1 string Term = "buttonWeapon"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "兵器使用"
+        [1]
+         1 string data = "兵器使用"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [182]
+     0 TermData data
+      1 string Term = "buttonSpecial"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "作戦実行"
+        [1]
+         1 string data = "作戦実行"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [183]
+     0 TermData data
+      1 string Term = "buttonSuccess"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "成功率"
+        [1]
+         1 string data = "成功率"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [184]
+     0 TermData data
+      1 string Term = "buttonApPotion"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<cspace=2>AP回</cspace>復薬"
+        [1]
+         1 string data = "<cspace=2>AP回</cspace>復薬"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [185]
+     0 TermData data
+      1 string Term = "buttonHaveApPotion"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "所持数"
+        [1]
+         1 string data = "所持数"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [186]
+     0 TermData data
+      1 string Term = "conditionText"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "◆ 作戦概要 ◆"
+        [1]
+         1 string data = "◆ 作戦概要 ◆"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [187]
+     0 TermData data
+      1 string Term = "conditionBattleMember"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "◆ 参戦メンバー ◆"
+        [1]
+         1 string data = "◆ 参戦メンバー ◆"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [188]
+     0 TermData data
+      1 string Term = "conditionEnemy"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "対戦相手："
+        [1]
+         1 string data = "対戦相手："
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [189]
+     0 TermData data
+      1 string Term = "conditionKaijin"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "勝利条件の怪人："
+        [1]
+         1 string data = "勝利条件の怪人："
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [190]
+     0 TermData data
+      1 string Term = "conditionSkill"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "勝利条件のスキル："
+        [1]
+         1 string data = "勝利条件のスキル："
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [191]
+     0 TermData data
+      1 string Term = "subBattleReturn"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "撤退"
+        [1]
+         1 string data = "撤退"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [192]
+     0 TermData data
+      1 string Term = "subBattleCondition"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "勝利条件表示"
+        [1]
+         1 string data = "勝利条件表示"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [193]
+     0 TermData data
+      1 string Term = "toggleBattleSkill"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "スキル表示"
+        [1]
+         1 string data = "スキル表示"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [194]
+     0 TermData data
+      1 string Term = "buffReGene"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "自動回復"
+        [1]
+         1 string data = "自動回復"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [195]
+     0 TermData data
+      1 string Term = "buffAttack"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "攻撃力"
+        [1]
+         1 string data = "攻撃力"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [196]
+     0 TermData data
+      1 string Term = "buffDefenceLv"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "防御LV"
+        [1]
+         1 string data = "防御LV"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [197]
+     0 TermData data
+      1 string Term = "buffDefence"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "防御力"
+        [1]
+         1 string data = "防御力"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [198]
+     0 TermData data
+      1 string Term = "buffCharge"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "チャージ上昇率"
+        [1]
+         1 string data = "チャージ上昇率"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [199]
+     0 TermData data
+      1 string Term = "buffCritical"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "クリティカル率"
+        [1]
+         1 string data = "クリティカル率"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [200]
+     0 TermData data
+      1 string Term = "buffAccuracy"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "命中率"
+        [1]
+         1 string data = "命中率"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [201]
+     0 TermData data
+      1 string Term = "buffEvasion"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "回避率"
+        [1]
+         1 string data = "回避率"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [202]
+     0 TermData data
+      1 string Term = "characterKanade"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "カナデ"
+        [1]
+         1 string data = "カナデ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [203]
+     0 TermData data
+      1 string Term = "characterMiya"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ミヤ"
+        [1]
+         1 string data = "ミヤ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [204]
+     0 TermData data
+      1 string Term = "characterShiroko"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "シロコ"
+        [1]
+         1 string data = "シロコ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [205]
+     0 TermData data
+      1 string Term = "characterLilith"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "リーリス"
+        [1]
+         1 string data = "リーリス"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [206]
+     0 TermData data
+      1 string Term = "characterOther"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "その他"
+        [1]
+         1 string data = "その他"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [207]
+     0 TermData data
+      1 string Term = "diaryProfile"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "個人情報"
+        [1]
+         1 string data = "個人情報"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [208]
+     0 TermData data
+      1 string Term = "diaryRapeStart"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "凌辱開始"
+        [1]
+         1 string data = "凌辱開始"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [209]
+     0 TermData data
+      1 string Term = "diaryRapeTabTitle"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "凌辱タブについて"
+        [1]
+         1 string data = "凌辱タブについて"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [210]
+     0 TermData data
+      1 string Term = "diaryRapeTabSummary"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "研究記録の凌辱タブでは、これまでに誘拐したことのある拉致女性の凌辱シーンを見ることが出来ます。\n\n通常の「凌辱」コマンドでは一度射精を終えるとシーンが終了しますが、この凌辱タブから始めた場合は、「閉じる」ボタンを押すまでエンドレスに凌辱が続きます。\n\n【ピストン速度固定】\n指定した速度のままピストンを行います。\n\n【ピストンのみ】\n射精を行わずにピストンだけを行います。\n\n【射精ボタン】\n強制的に射精を行います。マウスの右クリックでも発動します。"
+        [1]
+         1 string data = "研究記録の凌辱タブでは、これまでに誘拐したことのある拉致女性の凌辱シーンを見ることが出来ます。\n\n通常の「凌辱」コマンドでは一度射精を終えるとシーンが終了しますが、この凌辱タブから始めた場合は、「閉じる」ボタンを押すまでエンドレスに凌辱が続きます。\n\n【ピストン速度固定】\n指定した速度のままピストンを行います。\n\n【ピストンのみ】\n射精を行わずにピストンだけを行います。\n\n【射精ボタン】\n強制的に射精を行います。マウスの右クリックでも発動します。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [211]
+     0 TermData data
+      1 string Term = "rapeManVoiceStart1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "おぉ、いくぞっ"
+        [1]
+         1 string data = "おぉ、いくぞっ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [212]
+     0 TermData data
+      1 string Term = "rapeManVoiceStart2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "暴れんな……っ！"
+        [1]
+         1 string data = "暴れんな……っ！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [213]
+     0 TermData data
+      1 string Term = "rapeManVoicePiston1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "良い締まりだ……っ"
+        [1]
+         1 string data = "良い締まりだ……っ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [214]
+     0 TermData data
+      1 string Term = "rapeManVoicePiston2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "もっと鳴け……っ"
+        [1]
+         1 string data = "もっと鳴け……っ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [215]
+     0 TermData data
+      1 string Term = "rapeManVoicePreFinish1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "出すぞ、出すぞ！"
+        [1]
+         1 string data = "出すぞ、出すぞ！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [216]
+     0 TermData data
+      1 string Term = "rapeManVoicePreFinish2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "孕めよぉ……っ！"
+        [1]
+         1 string data = "孕めよぉ……っ！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [217]
+     0 TermData data
+      1 string Term = "rapeManVoiceFinish1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "堪んねぇっ……！"
+        [1]
+         1 string data = "堪んねぇっ……！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [218]
+     0 TermData data
+      1 string Term = "rapeManVoiceFinish2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "あ～堪らねぇっ"
+        [1]
+         1 string data = "あ～堪らねぇっ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [219]
+     0 TermData data
+      1 string Term = "rapeManVoiceRepeat1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "もっと犯してやるよ……っ"
+        [1]
+         1 string data = "もっと犯してやるよ……っ"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [220]
+     0 TermData data
+      1 string Term = "rapeManVoiceRepeat2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "堕としてやるよ……っ！"
+        [1]
+         1 string data = "堕としてやるよ……っ！"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [221]
+     0 TermData data
+      1 string Term = "profile_NoSelectionGirl"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "凌辱する拉致女性を選択して下さい"
+        [1]
+         1 string data = "凌辱する拉致女性を選択して下さい"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [222]
+     0 TermData data
+      1 string Term = "profile_JK1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "市内の高校に通う１年生。\nいわゆるあざとい性格をしている、恋愛脳な女の子。この年齢ではあるが経験人数は割と多めだったりする。"
+        [1]
+         1 string data = "市内の高校に通う１年生。\nいわゆるあざとい性格をしている、恋愛脳な女の子。この年齢ではあるが経験人数は割と多めだったりする。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [223]
+     0 TermData data
+      1 string Term = "profile_JK2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "市外の女子高校に通う３年生。\nおとなしい性格をしており、恋愛には奥手な文芸女子。男子とはほとんど話したことがなく、向かい合うだけでも赤面してしまう。"
+        [1]
+         1 string data = "市外の女子高校に通う３年生。\nおとなしい性格をしており、恋愛には奥手な文芸女子。男子とはほとんど話したことがなく、向かい合うだけでも赤面してしまう。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [224]
+     0 TermData data
+      1 string Term = "profile_JK3"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "市外の女子高校に通う２年生。\n男女ともに分け隔てなく接する、明るい性格をしている。まだ恋愛というものがよくわかっておらず、男子と付き合った経験はない。"
+        [1]
+         1 string data = "市外の女子高校に通う２年生。\n男女ともに分け隔てなく接する、明るい性格をしている。まだ恋愛というものがよくわかっておらず、男子と付き合った経験はない。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [225]
+     0 TermData data
+      1 string Term = "profile_JD1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "市内の大学に通う１年生。\n成績優秀、品行方正なお嬢様。親が決めた許婚がいるが、結婚までは婚前交渉はしないという方針のためキスもまだしたことがない。"
+        [1]
+         1 string data = "市内の大学に通う１年生。\n成績優秀、品行方正なお嬢様。親が決めた許婚がいるが、結婚までは婚前交渉はしないという方針のためキスもまだしたことがない。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [226]
+     0 TermData data
+      1 string Term = "profile_JD2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "市内の大学に通う２年生。\n体を動かすことが大好きなアクティブ系の女の子。アクティブなエッチにも興味があり、野外や車中でのエッチ経験があったりする。"
+        [1]
+         1 string data = "市内の大学に通う２年生。\n体を動かすことが大好きなアクティブ系の女の子。アクティブなエッチにも興味があり、野外や車中でのエッチ経験があったりする。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [227]
+     0 TermData data
+      1 string Term = "profile_JD3"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "市外の大学に通う3年生。\n三次元には興味がない漫画研究会所属の女子。興味がない故に男子とも気楽に接しているため、勘違いしてしまう男子は多い。\n"
+        [1]
+         1 string data = "市外の大学に通う3年生。\n三次元には興味がない漫画研究会所属の女子。興味がない故に男子とも気楽に接しているため、勘違いしてしまう男子は多い。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [228]
+     0 TermData data
+      1 string Term = "profile_OL1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "市内の信用金庫に勤める社会人。\n少しおっちょこちょいだが、親しみのある雰囲気が人気の窓口嬢。高校時代から付き合っている彼氏がおり、そろそろ結婚も視野に入ってきている。"
+        [1]
+         1 string data = "市内の信用金庫に勤める社会人。\n少しおっちょこちょいだが、親しみのある雰囲気が人気の窓口嬢。高校時代から付き合っている彼氏がおり、そろそろ結婚も視野に入ってきている。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [229]
+     0 TermData data
+      1 string Term = "profile_OL2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "駅ビル内のアパレル店に勤める社会人。\n自分磨きを怠らない、美意識高め女子。自分の外見には自信があり、夜はキャバクラでも働いているが、アフターにはなかなか応じない堅実な性格をしている。"
+        [1]
+         1 string data = "駅ビル内のアパレル店に勤める社会人。\n自分磨きを怠らない、美意識高め女子。自分の外見には自信があり、夜はキャバクラでも働いているが、アフターにはなかなか応じない堅実な性格をしている。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [230]
+     0 TermData data
+      1 string Term = "profile_OL3"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "市内のとある庁舎に勤める社会人。\n真面目な性格をしていて、これまでに恋愛経験はなかったが、最近職場に気になる人が出来て、ときどき仕事が手につかなかったりしている。"
+        [1]
+         1 string data = "市内のとある庁舎に勤める社会人。\n真面目な性格をしていて、これまでに恋愛経験はなかったが、最近職場に気になる人が出来て、ときどき仕事が手につかなかったりしている。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [231]
+     0 TermData data
+      1 string Term = "diaryTextEmpty"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = " "
+        [1]
+         1 string data = " "
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [232]
+     0 TermData data
+      1 string Term = "diary_M3_K_A"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M3_K_A"
+        [1]
+         1 string data = "diary_M3_K_A"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [233]
+     0 TermData data
+      1 string Term = "diary_M3_K_B"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M3_K_B"
+        [1]
+         1 string data = "diary_M3_K_B"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [234]
+     0 TermData data
+      1 string Term = "diary_M3_M_A"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M3_M_A"
+        [1]
+         1 string data = "diary_M3_M_A"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [235]
+     0 TermData data
+      1 string Term = "diary_M3_M_B"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M3_M_B"
+        [1]
+         1 string data = "diary_M3_M_B"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [236]
+     0 TermData data
+      1 string Term = "diary_M3_O_1A"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M3_O_1A"
+        [1]
+         1 string data = "diary_M3_O_1A"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [237]
+     0 TermData data
+      1 string Term = "diary_M3_O_1B"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M3_O_1B"
+        [1]
+         1 string data = "diary_M3_O_1B"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [238]
+     0 TermData data
+      1 string Term = "diary_M3_O_2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M3_O_2"
+        [1]
+         1 string data = "diary_M3_O_2"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [239]
+     0 TermData data
+      1 string Term = "diary_M3_L"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M3_L"
+        [1]
+         1 string data = "diary_M3_L"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [240]
+     0 TermData data
+      1 string Term = "diary_M4_1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M4_1"
+        [1]
+         1 string data = "diary_M4_1"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [241]
+     0 TermData data
+      1 string Term = "diary_M6_K"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M6_K"
+        [1]
+         1 string data = "diary_M6_K"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [242]
+     0 TermData data
+      1 string Term = "diary_M6_KM"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M6_KM"
+        [1]
+         1 string data = "diary_M6_KM"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [243]
+     0 TermData data
+      1 string Term = "diary_M6_KM2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M6_KM2"
+        [1]
+         1 string data = "diary_M6_KM2"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [244]
+     0 TermData data
+      1 string Term = "diary_M6_L"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M6_L"
+        [1]
+         1 string data = "diary_M6_L"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [245]
+     0 TermData data
+      1 string Term = "diary_M6_O_1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M6_O_1"
+        [1]
+         1 string data = "diary_M6_O_1"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [246]
+     0 TermData data
+      1 string Term = "diary_M6_O_2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M6_O_2"
+        [1]
+         1 string data = "diary_M6_O_2"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [247]
+     0 TermData data
+      1 string Term = "diary_M6_S"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M6_S"
+        [1]
+         1 string data = "diary_M6_S"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [248]
+     0 TermData data
+      1 string Term = "diary_M7"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "diary_M7"
+        [1]
+         1 string data = "diary_M7"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [249]
+     0 TermData data
+      1 string Term = "profile_Kanade"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "真宮寺カナデ　\n生年月日：2月28日\n在籍：野和泉高等学校2年生\n身長：158\n武器：格闘\n\n日本経済の中枢として名高い『真宮寺財閥』のトップを担う財閥令嬢。才色兼備、勉強もスポーツもできる才女。高飛車な性格でプライドが高いが、幼い頃からの夢が『変身ヒーロー』と子供っぽい一面がある。\n\nひょんな事から未来から来た少女ミヤと共に、アンチドミーとして活動する事になる。変身スーツの適正率はミヤより優れていて、金銭面でも大きくバックアップしている。"
+        [1]
+         1 string data = "真宮寺カナデ　\n生年月日：2月28日\n在籍：野和泉高等学校2年生\n身長：158\n武器：格闘\n\n日本経済の中枢として名高い『真宮寺財閥』のトップを担う財閥令嬢。才色兼備、勉強もスポーツもできる才女。高飛車な性格でプライドが高いが、幼い頃からの夢が『変身ヒーロー』と子供っぽい一面がある。\n\nひょんな事から未来から来た少女ミヤと共に、アンチドミーとして活動する事になる。変身スーツの適正率はミヤより優れていて、金銭面でも大きくバックアップしている。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [250]
+     0 TermData data
+      1 string Term = "profile_Miya"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "如月ミヤ（本名：ミヤフォーデ・リスカ）\n生年月日：6月5日\n在籍：野和泉高等学校2年生\n身長：145\n武器：ソード\n\nガンジータに支配される寸前の未来からやって来た『アンチドミー』と呼ばれるレジスタンスの少女。電子機械により脳に数多の未来技術をインプットされている。\n\n感情表現が乏しいが、心の中では色々考えている。戦いの中でカナデと出会い、同級生の啓太に恋をして、人間性豊かになりつつ、ガンジータと激しい戦いを日々繰り広げている。"
+        [1]
+         1 string data = "如月ミヤ（本名：ミヤフォーデ・リスカ）\n生年月日：6月5日\n在籍：野和泉高等学校2年生\n身長：145\n武器：ソード\n\nガンジータに支配される寸前の未来からやって来た『アンチドミー』と呼ばれるレジスタンスの少女。電子機械により脳に数多の未来技術をインプットされている。\n\n感情表現が乏しいが、心の中では色々考えている。戦いの中でカナデと出会い、同級生の啓太に恋をして、人間性豊かになりつつ、ガンジータと激しい戦いを日々繰り広げている。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [251]
+     0 TermData data
+      1 string Term = "profile_Shiroko"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "天義シロコ（26）\n所属：公安局第一課所属\n生年月日：4月6日\n身長：169\n武器：スナイパーライフル\n\n公安局のエリート職員。裏で暗躍していたガンジータを個人的に調べていた際にミヤと出会い、彼女を公安局で一度保護する。\n以来、アンチドミーの一員として施設や公共の手配、敵との交戦での支援をしている。技術力、知識力は全て生真面目からくる努力の賜物。"
+        [1]
+         1 string data = "天義シロコ（26）\n所属：公安局第一課所属\n生年月日：4月6日\n身長：169\n武器：スナイパーライフル\n\n公安局のエリート職員。裏で暗躍していたガンジータを個人的に調べていた際にミヤと出会い、彼女を公安局で一度保護する。\n以来、アンチドミーの一員として施設や公共の手配、敵との交戦での支援をしている。技術力、知識力は全て生真面目からくる努力の賜物。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [252]
+     0 TermData data
+      1 string Term = "profile_Lilith"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "リーリス（本名：里中理恵）\n在籍：　平都高等学校2年生\n所属：ガンジータ大幹部\n生年月日：5月1日\n身長：154\n武器：チェーンソー\n\n表の顔は女子高生『里中理恵』として地味に過ごしている、ガンジータの幹部。\n天涯孤独の幼少に総統に拾われた過去があり、その思想に傾倒している。汚い大人の男に異常な嫌悪感を持っており、その反動で純粋な心を持つショタコンを捕まえては喰いまくっている魔性でもある。\n\nアンチドミーの二人に一番の興味関心を寄せており、彼女達との戦いを好む。\nミヤは未来でも、未来にいるリーリスと戦っているが、現在と未来のリーリスの容姿がほぼ変わっていないことを不思議に思っている。"
+        [1]
+         1 string data = "リーリス（本名：里中理恵）\n在籍：　平都高等学校2年生\n所属：ガンジータ大幹部\n生年月日：5月1日\n身長：154\n武器：チェーンソー\n\n表の顔は女子高生『里中理恵』として地味に過ごしている、ガンジータの幹部。\n天涯孤独の幼少に総統に拾われた過去があり、その思想に傾倒している。汚い大人の男に異常な嫌悪感を持っており、その反動で純粋な心を持つショタコンを捕まえては喰いまくっている魔性でもある。\n\nアンチドミーの二人に一番の興味関心を寄せており、彼女達との戦いを好む。\nミヤは未来でも、未来にいるリーリスと戦っているが、現在と未来のリーリスの容姿がほぼ変わっていないことを不思議に思っている。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [253]
+     0 TermData data
+      1 string Term = "profile_Other1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "都永美香\n在籍：野和泉高等学校2年生\n生年月日：3月25日\n身長：156\n\nカナデとミヤの二人が転校してきた高校で唯一できた共通の友人。\nカナデの振舞いにカッコ良さを見出した事から二人に絡むようになり、いつの間にか何かと擦れる二人の間の緩衝材になっていた。長い物に巻かれろ主義だが友情は大切にしている。\n\nアンチドミーについては一切知らされていない。"
+        [1]
+         1 string data = "都永美香\n在籍：野和泉高等学校2年生\n生年月日：3月25日\n身長：156\n\nカナデとミヤの二人が転校してきた高校で唯一できた共通の友人。\nカナデの振舞いにカッコ良さを見出した事から二人に絡むようになり、いつの間にか何かと擦れる二人の間の緩衝材になっていた。長い物に巻かれろ主義だが友情は大切にしている。\n\nアンチドミーについては一切知らされていない。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [254]
+     0 TermData data
+      1 string Term = "profile_Other2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "門脇啓太\n在籍：野和泉高等学校2年生\n生年月日：8月22日\n身長：173\n\n戦いに巻き込まれ、アンチドミーの事情を唯一知っている一般人。その上でミヤを全面的に受け入れており、恋愛感情を抱いている。\nまた、カナデとは中学生の頃からの付き合いで、財閥令嬢と知っても尚、彼女に対しても分け隔てなく接している。"
+        [1]
+         1 string data = "門脇啓太\n在籍：野和泉高等学校2年生\n生年月日：8月22日\n身長：173\n\n戦いに巻き込まれ、アンチドミーの事情を唯一知っている一般人。その上でミヤを全面的に受け入れており、恋愛感情を抱いている。\nまた、カナデとは中学生の頃からの付き合いで、財閥令嬢と知っても尚、彼女に対しても分け隔てなく接している。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [255]
+     0 TermData data
+      1 string Term = "profile_Other3"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "名前：らん\n身長：\n体型：\n性格：\n現代人。"
+        [1]
+         1 string data = ""
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [256]
+     0 TermData data
+      1 string Term = "profile_Dr"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ドクター（??）\n所属：ガンジータ大幹部\n\n生粋のマッドサイエンティストであり、自身の研究にしか興味がない男。新しい物を作り続ける執念に憑りつかれており、作った物がどう扱われようと興味がない。\nただし仕事そのものをキッチリとこなすので、彼の行動や計画は、世界に対して暗躍を企む悪の組織『ガンジータ』に最高の結果をもたらしてきた。\n\n無口な為、何を考えているのかは総統にすら分かっていないが、何をしても許してくれるガンジータに、彼は彼なりの忠誠を誓っている。\n\n総統の命を受け、アンチドミーを組織の戦力にするための『アンチドミー性凌辱プロジェクト』を始動させた。"
+        [1]
+         1 string data = "ドクター（??）\n所属：ガンジータ大幹部\n\n生粋のマッドサイエンティストであり、自身の研究にしか興味がない男。新しい物を作り続ける執念に憑りつかれており、作った物がどう扱われようと興味がない。\nただし仕事そのものをキッチリとこなすので、彼の行動や計画は、世界に対して暗躍を企む悪の組織『ガンジータ』に最高の結果をもたらしてきた。\n\n無口な為、何を考えているのかは総統にすら分かっていないが、何をしても許してくれるガンジータに、彼は彼なりの忠誠を誓っている。\n\n総統の命を受け、アンチドミーを組織の戦力にするための『アンチドミー性凌辱プロジェクト』を始動させた。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [257]
+     0 TermData data
+      1 string Term = "profile_GoeiBuka"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "護衛部下（26）\n所属：ガンジータ特殊戦闘員\n\n大幹部に必ず付いている護衛の一人。\nドクターは基本彼しか連れていないのは、彼が最も仕事が出来るから。なので彼の言動や人間性は完全に無視されている。"
+        [1]
+         1 string data = "護衛部下（26）\n所属：ガンジータ特殊戦闘員大幹部に必ず付いている護衛の一人。ドクターは基本彼しか連れていないのは、彼が最も仕事が出来るから。なので彼の言動や人間性は完全に無視されている。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [258]
+     0 TermData data
+      1 string Term = "profile_Boss"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "総統（??）\n所属：ガンジータ総統\n\n一代にしてガンジータという巨大組織を創り出した超カリスマを有する人物。目的以外の全てが謎。\n\nガンジータの最終目的は既存の社会秩序の破壊と、その上で統一されたガンジータの完全独裁統一国家を作り出すこと。"
+        [1]
+         1 string data = "総統（??）\n所属：ガンジータ総統\n\n一代にしてガンジータという巨大組織を創り出した超カリスマを有する人物。目的以外の全てが謎。\n\nガンジータの最終目的は既存の社会秩序の破壊と、その上で統一されたガンジータの完全独裁統一国家を作り出すこと。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [259]
+     0 TermData data
+      1 string Term = "profile_NoData"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "現時点で表示できる項目はありません。"
+        [1]
+         1 string data = "現在、表示できる項目はありません。"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [260]
+     0 TermData data
+      1 string Term = "staffRoll_Cast_Heading"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<size=140%>— キャスト —</size>"
+        [1]
+         1 string data = "<size=140%>— キャスト —</size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [261]
+     0 TermData data
+      1 string Term = "staffRoll_Cast1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<line-height=150%><size=120%>\nカナデ\n\nミヤ\n\nリーリス\n\nシロコ\n\n若奥さん\n\n美香\n\nコウ\n\nらん\n\n女戦闘員\n\n女性\n</line-height></size>"
+        [1]
+         1 string data = "<line-height=150%><size=120%>\nカナデ\n\nミヤ\n\nリーリス\n\nシロコ\n\n若奥さん\n\n美香\n\nコウ\n\nらん\n\n女戦闘員\n\n女性\n</line-height></size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [262]
+     0 TermData data
+      1 string Term = "staffRoll_Cast2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<line-height=150%><size=120%>\n砂糖しお\n\n陽向葵ゅか\n\n逢坂成美\n\n分倍河原シホ	\n\n分倍河原シホ	\n\n涼花みなせ\n\n涼花みなせ\n\n涼花みなせ\n\n涼花みなせ\n\n涼花みなせ\n</size>"
+        [1]
+         1 string data = "<line-height=150%><size=120%>\n砂糖しお\n\n陽向葵ゅか\n\n逢坂成美\n\n分倍河原シホ	\n\n分倍河原シホ	\n\n涼花みなせ\n\n涼花みなせ\n\n涼花みなせ\n\n涼花みなせ\n\n涼花みなせ\n</size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [263]
+     0 TermData data
+      1 string Term = "staffRoll_Main_Heading"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<size=140%>— スタッフ —</size>"
+        [1]
+         1 string data = "<size=140%>— スタッフ —</size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [264]
+     0 TermData data
+      1 string Term = "staffRoll_Main1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<line-height=150%><size=120%>\n企画・監督・演出\n\nゲーム制作・プログラム・UIデザイン・演出\n\nCG（カナデ・ミヤ）\n\nCG（シロコ・リーリス・サブキャラ）\n\nテキスト＆プロット\n</line-height></size>"
+        [1]
+         1 string data = "<line-height=150%><size=120%>\n企画・監督・演出\n\nゲーム制作・プログラム・UIデザイン・演出\n\nCG（カナデ・ミヤ）\n\nCG（シロコ・リーリス・サブキャラ）\n\nテキスト＆プロット\n</line-height></size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [265]
+     0 TermData data
+      1 string Term = "staffRoll_Main2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<line-height=150%><size=120%>\nダイジョビ研究所\n\norange girl / 杉山ゆずき\n\n九反\n\nダイジョビ研究所＆極恥開発\n\nサーペント＆ダイジョビ研究所\n</line-height></size>"
+        [1]
+         1 string data = "<line-height=150%><size=120%>\nダイジョビ研究所\n\norange girl / 杉山ゆずき\n\n九反\n\nダイジョビ研究所＆極恥開発\n\nサーペント＆ダイジョビ研究所\n</line-height></size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [266]
+     0 TermData data
+      1 string Term = "staffRoll_Sub_Heading"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<size=140%>— 協力スタッフ —</size>"
+        [1]
+         1 string data = "<size=140%>— 協力スタッフ —</size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [267]
+     0 TermData data
+      1 string Term = "staffRoll_Sub1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<line-height=110%><size=110%>\nキャラデザイン（リーリス・戦闘員）\n\n作画協力\n\n背景協力・開発怪人兵器CG素材\n\n街の俯瞰マップ\n\nBGM・音響協力\n</line-height></size>"
+        [1]
+         1 string data = "<line-height=110%><size=110%>\nキャラデザイン（リーリス・戦闘員）\n\n作画協力\n\n背景協力・開発怪人兵器CG素材\n\n街の俯瞰マップ\n\nBGM・音響協力\n</line-height></size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [268]
+     0 TermData data
+      1 string Term = "staffRoll_Sub2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<line-height=110%><size=110%>\nロブ☆スター\n\n超M猫\n\n安田悠一\n\nすぅぴぃ\n\nStudio神無月\n</line-height></size>"
+        [1]
+         1 string data = "<line-height=110%><size=110%>\nロブ☆スター\n\n超M猫\n\n安田悠一\n\nすぅぴぃ\n\nStudio神無月\n</line-height></size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [269]
+     0 TermData data
+      1 string Term = "staffRoll_Bgm_Heading"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<size=140%>— ＢＧＭ素材 —</size>"
+        [1]
+         1 string data = "<size=140%>— ＢＧＭ素材 —</size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [270]
+     0 TermData data
+      1 string Term = "staffRoll_Bgm1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "甘茶の音楽工房　様\n\nフリーBGM・音楽素材MusMus　様\n\nT.M.BACH　様\n\n月に憑かれたピエロ　様\n\nGT-K 様\n\nMusMus　様"
+        [1]
+         1 string data = "甘茶の音楽工房　様\n\nフリーBGM・音楽素材MusMus　様\n\nT.M.BACH　様\n\n月に憑かれたピエロ　様\n\nGT-K 様\n\nMusMus　様"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [271]
+     0 TermData data
+      1 string Term = "staffRoll_Se_Heading"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<size=140%>— 効果音・環境音素材 —</size>"
+        [1]
+         1 string data = "<size=140%>— 効果音・環境音素材 —</size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [272]
+     0 TermData data
+      1 string Term = "staffRoll_Se1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "フリー効果音素材 くらげ工匠　様\n\n小森平　様\n\nilodolly　様\n\nOtoLogic　様\n\nポケットサウンド　様\n\nWingless Seraph / ユーフルカ　様\n\n魔王魂　様\n\nザ・マッチメイカァズ　様\n\nKOU-G　様\n\nぴぐみょんスタジオ　様\n\n夢前黎　様"
+        [1]
+         1 string data = "フリー効果音素材 くらげ工匠　様\n\n小森平　様\n\nilodolly　様\n\nOtoLogic　様\n\nポケットサウンド　様\n\nWingless Seraph / ユーフルカ　様\n\n魔王魂　様\n\nザ・マッチメイカァズ　様\n\nKOU-G　様\n\nぴぐみょんスタジオ　様\n\n夢前黎　様"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [273]
+     0 TermData data
+      1 string Term = "staffRoll_Bg_Heading"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<size=140%>— 背景・アイテム画像素材 —</size>"
+        [1]
+         1 string data = "<size=140%>— 背景・アイテム画像素材 —</size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [274]
+     0 TermData data
+      1 string Term = "staffRoll_Bg1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "背景専門店みにくる　様\n\nきまぐれアフター　様"
+        [1]
+         1 string data = "背景専門店みにくる　様\n\nきまぐれアフター　様"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [275]
+     0 TermData data
+      1 string Term = "staffRoll_Nhoo_Heading"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<size=130%>支援サイトで支援してくださった皆様</size>\n\n\n<size=140%>— んほぉ支援者様 —</size>\n（敬称略）"
+        [1]
+         1 string data = "<size=130%>支援サイトで支援してくださった皆様</size>\n\n\n<size=140%>— んほぉ支援者様 —</size>\n（敬称略）"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [276]
+     0 TermData data
+      1 string Term = "staffRoll_Nhoo1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "sakamichi\n\n笹祝\n\nキー\n\nTakumaro\n\nhjri@448\n\n高梨子"
+        [1]
+         1 string data = "sakamichi\n\n笹祝\n\nキー\n\nTakumaro\n\nhjri@448\n\n高梨子"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [277]
+     0 TermData data
+      1 string Term = "staffRoll_Nhoo2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "noi悠久\n\n紅葉饅頭\n\nリキ\n\n華丸\n\nらるく\n\n匿名／名無し　の方"
+        [1]
+         1 string data = "noi悠久\n\n紅葉饅頭\n\nリキ\n\n華丸\n\nらるく\n\n匿名／名無し　の方"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [278]
+     0 TermData data
+      1 string Term = "staffRoll_Aaa_Heading"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<size=140%>— ああぁ支援者様 —</size>\n（敬称略）"
+        [1]
+         1 string data = "<size=140%>— ああぁ支援者様 —</size>\n（敬称略）"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [279]
+     0 TermData data
+      1 string Term = "staffRoll_Aaa1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "ごまあざらし\nジャン\nアル\nわい\nortro\nカモ助\nみにわ\nマシメさん\n喧嘩男\n社畜JS氏\nゲストK\ntocchi\nebi\n理ノ介\n戦\n玉葱"
+        [1]
+         1 string data = "ごまあざらし\nジャン\nアル\nわい\nortro\nカモ助\nみにわ\nマシメさん\n喧嘩男\n社畜JS氏\nゲストK\ntocchi\nebi\n理ノ介\n戦\n玉葱"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [280]
+     0 TermData data
+      1 string Term = "staffRoll_Aaa2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "sustain\nしー\nキウイフルーツ\nyanbaru\nハニスケ\nオット\nリクHS\nなめくじくん\nkiripero\nヴぁあ\nMeeporized\nラムダ＠dora\nguestA\nタナーカ\nクド\nひっそり応援"
+        [1]
+         1 string data = "sustain\nしー\nキウイフルーツ\nyanbaru\nハニスケ\nオット\nリクHS\nなめくじくん\nkiripero\nヴぁあ\nMeeporized\nラムダ＠dora\nguestA\nタナーカ\nクド\nひっそり応援"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [281]
+     0 TermData data
+      1 string Term = "staffRoll_Aaa3"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "通行人\n央牙\nザイ\nマロニー\n古月離\n坂田\nえーろーしー\nグリルドハンペン\nGaoTV\nred9qkqh\nぽてぽて\nジャックリン\nＭＡ777\nazatosann\n\n匿名／名無し　の方々"
+        [1]
+         1 string data = "通行人\n央牙\nザイ\nマロニー\n古月離\n坂田\nえーろーしー\nグリルドハンペン\nGaoTV\nred9qkqh\nぽてぽて\nジャックリン\nＭＡ777\nazatosann\n\n匿名／名無し　の方々"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [282]
+     0 TermData data
+      1 string Term = "staffRoll_Fuaa_Heading"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<size=140%>— ふあぁ支援者様 —</size>\n（敬称略）"
+        [1]
+         1 string data = "<size=140%>— ふあぁ支援者様 —</size>\n（敬称略）"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [283]
+     0 TermData data
+      1 string Term = "staffRoll_Fuaa1"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "べーはま\nフリージア\nアッキー\ntree3\nope\nカム\nこぶた\nIsao\nkt\nアミジャカン\ntaku\n田井中\n国産ちくわ\ndarksickle\nAC\neast hill\nMRyo-patch\nクリア\nRensiQ\n夜啼き鳥\nkoyuria\nスーフォトルブ\n獄炎猫\nfurei010\naaa"
+        [1]
+         1 string data = "べーはま\nフリージア\nアッキー\ntree3\nope\nカム\nこぶた\nIsao\nkt\nアミジャカン\ntaku\n田井中\n国産ちくわ\ndarksickle\nAC\neast hill\nMRyo-patch\nクリア\nRensiQ\n夜啼き鳥\nkoyuria\nスーフォトルブ\n獄炎猫\nfurei010\naaa"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [284]
+     0 TermData data
+      1 string Term = "staffRoll_Fuaa2"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "@k\nもっちい\nサシャ\nゼッツリン\nseed\n野獣先輩\nss\nastas0505\n冥王\nトミィ\nYoxall\nだいだい\nデルラゴ(焼きごて)\np02\n海\nゴリ蔵\nアンドリュー\nカリス＠超究武神真人間\nうぉらい\nむらりん\nJun-PE1\n雪緋奈\nwapthpm\nグラスパ\nゆーり"
+        [1]
+         1 string data = "@k\nもっちい\nサシャ\nゼッツリン\nseed\n野獣先輩\nss\nastas0505\n冥王\nトミィ\nYoxall\nだいだい\nデルラゴ(焼きごて)\np02\n海\nゴリ蔵\nアンドリュー\nカリス＠超究武神真人間\nうぉらい\nむらりん\nJun-PE1\n雪緋奈\nwapthpm\nグラスパ\nゆーり"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [285]
+     0 TermData data
+      1 string Term = "staffRoll_Fuaa3"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "名無し765\nparu\nこなのは\n名無し猫\nからすメイド\n華楽\nsikineko\nコッツ\nCassis\nNo_action\n長距離強行偵察複座型吸精幼女\nヴェスバー\nなぬぁし\ntamagoya\nゆーさん\n海月\n鉄仮面\nねむ\nドライバー\nda-kuro\nen\nアカシマ\n名無氏\n\n匿名／名無し　の方々"
+        [1]
+         1 string data = "名無し765\nparu\nこなのは\n名無し猫\nからすメイド\n華楽\nsikineko\nコッツ\nCassis\nNo_action\n長距離強行偵察複座型吸精幼女\nヴェスバー\nなぬぁし\ntamagoya\nゆーさん\n海月\n鉄仮面\nねむ\nドライバー\nda-kuro\nen\nアカシマ\n名無氏\n\n匿名／名無し　の方々"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+    [286]
+     0 TermData data
+      1 string Term = "staffRoll_Development_Heading"
+      0 int TermType = 0
+      0 vector Languages
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         1 string data = "<size=140%>—  製作 —</size>"
+        [1]
+         1 string data = "<size=140%>—  製作 —</size>"
+      1 vector Flags
+       0 Array Array (2 items)
+        0 int size = 2
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+      0 vector Languages_Touch
+       0 Array Array (0 items)
+        0 int size = 0
+  1 UInt8 CaseInsensitiveTerms = 0
+  0 int OnMissingTranslation = 1
+  1 string mTerm_AppName = ""
+  0 LanguageData mLanguages
+   0 Array Array (2 items)
+    0 int size = 2
+    [0]
+     0 LanguageData data
+      1 string Name = "Japanese"
+      1 string Code = "ja"
+      1 UInt8 Flags = 0
+    [1]
+     0 LanguageData data
+      1 string Name = "English"
+      1 string Code = "en"
+      1 UInt8 Flags = 0
+  1 UInt8 IgnoreDeviceLanguage = 0
+  0 int _AllowUnloadingLanguages = 0
+  1 string Google_WebServiceURL = ""
+  1 string Google_SpreadsheetKey = ""
+  1 string Google_SpreadsheetName = ""
+  1 string Google_LastUpdatedVersion = ""
+  0 int GoogleUpdateFrequency = 3
+  0 int GoogleInEditorCheckFrequency = 2
+  0 int GoogleUpdateSynchronization = 1
+  0 float GoogleUpdateDelay = 0
+  0 vector Assets
+   0 Array Array (0 items)
+    0 int size = 0

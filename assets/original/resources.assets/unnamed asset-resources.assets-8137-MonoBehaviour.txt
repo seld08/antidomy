@@ -1,0 +1,266 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5881
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1699
+ 1 string m_Name = ""
+ 0 PPtr<$GameObject> mPreviewObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 UnityEvent OnRedraw
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 1 UInt8 keepOrthoSize = 0
+ 1 UInt8 paperEffectText = 0
+ 1 UInt8 vRSpaceText = 0
+ 0 float vRSpaceScale = 0.100000001
+ 1 UInt8 maintainLabelSize = 0
+ 0 PieEvent PieClicked
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 PieEvent PieHovered
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 UnityEvent NonHovered
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 int meshSegements = 20
+ 0 float startAngle = -125.199997
+ 0 float angleSpan = 360
+ 0 float spacingAngle = 0.0299999993
+ 0 float radius = 4.19999981
+ 0 float torusRadius = 1.32000005
+ 0 float extrusion = 0.150000006
+ 0 PieData Data
+  0 CategoryData mCategories
+   0 Array Array (8 items)
+    0 int size = 8
+    [0]
+     0 CategoryData data
+      1 string Name = "Player 1"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 11
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+      0 float RadiusScale = 0.395000011
+      0 float DepthScale = 1
+      0 float DepthOffset = 0
+    [1]
+     0 CategoryData data
+      1 string Name = "Player 2"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 12
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+      0 float RadiusScale = 0.453999996
+      0 float DepthScale = 1
+      0 float DepthOffset = 0
+    [2]
+     0 CategoryData data
+      1 string Name = "Player 3"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 13
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+      0 float RadiusScale = 0.546000004
+      0 float DepthScale = 1
+      0 float DepthOffset = 0
+    [3]
+     0 CategoryData data
+      1 string Name = "Player 4"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 14
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+      0 float RadiusScale = 0.621999979
+      0 float DepthScale = 1
+      0 float DepthOffset = 0
+    [4]
+     0 CategoryData data
+      1 string Name = "Player 5"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 15
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+      0 float RadiusScale = 0.790000021
+      0 float DepthScale = 1
+      0 float DepthOffset = 0
+    [5]
+     0 CategoryData data
+      1 string Name = "Player 6"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 16
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+      0 float RadiusScale = 0.865999997
+      0 float DepthScale = 1
+      0 float DepthOffset = 0
+    [6]
+     0 CategoryData data
+      1 string Name = "Player 7"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 17
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+      0 float RadiusScale = 0.933000028
+      0 float DepthScale = 1
+      0 float DepthOffset = 0
+    [7]
+     0 CategoryData data
+      1 string Name = "Player 8"
+      0 ChartDynamicMaterial Materials
+       0 PPtr<$Material> Normal
+        0 int m_FileID = 0
+        0 SInt64 m_PathID = 18
+       0 ColorRGBA Hover
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+       0 ColorRGBA Selected
+        0 float r = 1
+        0 float g = 1
+        0 float b = 1
+        0 float a = 1
+      0 float RadiusScale = 0
+      0 float DepthScale = 1
+      0 float DepthOffset = 0
+  0 vector mGroups
+   0 Array Array (1 items)
+    0 int size = 1
+    [0]
+     1 string data = "Pie"
+  0 DataEntry mData
+   0 Array Array (8 items)
+    0 int size = 8
+    [0]
+     0 DataEntry data
+      1 string GroupName = "Pie"
+      1 string ColumnName = "Player 1"
+      0 double Amount = 1
+    [1]
+     0 DataEntry data
+      1 string GroupName = "Pie"
+      1 string ColumnName = "Player 2"
+      0 double Amount = 1
+    [2]
+     0 DataEntry data
+      1 string GroupName = "Pie"
+      1 string ColumnName = "Player 3"
+      0 double Amount = 1
+    [3]
+     0 DataEntry data
+      1 string GroupName = "Pie"
+      1 string ColumnName = "Player 4"
+      0 double Amount = 1
+    [4]
+     0 DataEntry data
+      1 string GroupName = "Pie"
+      1 string ColumnName = "Player 5"
+      0 double Amount = 1
+    [5]
+     0 DataEntry data
+      1 string GroupName = "Pie"
+      1 string ColumnName = "Player 6"
+      0 double Amount = 1
+    [6]
+     0 DataEntry data
+      1 string GroupName = "Pie"
+      1 string ColumnName = "Player 7"
+      0 double Amount = 1
+    [7]
+     0 DataEntry data
+      1 string GroupName = "Pie"
+      1 string ColumnName = "Player 8"
+      0 double Amount = 1
+ 1 UInt8 clockWise = 0
+ 0 PPtr<$Camera> textCamera
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 float textIdleDistance = 20
+ 0 float innerDepth = 0
+ 0 float outerDepth = 0.810000002
+ 0 PPtr<$GameObject> prefab
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5873

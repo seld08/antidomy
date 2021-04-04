@@ -1,0 +1,36 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5599
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 488
+ 1 string m_Name = "SR_"
+ 0 PPtr<$RectTransform> Container
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6525
+ 0 PPtr<$Text> Header
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7505
+ 0 PPtr<$GameObject> Background
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5472
+ 0 PPtr<$Toggle> SelectionToggle
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7619
+ 0 vector EnabledDuringSelectionMode
+  0 Array Array (3 items)
+   0 int size = 3
+   [0]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5679
+   [1]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5472
+   [2]
+    0 PPtr<$GameObject> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5373

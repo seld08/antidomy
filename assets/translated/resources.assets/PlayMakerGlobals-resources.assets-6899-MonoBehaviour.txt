@@ -1,0 +1,6057 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 4339
+ 1 string m_Name = "PlayMakerGlobals"
+ 0 FsmVariables variables
+  0 FsmFloat floatVariables
+   0 Array Array (28 items)
+    0 int size = 28
+    [0]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "BgmVolume"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0.300000012
+    [1]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "SeVolume"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0.400000006
+    [2]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "AmbienceVolume"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0.5
+    [3]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "TextSpeed"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0.800000012
+    [4]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "TextAutoWaitSpeed"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0.5
+    [5]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "MouseWheelPower"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 55
+    [6]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "displayWidth"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [7]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "displayHeight"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [8]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "HBgmVolume"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0.300000012
+    [9]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "VoiceVolumeKanade"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0.800000012
+    [10]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "VoiceVolumeMiya"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0.800000012
+    [11]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "VoiceVolumeShiroko"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0.800000012
+    [12]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "VoiceVolumeLilith"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0.800000012
+    [13]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [14]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [15]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [16]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "playerMaxCharge"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [17]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [18]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [19]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [20]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "VoiceVolumeOther"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0.800000012
+    [21]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [22]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "EnemyHpBalance"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 1
+    [23]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "DefenceLevelBuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [24]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "CalcDefenceBuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [25]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "CalcDefenceLevelBuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [26]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 0
+    [27]
+     0 FsmFloat data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleBalance"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 float value = 1
+  0 FsmInt intVariables
+   0 Array Array (162 items)
+    0 int size = 162
+    [0]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "GameWindowSize"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 5
+    [1]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "haveAchivement"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [2]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "haveGirlCount"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [3]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "haveLibido"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [4]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "haveViolence"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [5]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "haveMoney"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [6]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerRank"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [7]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "LastestSavePageNumber"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [8]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "LastestSaveSlotNumber"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [9]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "PushSlotNumber"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [10]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "SaveLoadPageNumber"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [11]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "AreaCaution1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [12]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "AreaCaution2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [13]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "researchPoint"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [14]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "infoCostMoney"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [15]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "financingCostAchivement"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [16]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "financingPlusMoney"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [17]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerExp"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [18]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "researchCostMoney"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [19]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Shokushu"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [20]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Tako"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [21]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_LibidoPowerUp"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [22]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_BrainWash"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [23]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_FleshWall"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [24]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_Tatoo"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [25]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_DNAPoison"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [26]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [27]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Orc"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [28]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_InversionPotion"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [29]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_LovePotion"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [30]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_AntiBrainWash"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [31]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Shokushu_Skill1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [32]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Shokushu_Skill2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [33]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Tako_Skill1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [34]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Tako_Skill2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [35]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Orc_Skill1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [36]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Orc_Skill2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [37]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_AntiTatoo"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [38]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Sentouin"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [39]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Sentouin_Skill1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [40]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Sentouin_Skill2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [41]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "DiaryPageNumber"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [42]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "requestPercent"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [43]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "haveDarkPower"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [44]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "presentGirlNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [45]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerHP"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [46]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerMaxHP"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [47]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerCharge"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [48]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerAP"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [49]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerMaxAP"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [50]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyHP"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [51]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyMaxHP"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [52]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyCharge"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [53]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerAttack"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [54]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerDefense"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [55]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyAttack"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [56]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyDefense"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [57]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerChargeSuccess"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [58]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [59]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [60]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerEvasion"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 3
+    [61]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerAccuracy"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [62]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyEvasion"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [63]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyCritical"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [64]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerCritical"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [65]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyAccuracy"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 100
+    [66]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Tentacle"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [67]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Tentacle_Skill1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [68]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Tentacle_Skill2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [69]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyLV"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [70]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "battlePlusResearch"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [71]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "battlePlusExp"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [72]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "TurnRecoverAP"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [73]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleReGeneLevel"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [74]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "originPlayerAttack"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [75]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "originPlayerDefence"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [76]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "defenceLevel"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [77]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyAccuracyDebuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [78]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyEvasionDebuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [79]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleMemberCount"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [80]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "battlePlusMoney"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [81]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "battlePlusDarkPower"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [82]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "battlePlusGirlCount"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [83]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "AreaCaution3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [84]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "haveApPotion"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [85]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "battleHaveApPotion"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [86]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Area1LV"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [87]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Area2LV"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [88]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Area3LV"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [89]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Chimera"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [90]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_Slyme"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [91]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_Transparent"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [92]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_LibidoWorm"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [93]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Ryousan"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [94]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Ryousan_Skill1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [95]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Ryousan_Skill2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [96]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_BabyRegression"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [97]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_Condom"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [98]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_NanoMachine"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [99]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_SensitivePotion"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [100]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_SleepPotion"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [101]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyChargeDebuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [102]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyAttackDebuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [103]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyCriticalDebuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [104]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemySkillPower"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [105]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Chimera_Skill1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [106]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Chimera_Skill2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [107]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "rapeGirlNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [108]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "rapeGirlArrayNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [109]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "RapeSemenCount"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [110]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "TotalGetMoney"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [111]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "TotalManPower"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [112]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "TotalScenarioClear"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [113]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "TotalDevelopmentNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 2
+    [114]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "battlePlusManPower"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [115]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Metal"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [116]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_BrainConvert"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [117]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Miya"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [118]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_WormPenis"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [119]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_AI"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [120]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_SuperTits"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [121]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_Teleport"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [122]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_MobileBrainWash"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [123]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_PowerSuit"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [124]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_ParasiticFutanari"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [125]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Weapon_Futanari"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [126]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "HomeMusicNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [127]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleTalkMemberCount"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [128]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyDefenceDebuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [129]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerAttackBuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [130]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerDefenceBuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [131]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Slyme"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [132]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Slyme_Skill1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [133]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Slyme_Skill2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [134]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerCriticalBuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [135]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "diaryGirlNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [136]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "RapeEyeNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [137]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "RapeTitsNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [138]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "RapeHeadNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [139]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "RapePistonSpeed"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [140]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "SkillSuccessPercent"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 70
+    [141]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyAccuracyDebuff2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [142]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyAttackDebuff2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [143]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Metal_Skill1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [144]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Metal_Skill2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [145]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Miya_Skill1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [146]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Miya_Skill2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [147]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "MetalSuccessPercent"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 75
+    [148]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "MiyaSuccessPercent"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 50
+    [149]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Lilith"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [150]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Lilith_Skill1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [151]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "Kaijin_Lilith_Skill2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 1
+    [152]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "playerChargeBuff"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [153]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "enemyDefenceDebuff2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [154]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleSpriteNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [155]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleSpriteBreakNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [156]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "HomeCharacterNum"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [157]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "MiyaComboCount"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [158]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [159]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [160]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "MiyaDevelopment"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+    [161]
+     0 FsmInt data
+      1 UInt8 useVariable = 1
+      1 string name = "DiaryTabNumber"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int value = 0
+  0 FsmBool boolVariables
+   0 Array Array (223 items)
+    0 int size = 223
+    [0]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isFullScreenMode"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [1]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [2]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [3]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M3_K_A"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [4]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M3_K_B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [5]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M3_M_A"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [6]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M3_M_B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [7]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M3_L"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [8]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M3_O_1A"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [9]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M3_O_1B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [10]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M3_O_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [11]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M4_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [12]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M4_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [13]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M4_3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [14]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M4_5"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [15]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M4_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [16]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isScenario"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [17]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isPresentGirl"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [18]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M3_B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [19]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [20]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M6_S"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [21]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M6_L"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [22]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M6_O_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [23]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M6_O_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [24]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M6_KM"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [25]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [26]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M6_KM2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [27]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M6_K"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [28]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M6_KM3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [29]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [30]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M7"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [31]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [32]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M6_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [33]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M10_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [34]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [35]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M9"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [36]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isDiary"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [37]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isEnemyTurn"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [38]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isSpecialAttack"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [39]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isHit"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [40]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isEnemyChargeAttack"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [41]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isCritialHit"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [42]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isEnemyCritialHit"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [43]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isEnemyHit"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [44]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isBattlePreStart"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [45]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isEncounter"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [46]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isBattleSuccess"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [47]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isBattleDefeat"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [48]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isBattleBreak"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [49]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isSpecialHit"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [50]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isEnemyCharge"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [51]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isMissionWindow"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [52]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isScenarioClear"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [53]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M3_Weapon"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [54]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [55]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_L_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [56]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_S_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [57]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [58]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_KM_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [59]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_KM_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [60]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_KM_3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [61]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_KM_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [62]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_K_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [63]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_K_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [64]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_M_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [65]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_M_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [66]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [67]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [68]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [69]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [70]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_KM_3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [71]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_KM_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [72]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M13"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [73]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_S_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [74]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M11_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [75]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M12_5"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [76]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [77]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_S_3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [78]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M14_K_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [79]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_L_2B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [80]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_L_3B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [81]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isBattleTest"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [82]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M11"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [83]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [84]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M3_O_1A"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [85]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M3_K_A"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [86]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M3_M_A"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [87]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_pre_M3_B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [88]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_pre_M4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [89]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isM1Start"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [90]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M6_O_1"
+      1 string tooltip = "notice_M6_O_1"
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [91]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_pre_M6_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [92]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_pre_M7"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [93]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M9"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [94]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M10_L_2B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [95]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [96]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M10_S_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [97]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_pre_M11"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [98]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M4_5"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [99]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_Area_M4_5"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [100]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isAreaNotice"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [101]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isNormalBattle"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [102]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M5_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [103]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M5_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [104]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isRapeAction"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [105]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isGirlPresent"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [106]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [107]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isRapeGallery"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [108]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "RapePositionBool"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [109]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isRapeRepeat"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [110]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M3_O_1B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [111]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isRapeDarkScreen"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [112]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "haveGirlGet_JK1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [113]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "haveGirlGet_JK2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [114]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "haveGirlGet_JK3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [115]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "haveGirlGet_JD1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [116]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "haveGirlGet_JD2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [117]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "haveGirlGet_JD3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [118]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "haveGirlGet_OL1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [119]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "haveGirlGet_OL2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [120]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "haveGirlGet_OL3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [121]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_Area_M3_O_1A"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [122]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M14_S_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [123]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M14_S_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [124]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M14_S_3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [125]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M14_S_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [126]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M14_O_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [127]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M14_O_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [128]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M14_L_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [129]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M14_L_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [130]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M14_K_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [131]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M14_M"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [132]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M15"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [133]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [134]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [135]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [136]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M17"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [137]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_M"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [138]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_M_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [139]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_M_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [140]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_M_3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [141]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_M_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [142]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_L_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [143]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_L_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [144]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_L_3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [145]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_L_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [146]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_L_5"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [147]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_O_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [148]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_O_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [149]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [150]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_S"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [151]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_K_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [152]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_K_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [153]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_K_3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [154]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_K_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [155]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_O_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [156]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M10_O_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [157]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M15"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [158]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M18_TL2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [159]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M18_TL3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [160]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M18_TL4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [161]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M18_LS"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [162]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M20"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [163]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M19"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [164]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [165]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_S_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [166]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_K_1A"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [167]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_K_1B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [168]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_M_1A"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [169]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_M_1B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [170]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_M_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [171]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_S_3A"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [172]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [173]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [174]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_S_3C"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [175]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_S_3D"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [176]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_S_3E"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [177]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_KM_3A"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [178]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_KM_3B"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [179]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_S_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [180]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_K_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [181]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_LS_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [182]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_KM_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [183]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_KM_4F"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [184]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [185]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [186]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [187]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M21_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [188]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M21_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [189]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M21_ML_3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [190]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [191]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M12"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [192]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M13"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [193]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M14_K_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [194]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M14_O"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [195]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_pre_M15"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [196]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M15"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [197]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M17"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [198]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_pre_M18_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [199]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_pre_M18_4"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [200]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_pre_M19"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [201]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_pre_M21_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [202]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M21_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [203]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "pre_M21_3"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [204]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isDiarySelectGirl"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [205]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isSelectGirl"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [206]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [207]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isPistonRandom"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [208]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isPistonRepeat"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [209]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isVisibleBalloon"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 1
+    [210]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isAction"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [211]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [212]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "M19_6"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [213]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isFutanari"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 1
+    [214]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isEnding"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [215]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isHmode"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [216]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "isFirstBattle"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [217]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [218]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M5_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [219]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M14_K_2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [220]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "diaryPageOneOnly"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [221]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+    [222]
+     0 FsmBool data
+      1 UInt8 useVariable = 1
+      1 string name = "notice_M14_S_1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 UInt8 value = 0
+  0 FsmString stringVariables
+   0 Array Array (34 items)
+    0 int size = 34
+    [0]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "SelectCanvas"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [1]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [2]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "SelectActionCommand"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [3]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "SelectAreaString"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [4]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "NextScenarioString"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [5]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "GetUtageScenarioLabel"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [6]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "SelectDevelopTab"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = "Kaijin"
+    [7]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "SelectKaijinName"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = "Kaijin_Sentouin"
+    [8]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "SelectWeaponName"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = "Weapon_LovePotion"
+    [9]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "SelectLvUpCategory"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [10]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "BackScenarioString"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [11]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "AfterBattleScenarioString"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = "Status"
+    [12]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleConditionType"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [13]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [14]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleSelectKaijinSkill"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [15]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleSelectKaijin"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [16]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleConditionSkill"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [17]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleConditionKaijin"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [18]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "ScenarioCategory"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [19]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [20]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "AbductionType"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [21]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "GetUtageScenarioLocalize"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [22]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [23]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [24]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "ContinueScenarioString"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [25]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "HomeCharacterName"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = "goeiBuka"
+    [26]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "EncountEnemy"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [27]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "SpecialVoiceType"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [28]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "girlVoiceName"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [29]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleSpriteType"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [30]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "diaryCheckBool1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [31]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "diaryCheckBool2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [32]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "diaryScenarioName1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+    [33]
+     0 FsmString data
+      1 UInt8 useVariable = 1
+      1 string name = "diaryScenarioName2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string value = ""
+  0 FsmVector2 vector2Variables
+   0 Array Array (0 items)
+    0 int size = 0
+  0 FsmVector3 vector3Variables
+   0 Array Array (0 items)
+    0 int size = 0
+  0 FsmColor colorVariables
+   0 Array Array (0 items)
+    0 int size = 0
+  0 FsmRect rectVariables
+   0 Array Array (0 items)
+    0 int size = 0
+  0 FsmQuaternion quaternionVariables
+   0 Array Array (0 items)
+    0 int size = 0
+  0 FsmGameObject gameObjectVariables
+   0 Array Array (30 items)
+    0 int size = 30
+    [0]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "CanvasManagerGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [1]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "DevelopmentManagerGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [2]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleSkillCanvas"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [3]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "MasterAudioGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [4]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "SkillManagerGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [5]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleTurnManagerGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [6]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "DamageTextGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [7]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "HealTextGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [8]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleConditionCanvas"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [9]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleConditionGroup"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [10]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "ConditionGroupBorderGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [11]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "StoreConfettiGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [12]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "ResearchManagerGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [13]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "ActionAnimationManagerGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [14]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "RapeTargetGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [15]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "SemenPoint1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [16]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "SemenPoint2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [17]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "RapeVaginaGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [18]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleConditionGroup"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [19]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "ConditionHeaderGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [20]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [21]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "ConditionGroupBorderGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [22]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [23]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "ConditionHeaderGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [24]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "DiaryRapeTargetGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [25]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "RapeManHeadGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [26]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "RapeManagerGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [27]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "VoiceManagerGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [28]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "SpriteManagerGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [29]
+     0 FsmGameObject data
+      1 UInt8 useVariable = 1
+      1 string name = "BaffCalcManagerGO"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 PPtr<$GameObject> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+  0 FsmObject objectVariables
+   0 Array Array (12 items)
+    0 int size = 12
+    [0]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "UtageEngine"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "Utage.AdvEngine"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [1]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "UtageAdvUguiManager"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "Utage.AdvUguiManager"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [2]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "KaijinImageSprite"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "UnityEngine.Sprite"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5341
+    [3]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "WeaponImageSprite"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "UnityEngine.Sprite"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5344
+    [4]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleConditionText"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "TMPro.TextMeshProUGUI"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [5]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleConditionKaijinText"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "TMPro.TextMeshProUGUI"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [6]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleConditionSkillText"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "TMPro.TextMeshProUGUI"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [7]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleMemberName"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "TMPro.TextMeshProUGUI"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [8]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "ConditionHeaderTMP"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "TMPro.TextMeshProUGUI"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [9]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleConditionEnemy"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "TMPro.TextMeshProUGUI"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [10]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "diaryTumbNail1"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "UnityEngine.Sprite"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [11]
+     0 FsmObject data
+      1 UInt8 useVariable = 1
+      1 string name = "diaryTumbNail2"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = "UnityEngine.Sprite"
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+  0 FsmMaterial materialVariables
+   0 Array Array (0 items)
+    0 int size = 0
+  0 FsmTexture textureVariables
+   0 Array Array (2 items)
+    0 int size = 2
+    [0]
+     0 FsmTexture data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = ""
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+    [1]
+     0 FsmTexture data
+      1 UInt8 useVariable = 1
+      1 string name = ""
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      1 string typeName = ""
+      0 PPtr<$Object> value
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+  0 FsmArray arrayVariables
+   0 Array Array (13 items)
+    0 int size = 13
+    [0]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "NextScenarioArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 2
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (0 items)
+        0 int size = 0
+      1 vector boolValues
+       0 Array Array (12 items)
+        0 int size = 12
+        [0]
+         0 UInt8 data = 0
+        [1]
+         0 UInt8 data = 0
+        [2]
+         0 UInt8 data = 0
+        [3]
+         0 UInt8 data = 0
+        [4]
+         0 UInt8 data = 0
+        [5]
+         0 UInt8 data = 0
+        [6]
+         0 UInt8 data = 0
+        [7]
+         0 UInt8 data = 0
+        [8]
+         0 UInt8 data = 0
+        [9]
+         0 UInt8 data = 0
+        [10]
+         0 UInt8 data = 0
+        [11]
+         0 UInt8 data = 0
+      0 vector stringValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [1]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "NextScenarioStringArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 4
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (0 items)
+        0 int size = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (12 items)
+        0 int size = 12
+        [0]
+         1 string data = ""
+        [1]
+         1 string data = ""
+        [2]
+         1 string data = ""
+        [3]
+         1 string data = ""
+        [4]
+         1 string data = ""
+        [5]
+         1 string data = ""
+        [6]
+         1 string data = ""
+        [7]
+         1 string data = ""
+        [8]
+         1 string data = ""
+        [9]
+         1 string data = ""
+        [10]
+         1 string data = ""
+        [11]
+         1 string data = ""
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [2]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "NeedDevelopmentArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 4
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (0 items)
+        0 int size = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (32 items)
+        0 int size = 32
+        [0]
+         1 string data = ""
+        [1]
+         1 string data = ""
+        [2]
+         1 string data = ""
+        [3]
+         1 string data = ""
+        [4]
+         1 string data = ""
+        [5]
+         1 string data = ""
+        [6]
+         1 string data = ""
+        [7]
+         1 string data = ""
+        [8]
+         1 string data = ""
+        [9]
+         1 string data = ""
+        [10]
+         1 string data = ""
+        [11]
+         1 string data = ""
+        [12]
+         1 string data = ""
+        [13]
+         1 string data = ""
+        [14]
+         1 string data = ""
+        [15]
+         1 string data = ""
+        [16]
+         1 string data = ""
+        [17]
+         1 string data = ""
+        [18]
+         1 string data = ""
+        [19]
+         1 string data = ""
+        [20]
+         1 string data = ""
+        [21]
+         1 string data = ""
+        [22]
+         1 string data = ""
+        [23]
+         1 string data = ""
+        [24]
+         1 string data = ""
+        [25]
+         1 string data = ""
+        [26]
+         1 string data = ""
+        [27]
+         1 string data = ""
+        [28]
+         1 string data = ""
+        [29]
+         1 string data = ""
+        [30]
+         1 string data = ""
+        [31]
+         1 string data = ""
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [3]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "MemberNameArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 4
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (0 items)
+        0 int size = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (9 items)
+        0 int size = 9
+        [0]
+         1 string data = "Kaijin_Sentouin"
+        [1]
+         1 string data = "Kaijin_Shokushu"
+        [2]
+         1 string data = "Kaijin_Tako"
+        [3]
+         1 string data = "Kaijin_Orc"
+        [4]
+         1 string data = "Kaijin_Chimera"
+        [5]
+         1 string data = "Kaijin_Slyme"
+        [6]
+         1 string data = "Kaijin_Metal"
+        [7]
+         1 string data = "Kaijin_Lilith"
+        [8]
+         1 string data = "Kaijin_Miya"
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [4]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleMemberNameArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 4
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (0 items)
+        0 int size = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [5]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "MemberSkill1LevelArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 1
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (9 items)
+        0 int size = 9
+        [0]
+         0 int data = 0
+        [1]
+         0 int data = 0
+        [2]
+         0 int data = 0
+        [3]
+         0 int data = 0
+        [4]
+         0 int data = 0
+        [5]
+         0 int data = 0
+        [6]
+         0 int data = 0
+        [7]
+         0 int data = 0
+        [8]
+         0 int data = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [6]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "MemberSkill2LevelArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 1
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (9 items)
+        0 int size = 9
+        [0]
+         0 int data = 0
+        [1]
+         0 int data = 0
+        [2]
+         0 int data = 0
+        [3]
+         0 int data = 0
+        [4]
+         0 int data = 0
+        [5]
+         0 int data = 0
+        [6]
+         0 int data = 0
+        [7]
+         0 int data = 0
+        [8]
+         0 int data = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [7]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "MemberLevelArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 1
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (9 items)
+        0 int size = 9
+        [0]
+         0 int data = 0
+        [1]
+         0 int data = 0
+        [2]
+         0 int data = 0
+        [3]
+         0 int data = 0
+        [4]
+         0 int data = 0
+        [5]
+         0 int data = 0
+        [6]
+         0 int data = 0
+        [7]
+         0 int data = 0
+        [8]
+         0 int data = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [8]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "EnemyNameArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 4
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (0 items)
+        0 int size = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [9]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "NeedDevelopmentKaijinArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 4
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (0 items)
+        0 int size = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (32 items)
+        0 int size = 32
+        [0]
+         1 string data = ""
+        [1]
+         1 string data = ""
+        [2]
+         1 string data = ""
+        [3]
+         1 string data = ""
+        [4]
+         1 string data = ""
+        [5]
+         1 string data = ""
+        [6]
+         1 string data = ""
+        [7]
+         1 string data = ""
+        [8]
+         1 string data = ""
+        [9]
+         1 string data = ""
+        [10]
+         1 string data = ""
+        [11]
+         1 string data = ""
+        [12]
+         1 string data = ""
+        [13]
+         1 string data = ""
+        [14]
+         1 string data = ""
+        [15]
+         1 string data = ""
+        [16]
+         1 string data = ""
+        [17]
+         1 string data = ""
+        [18]
+         1 string data = ""
+        [19]
+         1 string data = ""
+        [20]
+         1 string data = ""
+        [21]
+         1 string data = ""
+        [22]
+         1 string data = ""
+        [23]
+         1 string data = ""
+        [24]
+         1 string data = ""
+        [25]
+         1 string data = ""
+        [26]
+         1 string data = ""
+        [27]
+         1 string data = ""
+        [28]
+         1 string data = ""
+        [29]
+         1 string data = ""
+        [30]
+         1 string data = ""
+        [31]
+         1 string data = ""
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [10]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "HaveGirlArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 1
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (9 items)
+        0 int size = 9
+        [0]
+         0 int data = 0
+        [1]
+         0 int data = 0
+        [2]
+         0 int data = 0
+        [3]
+         0 int data = 0
+        [4]
+         0 int data = 0
+        [5]
+         0 int data = 0
+        [6]
+         0 int data = 0
+        [7]
+         0 int data = 0
+        [8]
+         0 int data = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [11]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "BattleTalkMemberArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 4
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (0 items)
+        0 int size = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+    [12]
+     0 FsmArray data
+      1 UInt8 useVariable = 1
+      1 string name = "abductionGirlArray"
+      1 string tooltip = ""
+      1 UInt8 showInInspector = 0
+      1 UInt8 networkSync = 0
+      0 int type = 4
+      1 string objectTypeName = "UnityEngine.Object"
+      0 vector floatValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector intValues
+       0 Array Array (0 items)
+        0 int size = 0
+      1 vector boolValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector stringValues
+       0 Array Array (0 items)
+        0 int size = 0
+      0 Vector4f vector4Values
+       0 Array Array (0 items)
+        0 int size = 0
+      0 vector objectReferences
+       0 Array Array (0 items)
+        0 int size = 0
+  0 FsmEnum enumVariables
+   0 Array Array (0 items)
+    0 int size = 0
+  0 vector categories
+   0 Array Array (1 items)
+    0 int size = 1
+    [0]
+     1 string data = ""
+  0 vector variableCategoryIDs
+   0 Array Array (504 items)
+    0 int size = 504
+    [0]
+     0 int data = 0
+    [1]
+     0 int data = 0
+    [2]
+     0 int data = 0
+    [3]
+     0 int data = 0
+    [4]
+     0 int data = 0
+    [5]
+     0 int data = 0
+    [6]
+     0 int data = 0
+    [7]
+     0 int data = 0
+    [8]
+     0 int data = 0
+    [9]
+     0 int data = 0
+    [10]
+     0 int data = 0
+    [11]
+     0 int data = 0
+    [12]
+     0 int data = 0
+    [13]
+     0 int data = 0
+    [14]
+     0 int data = 0
+    [15]
+     0 int data = 0
+    [16]
+     0 int data = 0
+    [17]
+     0 int data = 0
+    [18]
+     0 int data = 0
+    [19]
+     0 int data = 0
+    [20]
+     0 int data = 0
+    [21]
+     0 int data = 0
+    [22]
+     0 int data = 0
+    [23]
+     0 int data = 0
+    [24]
+     0 int data = 0
+    [25]
+     0 int data = 0
+    [26]
+     0 int data = 0
+    [27]
+     0 int data = 0
+    [28]
+     0 int data = 0
+    [29]
+     0 int data = 0
+    [30]
+     0 int data = 0
+    [31]
+     0 int data = 0
+    [32]
+     0 int data = 0
+    [33]
+     0 int data = 0
+    [34]
+     0 int data = 0
+    [35]
+     0 int data = 0
+    [36]
+     0 int data = 0
+    [37]
+     0 int data = 0
+    [38]
+     0 int data = 0
+    [39]
+     0 int data = 0
+    [40]
+     0 int data = 0
+    [41]
+     0 int data = 0
+    [42]
+     0 int data = 0
+    [43]
+     0 int data = 0
+    [44]
+     0 int data = 0
+    [45]
+     0 int data = 0
+    [46]
+     0 int data = 0
+    [47]
+     0 int data = 0
+    [48]
+     0 int data = 0
+    [49]
+     0 int data = 0
+    [50]
+     0 int data = 0
+    [51]
+     0 int data = 0
+    [52]
+     0 int data = 0
+    [53]
+     0 int data = 0
+    [54]
+     0 int data = 0
+    [55]
+     0 int data = 0
+    [56]
+     0 int data = 0
+    [57]
+     0 int data = 0
+    [58]
+     0 int data = 0
+    [59]
+     0 int data = 0
+    [60]
+     0 int data = 0
+    [61]
+     0 int data = 0
+    [62]
+     0 int data = 0
+    [63]
+     0 int data = 0
+    [64]
+     0 int data = 0
+    [65]
+     0 int data = 0
+    [66]
+     0 int data = 0
+    [67]
+     0 int data = 0
+    [68]
+     0 int data = 0
+    [69]
+     0 int data = 0
+    [70]
+     0 int data = 0
+    [71]
+     0 int data = 0
+    [72]
+     0 int data = 0
+    [73]
+     0 int data = 0
+    [74]
+     0 int data = 0
+    [75]
+     0 int data = 0
+    [76]
+     0 int data = 0
+    [77]
+     0 int data = 0
+    [78]
+     0 int data = 0
+    [79]
+     0 int data = 0
+    [80]
+     0 int data = 0
+    [81]
+     0 int data = 0
+    [82]
+     0 int data = 0
+    [83]
+     0 int data = 0
+    [84]
+     0 int data = 0
+    [85]
+     0 int data = 0
+    [86]
+     0 int data = 0
+    [87]
+     0 int data = 0
+    [88]
+     0 int data = 0
+    [89]
+     0 int data = 0
+    [90]
+     0 int data = 0
+    [91]
+     0 int data = 0
+    [92]
+     0 int data = 0
+    [93]
+     0 int data = 0
+    [94]
+     0 int data = 0
+    [95]
+     0 int data = 0
+    [96]
+     0 int data = 0
+    [97]
+     0 int data = 0
+    [98]
+     0 int data = 0
+    [99]
+     0 int data = 0
+    [100]
+     0 int data = 0
+    [101]
+     0 int data = 0
+    [102]
+     0 int data = 0
+    [103]
+     0 int data = 0
+    [104]
+     0 int data = 0
+    [105]
+     0 int data = 0
+    [106]
+     0 int data = 0
+    [107]
+     0 int data = 0
+    [108]
+     0 int data = 0
+    [109]
+     0 int data = 0
+    [110]
+     0 int data = 0
+    [111]
+     0 int data = 0
+    [112]
+     0 int data = 0
+    [113]
+     0 int data = 0
+    [114]
+     0 int data = 0
+    [115]
+     0 int data = 0
+    [116]
+     0 int data = 0
+    [117]
+     0 int data = 0
+    [118]
+     0 int data = 0
+    [119]
+     0 int data = 0
+    [120]
+     0 int data = 0
+    [121]
+     0 int data = 0
+    [122]
+     0 int data = 0
+    [123]
+     0 int data = 0
+    [124]
+     0 int data = 0
+    [125]
+     0 int data = 0
+    [126]
+     0 int data = 0
+    [127]
+     0 int data = 0
+    [128]
+     0 int data = 0
+    [129]
+     0 int data = 0
+    [130]
+     0 int data = 0
+    [131]
+     0 int data = 0
+    [132]
+     0 int data = 0
+    [133]
+     0 int data = 0
+    [134]
+     0 int data = 0
+    [135]
+     0 int data = 0
+    [136]
+     0 int data = 0
+    [137]
+     0 int data = 0
+    [138]
+     0 int data = 0
+    [139]
+     0 int data = 0
+    [140]
+     0 int data = 0
+    [141]
+     0 int data = 0
+    [142]
+     0 int data = 0
+    [143]
+     0 int data = 0
+    [144]
+     0 int data = 0
+    [145]
+     0 int data = 0
+    [146]
+     0 int data = 0
+    [147]
+     0 int data = 0
+    [148]
+     0 int data = 0
+    [149]
+     0 int data = 0
+    [150]
+     0 int data = 0
+    [151]
+     0 int data = 0
+    [152]
+     0 int data = 0
+    [153]
+     0 int data = 0
+    [154]
+     0 int data = 0
+    [155]
+     0 int data = 0
+    [156]
+     0 int data = 0
+    [157]
+     0 int data = 0
+    [158]
+     0 int data = 0
+    [159]
+     0 int data = 0
+    [160]
+     0 int data = 0
+    [161]
+     0 int data = 0
+    [162]
+     0 int data = 0
+    [163]
+     0 int data = 0
+    [164]
+     0 int data = 0
+    [165]
+     0 int data = 0
+    [166]
+     0 int data = 0
+    [167]
+     0 int data = 0
+    [168]
+     0 int data = 0
+    [169]
+     0 int data = 0
+    [170]
+     0 int data = 0
+    [171]
+     0 int data = 0
+    [172]
+     0 int data = 0
+    [173]
+     0 int data = 0
+    [174]
+     0 int data = 0
+    [175]
+     0 int data = 0
+    [176]
+     0 int data = 0
+    [177]
+     0 int data = 0
+    [178]
+     0 int data = 0
+    [179]
+     0 int data = 0
+    [180]
+     0 int data = 0
+    [181]
+     0 int data = 0
+    [182]
+     0 int data = 0
+    [183]
+     0 int data = 0
+    [184]
+     0 int data = 0
+    [185]
+     0 int data = 0
+    [186]
+     0 int data = 0
+    [187]
+     0 int data = 0
+    [188]
+     0 int data = 0
+    [189]
+     0 int data = 0
+    [190]
+     0 int data = 0
+    [191]
+     0 int data = 0
+    [192]
+     0 int data = 0
+    [193]
+     0 int data = 0
+    [194]
+     0 int data = 0
+    [195]
+     0 int data = 0
+    [196]
+     0 int data = 0
+    [197]
+     0 int data = 0
+    [198]
+     0 int data = 0
+    [199]
+     0 int data = 0
+    [200]
+     0 int data = 0
+    [201]
+     0 int data = 0
+    [202]
+     0 int data = 0
+    [203]
+     0 int data = 0
+    [204]
+     0 int data = 0
+    [205]
+     0 int data = 0
+    [206]
+     0 int data = 0
+    [207]
+     0 int data = 0
+    [208]
+     0 int data = 0
+    [209]
+     0 int data = 0
+    [210]
+     0 int data = 0
+    [211]
+     0 int data = 0
+    [212]
+     0 int data = 0
+    [213]
+     0 int data = 0
+    [214]
+     0 int data = 0
+    [215]
+     0 int data = 0
+    [216]
+     0 int data = 0
+    [217]
+     0 int data = 0
+    [218]
+     0 int data = 0
+    [219]
+     0 int data = 0
+    [220]
+     0 int data = 0
+    [221]
+     0 int data = 0
+    [222]
+     0 int data = 0
+    [223]
+     0 int data = 0
+    [224]
+     0 int data = 0
+    [225]
+     0 int data = 0
+    [226]
+     0 int data = 0
+    [227]
+     0 int data = 0
+    [228]
+     0 int data = 0
+    [229]
+     0 int data = 0
+    [230]
+     0 int data = 0
+    [231]
+     0 int data = 0
+    [232]
+     0 int data = 0
+    [233]
+     0 int data = 0
+    [234]
+     0 int data = 0
+    [235]
+     0 int data = 0
+    [236]
+     0 int data = 0
+    [237]
+     0 int data = 0
+    [238]
+     0 int data = 0
+    [239]
+     0 int data = 0
+    [240]
+     0 int data = 0
+    [241]
+     0 int data = 0
+    [242]
+     0 int data = 0
+    [243]
+     0 int data = 0
+    [244]
+     0 int data = 0
+    [245]
+     0 int data = 0
+    [246]
+     0 int data = 0
+    [247]
+     0 int data = 0
+    [248]
+     0 int data = 0
+    [249]
+     0 int data = 0
+    [250]
+     0 int data = 0
+    [251]
+     0 int data = 0
+    [252]
+     0 int data = 0
+    [253]
+     0 int data = 0
+    [254]
+     0 int data = 0
+    [255]
+     0 int data = 0
+    [256]
+     0 int data = 0
+    [257]
+     0 int data = 0
+    [258]
+     0 int data = 0
+    [259]
+     0 int data = 0
+    [260]
+     0 int data = 0
+    [261]
+     0 int data = 0
+    [262]
+     0 int data = 0
+    [263]
+     0 int data = 0
+    [264]
+     0 int data = 0
+    [265]
+     0 int data = 0
+    [266]
+     0 int data = 0
+    [267]
+     0 int data = 0
+    [268]
+     0 int data = 0
+    [269]
+     0 int data = 0
+    [270]
+     0 int data = 0
+    [271]
+     0 int data = 0
+    [272]
+     0 int data = 0
+    [273]
+     0 int data = 0
+    [274]
+     0 int data = 0
+    [275]
+     0 int data = 0
+    [276]
+     0 int data = 0
+    [277]
+     0 int data = 0
+    [278]
+     0 int data = 0
+    [279]
+     0 int data = 0
+    [280]
+     0 int data = 0
+    [281]
+     0 int data = 0
+    [282]
+     0 int data = 0
+    [283]
+     0 int data = 0
+    [284]
+     0 int data = 0
+    [285]
+     0 int data = 0
+    [286]
+     0 int data = 0
+    [287]
+     0 int data = 0
+    [288]
+     0 int data = 0
+    [289]
+     0 int data = 0
+    [290]
+     0 int data = 0
+    [291]
+     0 int data = 0
+    [292]
+     0 int data = 0
+    [293]
+     0 int data = 0
+    [294]
+     0 int data = 0
+    [295]
+     0 int data = 0
+    [296]
+     0 int data = 0
+    [297]
+     0 int data = 0
+    [298]
+     0 int data = 0
+    [299]
+     0 int data = 0
+    [300]
+     0 int data = 0
+    [301]
+     0 int data = 0
+    [302]
+     0 int data = 0
+    [303]
+     0 int data = 0
+    [304]
+     0 int data = 0
+    [305]
+     0 int data = 0
+    [306]
+     0 int data = 0
+    [307]
+     0 int data = 0
+    [308]
+     0 int data = 0
+    [309]
+     0 int data = 0
+    [310]
+     0 int data = 0
+    [311]
+     0 int data = 0
+    [312]
+     0 int data = 0
+    [313]
+     0 int data = 0
+    [314]
+     0 int data = 0
+    [315]
+     0 int data = 0
+    [316]
+     0 int data = 0
+    [317]
+     0 int data = 0
+    [318]
+     0 int data = 0
+    [319]
+     0 int data = 0
+    [320]
+     0 int data = 0
+    [321]
+     0 int data = 0
+    [322]
+     0 int data = 0
+    [323]
+     0 int data = 0
+    [324]
+     0 int data = 0
+    [325]
+     0 int data = 0
+    [326]
+     0 int data = 0
+    [327]
+     0 int data = 0
+    [328]
+     0 int data = 0
+    [329]
+     0 int data = 0
+    [330]
+     0 int data = 0
+    [331]
+     0 int data = 0
+    [332]
+     0 int data = 0
+    [333]
+     0 int data = 0
+    [334]
+     0 int data = 0
+    [335]
+     0 int data = 0
+    [336]
+     0 int data = 0
+    [337]
+     0 int data = 0
+    [338]
+     0 int data = 0
+    [339]
+     0 int data = 0
+    [340]
+     0 int data = 0
+    [341]
+     0 int data = 0
+    [342]
+     0 int data = 0
+    [343]
+     0 int data = 0
+    [344]
+     0 int data = 0
+    [345]
+     0 int data = 0
+    [346]
+     0 int data = 0
+    [347]
+     0 int data = 0
+    [348]
+     0 int data = 0
+    [349]
+     0 int data = 0
+    [350]
+     0 int data = 0
+    [351]
+     0 int data = 0
+    [352]
+     0 int data = 0
+    [353]
+     0 int data = 0
+    [354]
+     0 int data = 0
+    [355]
+     0 int data = 0
+    [356]
+     0 int data = 0
+    [357]
+     0 int data = 0
+    [358]
+     0 int data = 0
+    [359]
+     0 int data = 0
+    [360]
+     0 int data = 0
+    [361]
+     0 int data = 0
+    [362]
+     0 int data = 0
+    [363]
+     0 int data = 0
+    [364]
+     0 int data = 0
+    [365]
+     0 int data = 0
+    [366]
+     0 int data = 0
+    [367]
+     0 int data = 0
+    [368]
+     0 int data = 0
+    [369]
+     0 int data = 0
+    [370]
+     0 int data = 0
+    [371]
+     0 int data = 0
+    [372]
+     0 int data = 0
+    [373]
+     0 int data = 0
+    [374]
+     0 int data = 0
+    [375]
+     0 int data = 0
+    [376]
+     0 int data = 0
+    [377]
+     0 int data = 0
+    [378]
+     0 int data = 0
+    [379]
+     0 int data = 0
+    [380]
+     0 int data = 0
+    [381]
+     0 int data = 0
+    [382]
+     0 int data = 0
+    [383]
+     0 int data = 0
+    [384]
+     0 int data = 0
+    [385]
+     0 int data = 0
+    [386]
+     0 int data = 0
+    [387]
+     0 int data = 0
+    [388]
+     0 int data = 0
+    [389]
+     0 int data = 0
+    [390]
+     0 int data = 0
+    [391]
+     0 int data = 0
+    [392]
+     0 int data = 0
+    [393]
+     0 int data = 0
+    [394]
+     0 int data = 0
+    [395]
+     0 int data = 0
+    [396]
+     0 int data = 0
+    [397]
+     0 int data = 0
+    [398]
+     0 int data = 0
+    [399]
+     0 int data = 0
+    [400]
+     0 int data = 0
+    [401]
+     0 int data = 0
+    [402]
+     0 int data = 0
+    [403]
+     0 int data = 0
+    [404]
+     0 int data = 0
+    [405]
+     0 int data = 0
+    [406]
+     0 int data = 0
+    [407]
+     0 int data = 0
+    [408]
+     0 int data = 0
+    [409]
+     0 int data = 0
+    [410]
+     0 int data = 0
+    [411]
+     0 int data = 0
+    [412]
+     0 int data = 0
+    [413]
+     0 int data = 0
+    [414]
+     0 int data = 0
+    [415]
+     0 int data = 0
+    [416]
+     0 int data = 0
+    [417]
+     0 int data = 0
+    [418]
+     0 int data = 0
+    [419]
+     0 int data = 0
+    [420]
+     0 int data = 0
+    [421]
+     0 int data = 0
+    [422]
+     0 int data = 0
+    [423]
+     0 int data = 0
+    [424]
+     0 int data = 0
+    [425]
+     0 int data = 0
+    [426]
+     0 int data = 0
+    [427]
+     0 int data = 0
+    [428]
+     0 int data = 0
+    [429]
+     0 int data = 0
+    [430]
+     0 int data = 0
+    [431]
+     0 int data = 0
+    [432]
+     0 int data = 0
+    [433]
+     0 int data = 0
+    [434]
+     0 int data = 0
+    [435]
+     0 int data = 0
+    [436]
+     0 int data = 0
+    [437]
+     0 int data = 0
+    [438]
+     0 int data = 0
+    [439]
+     0 int data = 0
+    [440]
+     0 int data = 0
+    [441]
+     0 int data = 0
+    [442]
+     0 int data = 0
+    [443]
+     0 int data = 0
+    [444]
+     0 int data = 0
+    [445]
+     0 int data = 0
+    [446]
+     0 int data = 0
+    [447]
+     0 int data = 0
+    [448]
+     0 int data = 0
+    [449]
+     0 int data = 0
+    [450]
+     0 int data = 0
+    [451]
+     0 int data = 0
+    [452]
+     0 int data = 0
+    [453]
+     0 int data = 0
+    [454]
+     0 int data = 0
+    [455]
+     0 int data = 0
+    [456]
+     0 int data = 0
+    [457]
+     0 int data = 0
+    [458]
+     0 int data = 0
+    [459]
+     0 int data = 0
+    [460]
+     0 int data = 0
+    [461]
+     0 int data = 0
+    [462]
+     0 int data = 0
+    [463]
+     0 int data = 0
+    [464]
+     0 int data = 0
+    [465]
+     0 int data = 0
+    [466]
+     0 int data = 0
+    [467]
+     0 int data = 0
+    [468]
+     0 int data = 0
+    [469]
+     0 int data = 0
+    [470]
+     0 int data = 0
+    [471]
+     0 int data = 0
+    [472]
+     0 int data = 0
+    [473]
+     0 int data = 0
+    [474]
+     0 int data = 0
+    [475]
+     0 int data = 0
+    [476]
+     0 int data = 0
+    [477]
+     0 int data = 0
+    [478]
+     0 int data = 0
+    [479]
+     0 int data = 0
+    [480]
+     0 int data = 0
+    [481]
+     0 int data = 0
+    [482]
+     0 int data = 0
+    [483]
+     0 int data = 0
+    [484]
+     0 int data = 0
+    [485]
+     0 int data = 0
+    [486]
+     0 int data = 0
+    [487]
+     0 int data = 0
+    [488]
+     0 int data = 0
+    [489]
+     0 int data = 0
+    [490]
+     0 int data = 0
+    [491]
+     0 int data = 0
+    [492]
+     0 int data = 0
+    [493]
+     0 int data = 0
+    [494]
+     0 int data = 0
+    [495]
+     0 int data = 0
+    [496]
+     0 int data = 0
+    [497]
+     0 int data = 0
+    [498]
+     0 int data = 0
+    [499]
+     0 int data = 0
+    [500]
+     0 int data = 0
+    [501]
+     0 int data = 0
+    [502]
+     0 int data = 0
+    [503]
+     0 int data = 0
+ 0 vector events
+  0 Array Array (168 items)
+   0 int size = 168
+   [0]
+    1 string data = "MaVolumeChange"
+   [1]
+    1 string data = "WindowClose"
+   [2]
+    1 string data = "PointerClick"
+   [3]
+    1 string data = "CanvasSetting"
+   [4]
+    1 string data = "InputEnable"
+   [5]
+    1 string data = "InputDisable"
+   [6]
+    1 string data = "ChangeScreenSize"
+   [7]
+    1 string data = "ChangeScreenMode"
+   [8]
+    1 string data = "PositionWindowTop"
+   [9]
+    1 string data = "PositionFullMode"
+   [10]
+    1 string data = "PositionWindow"
+   [11]
+    1 string data = "StatusUpdate"
+   [12]
+    1 string data = "SubTitleCreate"
+   [13]
+    1 string data = "PositionWindowHide"
+   [14]
+    1 string data = "InputSaveLoadDisable"
+   [15]
+    1 string data = "InputSaveLoadEnable"
+   [16]
+    1 string data = "SettingLoadEnd"
+   [17]
+    1 string data = "JumpUtageLabel"
+   [18]
+    1 string data = "LoadStartUtageLabel"
+   [19]
+    1 string data = "SavePointVisible"
+   [20]
+    1 string data = "SavePointInVisible"
+   [21]
+    1 string data = "StartActionCommand"
+   [22]
+    1 string data = "ResearchUpdate"
+   [23]
+    1 string data = "CautionUpdate"
+   [24]
+    1 string data = "OpenCommandDialog"
+   [25]
+    1 string data = "CommandReCalc"
+   [26]
+    1 string data = "FlagCheckStart"
+   [27]
+    1 string data = "GameProgressStart"
+   [28]
+    1 string data = "RefreshDevelopmentButton"
+   [29]
+    1 string data = "OpenDevelopment"
+   [30]
+    1 string data = "OpenStatusUp"
+   [31]
+    1 string data = "PushDevelopmentApply"
+   [32]
+    1 string data = "FlagCheckEnd"
+   [33]
+    1 string data = "StartRapeCommand"
+   [34]
+    1 string data = "ReturnStatus"
+   [35]
+    1 string data = "ExitActionCommand"
+   [36]
+    1 string data = "EnterActionCommand"
+   [37]
+    1 string data = "DiaryAiraCheckStart"
+   [38]
+    1 string data = "DiaryCheckEnd"
+   [39]
+    1 string data = "DiaryChocolateCheckStart"
+   [40]
+    1 string data = "DiaryClose"
+   [41]
+    1 string data = "DiaryOpen"
+   [42]
+    1 string data = "DiaryLizCheckStart"
+   [43]
+    1 string data = "DiaryEmmaCheckStart"
+   [44]
+    1 string data = "BackDiaryPage"
+   [45]
+    1 string data = "ChageCharacterTab"
+   [46]
+    1 string data = "NextDiaryPage"
+   [47]
+    1 string data = "DiaryCheckStart"
+   [48]
+    1 string data = "ProfileCheckEnd"
+   [49]
+    1 string data = "DiaryScenarioStart"
+   [50]
+    1 string data = "OpenActionResult"
+   [51]
+    1 string data = "OpenDevelopmentLvUp"
+   [52]
+    1 string data = "EnterDevelopmentLvUp"
+   [53]
+    1 string data = "BattleStart"
+   [54]
+    1 string data = "BattlePreStart"
+   [55]
+    1 string data = "MemberDataSetting"
+   [56]
+    1 string data = "MemberDataReset"
+   [57]
+    1 string data = "SkillButtonEnter"
+   [58]
+    1 string data = "SkillButtonExit"
+   [59]
+    1 string data = "BattleAttackStart"
+   [60]
+    1 string data = "AfterBattleJump"
+   [61]
+    1 string data = "BattleSpecialStart"
+   [62]
+    1 string data = "PlaySound"
+   [63]
+    1 string data = "BattleStart2"
+   [64]
+    1 string data = "EncounterCheck"
+   [65]
+    1 string data = "BattleRetreat"
+   [66]
+    1 string data = "BattleResultStart"
+   [67]
+    1 string data = "AfterBattleResult"
+   [68]
+    1 string data = "BattleSkillStart"
+   [69]
+    1 string data = "BattleTurnEnd"
+   [70]
+    1 string data = "BattleStatusChange"
+   [71]
+    1 string data = "BattleDefenceStart"
+   [72]
+    1 string data = "BattleEncounterVictory"
+   [73]
+    1 string data = "ScenarioResultStart"
+   [74]
+    1 string data = "ApRefresh"
+   [75]
+    1 string data = "OpenAreaLvUp"
+   [76]
+    1 string data = "StartAreaLvUp"
+   [77]
+    1 string data = "BattleHalfVictory"
+   [78]
+    1 string data = "OpenLevelUp"
+   [79]
+    1 string data = "NotificationCheckStart"
+   [80]
+    1 string data = "NotificationCheckEnd"
+   [81]
+    1 string data = "AreaNoticeCheckStart"
+   [82]
+    1 string data = "AreaNoticeCheckEnd"
+   [83]
+    1 string data = "AreaNoticeCheckEnd2"
+   [84]
+    1 string data = "TireSmokeSporn"
+   [85]
+    1 string data = "SettingAbductionGirl"
+   [86]
+    1 string data = "TireStop"
+   [87]
+    1 string data = "LootBombSpawn"
+   [88]
+    1 string data = "OdorokiStart"
+   [89]
+    1 string data = "OdorokiStart2"
+   [90]
+    1 string data = "SettingGirl"
+   [91]
+    1 string data = "ResearchBoxStart"
+   [92]
+    1 string data = "EffectSpawn"
+   [93]
+    1 string data = "EffectDeSpawn"
+   [94]
+    1 string data = "ActionAnimationStart"
+   [95]
+    1 string data = "LootAnimationStart"
+   [96]
+    1 string data = "ActionAnimationAwake"
+   [97]
+    1 string data = "ActionAnimationEnd"
+   [98]
+    1 string data = "ActionAnimationSkip"
+   [99]
+    1 string data = "EventCgStart"
+   [100]
+    1 string data = "EventCgEnd"
+   [101]
+    1 string data = "GirlSubtract"
+   [102]
+    1 string data = "EndGirlPresent"
+   [103]
+    1 string data = "StartPresentGirl"
+   [104]
+    1 string data = "StartGirlSelect"
+   [105]
+    1 string data = "SePistonNormal"
+   [106]
+    1 string data = "SeFinish"
+   [107]
+    1 string data = "RapeEnd"
+   [108]
+    1 string data = "SePistonHigh"
+   [109]
+    1 string data = "SePistonMax"
+   [110]
+    1 string data = "SeStart"
+   [111]
+    1 string data = "RapeFinishExit"
+   [112]
+    1 string data = "PistonNormalExit"
+   [113]
+    1 string data = "PistonHighExit"
+   [114]
+    1 string data = "PistonMaxExit"
+   [115]
+    1 string data = "RapeResultStart"
+   [116]
+    1 string data = "RapeRepeatExit"
+   [117]
+    1 string data = "SeFountain"
+   [118]
+    1 string data = "SpineFinishEnd"
+   [119]
+    1 string data = "ContinueUtageLabel"
+   [120]
+    1 string data = "PistonMaxStart"
+   [121]
+    1 string data = "PistonHighStart"
+   [122]
+    1 string data = "PistonNormalStart"
+   [123]
+    1 string data = "FinishStart"
+   [124]
+    1 string data = "ChartCulcStart"
+   [125]
+    1 string data = "ChartCulcEnd"
+   [126]
+    1 string data = "RapeEndStart"
+   [127]
+    1 string data = "ChartEnterMilitary"
+   [128]
+    1 string data = "NotificationCheckContinue"
+   [129]
+    1 string data = "RapeCheckEnd"
+   [130]
+    1 string data = "RapeCheckStart"
+   [131]
+    1 string data = "StartDiaryRapeCommand"
+   [132]
+    1 string data = "RapeRepeatStart"
+   [133]
+    1 string data = "EndDiaryRapeCommand"
+   [134]
+    1 string data = "PistonModeChange"
+   [135]
+    1 string data = "RapePositionChange"
+   [136]
+    1 string data = "RapeSkinChange"
+   [137]
+    1 string data = "ClickTypeSubtract"
+   [138]
+    1 string data = "ClickTypeAdd"
+   [139]
+    1 string data = "RapeManBalloon"
+   [140]
+    1 string data = "RapeStartExit"
+   [141]
+    1 string data = "EndingStart"
+   [142]
+    1 string data = "CharacterChange"
+   [143]
+    1 string data = "StartVoiceVolumeTest"
+   [144]
+    1 string data = "UtageBgmPause"
+   [145]
+    1 string data = "UtageBgmResume"
+   [146]
+    1 string data = "StartSpecialVoice"
+   [147]
+    1 string data = "VoicePistonNormal"
+   [148]
+    1 string data = "StartAbductionVoice"
+   [149]
+    1 string data = "VoicePistonHigh"
+   [150]
+    1 string data = "VoicePistonMax"
+   [151]
+    1 string data = "Finish1"
+   [152]
+    1 string data = "VoiceStart"
+   [153]
+    1 string data = "VoiceFountain"
+   [154]
+    1 string data = "VoiceRepeat"
+   [155]
+    1 string data = "StartNewGame"
+   [156]
+    1 string data = "SpriteSetting"
+   [157]
+    1 string data = "CheckMiyaCharacter"
+   [158]
+    1 string data = "VoiceFinish"
+   [159]
+    1 string data = "BattleTutorialEnd"
+   [160]
+    1 string data = "BattleBuffCalc"
+   [161]
+    1 string data = "LoadClearedScenario"
+   [162]
+    1 string data = "VoiceFinishPiston"
+   [163]
+    1 string data = "ItemMiyaCheck"
+   [164]
+    1 string data = "StatusVisible"
+   [165]
+    1 string data = "StatusInvisible"
+   [166]
+    1 string data = "CheckRapeCommand"
+   [167]
+    1 string data = "BattleBreakCheck"

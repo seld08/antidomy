@@ -1,0 +1,132 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5763
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 901
+ 1 string m_Name = ""
+ 0 PPtr<$GameObject> mPreviewObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 UnityEvent OnRedraw
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 1 UInt8 keepOrthoSize = 0
+ 1 UInt8 paperEffectText = 0
+ 1 UInt8 vRSpaceText = 0
+ 0 float vRSpaceScale = 0.100000001
+ 1 UInt8 maintainLabelSize = 0
+ 1 UInt8 autoScrollHorizontally = 0
+ 0 double horizontalScrolling = 0
+ 1 UInt8 autoScrollVertically = 0
+ 0 double verticalScrolling = 0
+ 1 UInt8 raycastTarget = 1
+ 0 UnityEvent MousePan
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 1 UInt8 horizontalPanning = 0
+ 1 UInt8 verticalPanning = 0
+ 0 float heightRatio = 5
+ 0 float widthRatio = 18.6100006
+ 0 GraphEvent PointClicked
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 GraphEvent PointHovered
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 0 UnityEvent NonHovered
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    0 Array Array (0 items)
+     0 int size = 0
+ 1 string itemFormat = "<?x>:<?y>"
+ 0 GraphData Data
+  0 double automaticVerticalViewGap = 0
+  1 UInt8 automaticVerticallView = 1
+  0 double automaticcHorizontaViewGap = 0
+  1 UInt8 automaticHorizontalView = 1
+  0 double horizontalViewSize = 10
+  0 double horizontalViewOrigin = 0
+  0 double verticalViewSize = 10
+  0 double verticalViewOrigin = 0
+  0 SerializedCategory mSerializedData
+   0 Array Array (2 items)
+    0 int size = 2
+    [0]
+     0 SerializedCategory data
+      1 string Name = "Player 1"
+      0 Vector2f InitialData
+       0 Array Array (0 items)
+        0 int size = 0
+      1 UInt8 IsBezierCurve = 0
+      0 int SegmentsPerCurve = 10
+      0 double Depth = 5.559999942779541
+      0 PPtr<$Material> Material
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+      0 MaterialTiling LineTiling
+       1 UInt8 EnableTiling = 0
+       0 float TileFactor = 0
+      0 PPtr<$FillPathGenerator> FillPrefab
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+      0 PPtr<$Material> InnerFill
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 197568495616
+      0 double LineThickness = 0
+      1 UInt8 StetchFill = 0
+      0 PPtr<$GameObject> DotPrefab
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 8041
+      0 PPtr<$Material> PointMaterial
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 50
+      0 double PointSize = 0.18000000715255737
+      0 int ViewOrder = 0
+      1 UInt8 AllowNonFunctionsBeta = 0
+    [1]
+     0 SerializedCategory data
+      1 string Name = ""
+      0 Vector2f InitialData
+       0 Array Array (0 items)
+        0 int size = 0
+      1 UInt8 IsBezierCurve = 0
+      0 int SegmentsPerCurve = 0
+      0 double Depth = 0
+      0 PPtr<$Material> Material
+       0 int m_FileID = 1071644672
+       0 SInt64 m_PathID = 0
+      0 MaterialTiling LineTiling
+       1 UInt8 EnableTiling = 8
+       0 float TileFactor = 7.3153977e+034
+      0 PPtr<$FillPathGenerator> FillPrefab
+       0 int m_FileID = 840987237
+       0 SInt64 m_PathID = 0
+      0 PPtr<$Material> InnerFill
+       0 int m_FileID = 10
+       0 SInt64 m_PathID = 4610875370730684416
+      0 double LineThickness = 0
+      1 UInt8 StetchFill = 0
+      0 PPtr<$GameObject> DotPrefab
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+      0 PPtr<$Material> PointMaterial
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+      0 double PointSize = 8.275783584764562e-313
+      0 int ViewOrder = 0
+      1 UInt8 AllowNonFunctionsBeta = 0
+ 0 PPtr<$Camera> textCamera
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 34535832027136
+ 0 float textIdleDistance = 0

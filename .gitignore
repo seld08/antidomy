@@ -1,0 +1,5 @@
+original-game/*
+!original-game/README.txt
+patched-game/*
+!patched-game/README.txt
+tools/

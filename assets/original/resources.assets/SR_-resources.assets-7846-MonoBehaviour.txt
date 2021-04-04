@@ -1,0 +1,12 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5758
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1572
+ 1 string m_Name = "SR_"
+ 0 float _retinaScale = 2
+ 0 int _thresholdDpi = 250
+ 1 UInt8 _disablePixelPerfect = 0

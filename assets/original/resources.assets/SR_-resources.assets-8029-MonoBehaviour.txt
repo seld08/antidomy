@@ -1,0 +1,20 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5646
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1471
+ 1 string m_Name = "SR_"
+ 1 UInt8 CopyMinHeight = 0
+ 1 UInt8 CopyMinWidth = 1
+ 1 UInt8 CopyPreferredHeight = 0
+ 1 UInt8 CopyPreferredWidth = 0
+ 0 PPtr<$RectTransform> CopySource
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6385
+ 0 float PaddingMinHeight = 0
+ 0 float PaddingMinWidth = 0
+ 0 float PaddingPreferredHeight = 0
+ 0 float PaddingPreferredWidth = 0

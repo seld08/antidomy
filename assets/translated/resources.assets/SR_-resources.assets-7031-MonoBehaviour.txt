@@ -1,0 +1,21 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5401
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 320
+ 1 string m_Name = "SR_"
+ 0 int m_UiScaleMode = 0
+ 0 float m_ReferencePixelsPerUnit = 100
+ 0 float m_ScaleFactor = 1
+ 0 Vector2f m_ReferenceResolution
+  0 float x = 800
+  0 float y = 600
+ 0 int m_ScreenMatchMode = 0
+ 0 float m_MatchWidthOrHeight = 1
+ 0 int m_PhysicalUnit = 3
+ 0 float m_FallbackScreenDPI = 92
+ 0 float m_DefaultSpriteDPI = 92
+ 0 float m_DynamicPixelsPerUnit = 1

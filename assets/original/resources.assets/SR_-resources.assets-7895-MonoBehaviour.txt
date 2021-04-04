@@ -1,0 +1,90 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5778
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2957
+ 1 string m_Name = "SR_"
+ 0 PPtr<$Image> Background
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 8003
+ 1 UInt8 CanCancel = 1
+ 0 PPtr<$Button> CancelButton
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7874
+ 0 PPtr<$Text> CancelButtonText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 7873
+ 0 PPtr<$CanvasGroup> CanvasGroup
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 6801
+ 0 PPtr<$Animator> DotAnimator
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5939
+ 0 vector NumberButtons
+  0 Array Array (10 items)
+   0 int size = 10
+   [0]
+    0 PPtr<$Button> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7958
+   [1]
+    0 PPtr<$Button> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7948
+   [2]
+    0 PPtr<$Button> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7918
+   [3]
+    0 PPtr<$Button> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7990
+   [4]
+    0 PPtr<$Button> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7914
+   [5]
+    0 PPtr<$Button> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7901
+   [6]
+    0 PPtr<$Button> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7986
+   [7]
+    0 PPtr<$Button> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7970
+   [8]
+    0 PPtr<$Button> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7937
+   [9]
+    0 PPtr<$Button> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7929
+ 0 vector NumberDots
+  0 Array Array (4 items)
+   0 int size = 4
+   [0]
+    0 PPtr<$Toggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7999
+   [1]
+    0 PPtr<$Toggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7996
+   [2]
+    0 PPtr<$Toggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7905
+   [3]
+    0 PPtr<$Toggle> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7992
+ 0 PPtr<$Text> PromptText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 8000

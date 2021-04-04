@@ -1,0 +1,20 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5808
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2620
+ 1 string m_Name = "SR_"
+ 0 float DecayTime = 0.150000006
+ 0 ColorRGBA DefaultColor
+  0 float r = 0.258823544
+  0 float g = 0.388235301
+  0 float b = 0.541176498
+  0 float a = 0
+ 0 ColorRGBA FlashColor
+  0 float r = 0.536764741
+  0 float g = 0.749080837
+  0 float b = 1
+  0 float a = 0.784313738

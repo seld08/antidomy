@@ -1,0 +1,12 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 5671
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 4271
+ 1 string m_Name = ""
+ 0 int JointSmoothing = 2
+ 0 float JointSize = 0.100000001
+ 0 float HeightRatio = 0.300000012
