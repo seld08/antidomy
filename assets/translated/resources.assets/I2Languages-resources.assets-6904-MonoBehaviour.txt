@@ -24,7 +24,7 @@
         [0]
          1 string data = "音量"
         [1]
-         1 string data = "音量"
+         1 string data = "Sound"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -45,7 +45,7 @@
         [0]
          1 string data = "テキストなど"
         [1]
-         1 string data = "テキストなど"
+         1 string data = "Text"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -66,7 +66,7 @@
         [0]
          1 string data = "ウィンドウ設定"
         [1]
-         1 string data = "ウィンドウ設定"
+         1 string data = "Window"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -87,7 +87,7 @@
         [0]
          1 string data = "BGM音量"
         [1]
-         1 string data = "BGM音量"
+         1 string data = "BGM Volume"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -108,7 +108,7 @@
         [0]
          1 string data = "SE音量"
         [1]
-         1 string data = "SE音量"
+         1 string data = "SE Volume"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -129,7 +129,7 @@
         [0]
          1 string data = "環境音音量"
         [1]
-         1 string data = "環境音音量"
+         1 string data = "Ambience Volume"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -150,7 +150,7 @@
         [0]
          1 string data = "テキスト速度"
         [1]
-         1 string data = "テキスト速度"
+         1 string data = "Text Speed"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -192,7 +192,7 @@
         [0]
          1 string data = "マウスホイール感度"
         [1]
-         1 string data = "マウスホイール感度"
+         1 string data = "Mouse Wheel Speed"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -213,7 +213,7 @@
         [0]
          1 string data = "スクリーンモード"
         [1]
-         1 string data = "スクリーンモード"
+         1 string data = "Screen Mode"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -234,7 +234,7 @@
         [0]
          1 string data = "ウィンドウサイズ"
         [1]
-         1 string data = "ウィンドウサイズ"
+         1 string data = "Window Size"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -255,7 +255,7 @@
         [0]
          1 string data = "ウィンドウ"
         [1]
-         1 string data = "ウィンドウ"
+         1 string data = "Windowed"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -276,7 +276,7 @@
         [0]
          1 string data = "フルスクリーン"
         [1]
-         1 string data = "フルスクリーン"
+         1 string data = "Fullscreen"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -297,7 +297,7 @@
         [0]
          1 string data = "戦闘バランス"
         [1]
-         1 string data = "戦闘バランス"
+         1 string data = "Battle Difficulty"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -318,7 +318,7 @@
         [0]
          1 string data = "ゲームを開始しますか？"
         [1]
-         1 string data = "ゲームを開始しますか？"
+         1 string data = "Start new game?"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -339,7 +339,7 @@
         [0]
          1 string data = "データをセーブしますか？"
         [1]
-         1 string data = "データをセーブしますか？"
+         1 string data = "Save data in this slot?"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -360,7 +360,7 @@
         [0]
          1 string data = "データをロードしますか？"
         [1]
-         1 string data = "データをロードしますか？"
+         1 string data = "Do you want to load this save file?"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -381,7 +381,7 @@
         [0]
          1 string data = "ゲームを終了しますか？"
         [1]
-         1 string data = "ゲームを終了しますか？"
+         1 string data = "Do you want to quit the game?"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2082,7 +2082,7 @@
         [0]
          1 string data = "活動"
         [1]
-         1 string data = "活動"
+         1 string data = "Activities"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2103,7 +2103,7 @@
         [0]
          1 string data = "凌辱"
         [1]
-         1 string data = "凌辱"
+         1 string data = "Rape"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2124,7 +2124,7 @@
         [0]
          1 string data = "開発"
         [1]
-         1 string data = "開発"
+         1 string data = "Research"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2145,7 +2145,7 @@
         [0]
          1 string data = "作戦"
         [1]
-         1 string data = "作戦"
+         1 string data = "Missions"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2187,7 +2187,7 @@
         [0]
          1 string data = "メニュー"
         [1]
-         1 string data = "メニュー"
+         1 string data = "Menu"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2208,7 +2208,7 @@
         [0]
          1 string data = "研究記録"
         [1]
-         1 string data = "研究記録"
+         1 string data = "Research Diary"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2229,7 +2229,7 @@
         [0]
          1 string data = "BGM変更"
         [1]
-         1 string data = "BGM変更"
+         1 string data = "Change BGM"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2250,7 +2250,7 @@
         [0]
          1 string data = "キャラ変更"
         [1]
-         1 string data = "キャラ変更"
+         1 string data = "Change Character"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2271,7 +2271,7 @@
         [0]
          1 string data = "セーブ"
         [1]
-         1 string data = "セーブ"
+         1 string data = "Save"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2292,7 +2292,7 @@
         [0]
          1 string data = "ロード"
         [1]
-         1 string data = "ロード"
+         1 string data = "Load"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2313,7 +2313,7 @@
         [0]
          1 string data = "環境設定"
         [1]
-         1 string data = "環境設定"
+         1 string data = "Settings"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2334,7 +2334,7 @@
         [0]
          1 string data = "閉じる"
         [1]
-         1 string data = "閉じる"
+         1 string data = "Close"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2355,7 +2355,7 @@
         [0]
          1 string data = "ゲーム終了"
         [1]
-         1 string data = "ゲーム終了"
+         1 string data = "Quit Game"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2523,7 +2523,7 @@
         [0]
          1 string data = "キャンセル"
         [1]
-         1 string data = "キャンセル"
+         1 string data = "Cancel"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -2586,7 +2586,7 @@
         [0]
          1 string data = "作戦開始"
         [1]
-         1 string data = "作戦開始"
+         1 string data = "Start"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -3447,7 +3447,7 @@
         [0]
          1 string data = "資金力"
         [1]
-         1 string data = "資金力"
+         1 string data = "Money"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -3468,7 +3468,7 @@
         [0]
          1 string data = "政治力"
         [1]
-         1 string data = "政治力"
+         1 string data = "Political Influence"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -3489,7 +3489,7 @@
         [0]
          1 string data = "軍事力"
         [1]
-         1 string data = "軍事力"
+         1 string data = "Military Strength"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -3510,7 +3510,7 @@
         [0]
          1 string data = "構成員数"
         [1]
-         1 string data = "構成員数"
+         1 string data = "Manpower"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -3531,7 +3531,7 @@
         [0]
          1 string data = "開発力"
         [1]
-         1 string data = "開発力"
+         1 string data = "Research Capability"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -4266,7 +4266,7 @@
         [0]
          1 string data = "カナデ"
         [1]
-         1 string data = "カナデ"
+         1 string data = "Kanade"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -4287,7 +4287,7 @@
         [0]
          1 string data = "ミヤ"
         [1]
-         1 string data = "ミヤ"
+         1 string data = "Miya"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -4308,7 +4308,7 @@
         [0]
          1 string data = "シロコ"
         [1]
-         1 string data = "シロコ"
+         1 string data = "Shiroko"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -4329,7 +4329,7 @@
         [0]
          1 string data = "リーリス"
         [1]
-         1 string data = "リーリス"
+         1 string data = "Lilith"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
@@ -4350,7 +4350,7 @@
         [0]
          1 string data = "その他"
         [1]
-         1 string data = "その他"
+         1 string data = "Other"
       1 vector Flags
        0 Array Array (2 items)
         0 int size = 2
